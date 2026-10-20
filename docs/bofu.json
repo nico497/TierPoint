@@ -1,0 +1,1462 @@
+{
+ "meta": {
+  "title": "Bottom-of-funnel content tracker",
+  "niche": "Data center colocation, hybrid IT infrastructure, cloud and managed services",
+  "you": "TierPoint",
+  "generated": "2026-10-20T01:01:18+00:00",
+  "state_updated": "2026-10-20T00:50:15+00:00",
+  "repo": "nico497/TierPoint"
+ },
+ "types": [
+  [
+   "vs_you",
+   "Us vs. them"
+  ],
+  [
+   "alt",
+   "Alternatives"
+  ],
+  [
+   "switch",
+   "Switching and migration"
+  ],
+  [
+   "pricing",
+   "Rival pricing breakdowns"
+  ],
+  [
+   "vs_rivals",
+   "Rival vs. rival"
+  ],
+  [
+   "best",
+   "Best-of and roundups"
+  ],
+  [
+   "case",
+   "Case and customer stories"
+  ]
+ ],
+ "sites": [
+  {
+   "name": "TierPoint",
+   "tracked": 784,
+   "considered": 590,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "Equinix",
+   "tracked": 0,
+   "considered": 0,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "Digital Realty",
+   "tracked": 1819,
+   "considered": 736,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "Flexential",
+   "tracked": 826,
+   "considered": 825,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "Rackspace Technology",
+   "tracked": 10,
+   "considered": 10,
+   "own_pricing": null,
+   "hubs": []
+  },
+  {
+   "name": "CoreSite",
+   "tracked": 760,
+   "considered": 625,
+   "own_pricing": null,
+   "hubs": [
+    "https://www.coresite.com/customer-stories"
+   ]
+  },
+  {
+   "name": "Expedient",
+   "tracked": 1766,
+   "considered": 634,
+   "own_pricing": null,
+   "hubs": []
+  }
+ ],
+ "vendors": [
+  "Equinix",
+  "Digital Realty",
+  "Flexential",
+  "Rackspace Technology",
+  "CoreSite",
+  "Expedient",
+  "TierPoint",
+  "Cyxtera",
+  "Sungard AS",
+  "INAP",
+  "Involta",
+  "NTT Global Data Centers",
+  "Vantage Data Centers",
+  "Cologix",
+  "DataBank",
+  "Evocative",
+  "Aligned Data Centers"
+ ],
+ "excluded": {
+  "webinars, glossary, events and category pages": 172,
+  "templated pages": 2373
+ },
+ "pages": [
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/air-shipment-firm/",
+   "path": "/success-stories/air-shipment-firm",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/american-customer-care-selects-tierpoint/",
+   "path": "/success-stories/american-customer-care-selects-tierpoint",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/aspiranet/",
+   "path": "/success-stories/aspiranet",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/bancfirst/",
+   "path": "/success-stories/bancfirst",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/boosteroid/",
+   "path": "/success-stories/boosteroid",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/central-valley-school-district-migrates-tierpoint/",
+   "path": "/success-stories/central-valley-school-district-migrates-tierpoint",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/children-of-america/",
+   "path": "/success-stories/children-of-america",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/cic/",
+   "path": "/success-stories/cic",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/data443/",
+   "path": "/success-stories/data443",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/delek/",
+   "path": "/success-stories/delek",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/dental-associates-stays-compliant-and-secure-with-disaster-recovery-solutions/",
+   "path": "/success-stories/dental-associates-stays-compliant-and-secure-with-disaster-recovery-solutions",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/dtw/",
+   "path": "/success-stories/dtw",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/energy-trading-company/",
+   "path": "/success-stories/energy-trading-company",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/financial-services/",
+   "path": "/success-stories/financial-services",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/first-assembly-of-god/",
+   "path": "/success-stories/first-assembly-of-god",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/gatesway-foundation-makes-leap-to-cloud-hosted-erp/",
+   "path": "/success-stories/gatesway-foundation-makes-leap-to-cloud-hosted-erp",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/global-corporate-travel-manager-extends-its-reach-through-migration-consolidation-to-tierpoint/",
+   "path": "/success-stories/global-corporate-travel-manager-extends-its-reach-through-migration-consolidation-to-tierpoint",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/groq/",
+   "path": "/success-stories/groq",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/home-asap/",
+   "path": "/success-stories/home-asap",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/ims-integration/",
+   "path": "/success-stories/ims-integration",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/jw-software/",
+   "path": "/success-stories/jw-software",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/lacerta/",
+   "path": "/success-stories/lacerta",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/latro/",
+   "path": "/success-stories/latro",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/laz-parking/",
+   "path": "/success-stories/laz-parking",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/long-island/",
+   "path": "/success-stories/long-island",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/manufacturing-company/",
+   "path": "/success-stories/manufacturing-company",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/maryland-department-information-technology/",
+   "path": "/success-stories/maryland-department-information-technology",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/mediaradar/",
+   "path": "/success-stories/mediaradar",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/mls-pin/",
+   "path": "/success-stories/mls-pin",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/new-england-life-care/",
+   "path": "/success-stories/new-england-life-care",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/northeastern-healthcare/",
+   "path": "/success-stories/northeastern-healthcare",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/payment-solution-company/",
+   "path": "/success-stories/payment-solution-company",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/pcc-community-markets/",
+   "path": "/success-stories/pcc-community-markets",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/rapa/",
+   "path": "/success-stories/rapa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/rms-uses-hybrid-cloud-and-draas-to-improve-performance-and-reliability/",
+   "path": "/success-stories/rms-uses-hybrid-cloud-and-draas-to-improve-performance-and-reliability",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/royal-brass-hose/",
+   "path": "/success-stories/royal-brass-hose",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/saas-procurement-company/",
+   "path": "/success-stories/saas-procurement-company",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/shepherd-electric/",
+   "path": "/success-stories/shepherd-electric",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/simon-roofing/",
+   "path": "/success-stories/simon-roofing",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/southeastern-insurance/",
+   "path": "/success-stories/southeastern-insurance",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/spjst/",
+   "path": "/success-stories/spjst",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/tigunia/",
+   "path": "/success-stories/tigunia",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/tote/",
+   "path": "/success-stories/tote",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/touro-dental-college-goes-digital/",
+   "path": "/success-stories/touro-dental-college-goes-digital",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/trailer-rental-company/",
+   "path": "/success-stories/trailer-rental-company",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/turning-point/",
+   "path": "/success-stories/turning-point",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/vallen/",
+   "path": "/success-stories/vallen",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/success-stories/zog-delivers-enterprise-level-service/",
+   "path": "/success-stories/zog-delivers-enterprise-level-service",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/adobe",
+   "path": "/resources/case-studies/adobe",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/amaris",
+   "path": "/resources/case-studies/amaris",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/ams-ix",
+   "path": "/resources/case-studies/ams-ix",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/anexia",
+   "path": "/resources/case-studies/anexia",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/assu-2000",
+   "path": "/resources/case-studies/assu-2000",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/att",
+   "path": "/resources/case-studies/att",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/avelacom",
+   "path": "/resources/case-studies/avelacom",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/bridgepointe-technologies",
+   "path": "/resources/case-studies/bridgepointe-technologies",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/cbre",
+   "path": "/resources/case-studies/cbre",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/cdn77",
+   "path": "/resources/case-studies/cdn77",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/chill-insurance-and-interxion-ireland-data-centres",
+   "path": "/resources/case-studies/chill-insurance-and-interxion-ireland-data-centres",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/crusoe",
+   "path": "/resources/case-studies/crusoe",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/decix1",
+   "path": "/resources/case-studies/decix1",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/decix2",
+   "path": "/resources/case-studies/decix2",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/dense-connectivity-drives-optimised-user-experience-for-shadow",
+   "path": "/resources/case-studies/dense-connectivity-drives-optimised-user-experience-for-shadow",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/digital-ocean",
+   "path": "/resources/case-studies/digital-ocean",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/equiduct",
+   "path": "/resources/case-studies/equiduct",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/fidesmo",
+   "path": "/resources/case-studies/fidesmo",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/fifosys",
+   "path": "/resources/case-studies/fifosys",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/financial-services-risk-calculation-liquid-cooling",
+   "path": "/resources/case-studies/financial-services-risk-calculation-liquid-cooling",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/fiz",
+   "path": "/resources/case-studies/fiz",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/flatex",
+   "path": "/resources/case-studies/flatex",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/fuga",
+   "path": "/resources/case-studies/fuga",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/gcore",
+   "path": "/resources/case-studies/gcore",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/geyser-data",
+   "path": "/resources/case-studies/geyser-data",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/grupo-anaya-oracle-solution",
+   "path": "/resources/case-studies/grupo-anaya-oracle-solution",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/hostinger",
+   "path": "/resources/case-studies/hostinger",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/ibm-cloud",
+   "path": "/resources/case-studies/ibm-cloud",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/internap",
+   "path": "/resources/case-studies/internap",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/jina-ai",
+   "path": "/resources/case-studies/jina-ai",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/join-digital",
+   "path": "/resources/case-studies/join-digital",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/kakao-bank",
+   "path": "/resources/case-studies/kakao-bank",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/macnica-ai-innovation",
+   "path": "/resources/case-studies/macnica-ai-innovation",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/mavenir",
+   "path": "/resources/case-studies/mavenir",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/minds-machines",
+   "path": "/resources/case-studies/minds-machines",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/mobitv",
+   "path": "/resources/case-studies/mobitv",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/nasdaq",
+   "path": "/resources/case-studies/nasdaq",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/netapp",
+   "path": "/resources/case-studies/netapp",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/next-layer",
+   "path": "/resources/case-studies/next-layer",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/rackspace-ams-ix",
+   "path": "/resources/case-studies/rackspace-ams-ix",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/resources/case-studies/codero-hosting",
+   "path": "/resources/case-studies/resources/case-studies/codero-hosting",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/sap",
+   "path": "/resources/case-studies/sap",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/saxo-bank",
+   "path": "/resources/case-studies/saxo-bank",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/solvinity",
+   "path": "/resources/case-studies/solvinity",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/starling-bank",
+   "path": "/resources/case-studies/starling-bank",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/sumup",
+   "path": "/resources/case-studies/sumup",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/t-systems",
+   "path": "/resources/case-studies/t-systems",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/telefonica-uk",
+   "path": "/resources/case-studies/telefonica-uk",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/tig",
+   "path": "/resources/case-studies/tig",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/utimaco",
+   "path": "/resources/case-studies/utimaco",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/vienna-internet-exchange",
+   "path": "/resources/case-studies/vienna-internet-exchange",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/welltel",
+   "path": "/resources/case-studies/welltel",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/xtreme-d",
+   "path": "/resources/case-studies/xtreme-d",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/zayo",
+   "path": "/resources/case-studies/zayo",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story",
+   "path": "/resources/customer-story",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/american-residential-services",
+   "path": "/resources/customer-story/american-residential-services",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/ar-logisitics",
+   "path": "/resources/customer-story/ar-logisitics",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/astech",
+   "path": "/resources/customer-story/astech",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/atlas-professional-services",
+   "path": "/resources/customer-story/atlas-professional-services",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/autonation",
+   "path": "/resources/customer-story/autonation",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/avi-spl",
+   "path": "/resources/customer-story/avi-spl",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/barnes-healthcare-services",
+   "path": "/resources/customer-story/barnes-healthcare-services",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/bass-berry-sims",
+   "path": "/resources/customer-story/bass-berry-sims",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/bridge-healthcare-partners",
+   "path": "/resources/customer-story/bridge-healthcare-partners",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/connectbase",
+   "path": "/resources/customer-story/connectbase",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/copytalk",
+   "path": "/resources/customer-story/copytalk",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/credit-union-colorado",
+   "path": "/resources/customer-story/credit-union-colorado",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/digitalocean",
+   "path": "/resources/customer-story/digitalocean",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/employers-council",
+   "path": "/resources/customer-story/employers-council",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/enstructure",
+   "path": "/resources/customer-story/enstructure",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/first-financial-bank",
+   "path": "/resources/customer-story/first-financial-bank",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/floyd-medical-center",
+   "path": "/resources/customer-story/floyd-medical-center",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/forcht-bank",
+   "path": "/resources/customer-story/forcht-bank",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/gerimed",
+   "path": "/resources/customer-story/gerimed",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/globalstar",
+   "path": "/resources/customer-story/globalstar",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/goodwill-industries-kentucky",
+   "path": "/resources/customer-story/goodwill-industries-kentucky",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/grayrobinson-pa",
+   "path": "/resources/customer-story/grayrobinson-pa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/healthtrio",
+   "path": "/resources/customer-story/healthtrio",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/heart-heart-hospice",
+   "path": "/resources/customer-story/heart-heart-hospice",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/innovative-colocation-strategy",
+   "path": "/resources/customer-story/innovative-colocation-strategy",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/jefferson-county-clerks-office",
+   "path": "/resources/customer-story/jefferson-county-clerks-office",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/lonestar",
+   "path": "/resources/customer-story/lonestar",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/medianews-group",
+   "path": "/resources/customer-story/medianews-group",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/mental-health-center-denver",
+   "path": "/resources/customer-story/mental-health-center-denver",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/metropolitan-software",
+   "path": "/resources/customer-story/metropolitan-software",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/mountain-america-credit-union",
+   "path": "/resources/customer-story/mountain-america-credit-union",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/nolan-transportation-group-ntg",
+   "path": "/resources/customer-story/nolan-transportation-group-ntg",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/offering-real-time-technology-demonstrations-speed-go-market-time",
+   "path": "/resources/customer-story/offering-real-time-technology-demonstrations-speed-go-market-time",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/oil-gas-company",
+   "path": "/resources/customer-story/oil-gas-company",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/onyx-centersource",
+   "path": "/resources/customer-story/onyx-centersource",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/paperwise",
+   "path": "/resources/customer-story/paperwise",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/passtime",
+   "path": "/resources/customer-story/passtime",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/petrochoice",
+   "path": "/resources/customer-story/petrochoice",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/positrak",
+   "path": "/resources/customer-story/positrak",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/promach",
+   "path": "/resources/customer-story/promach",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/tcw",
+   "path": "/resources/customer-story/tcw",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/us-lbm",
+   "path": "/resources/customer-story/us-lbm",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/vector-choice-technology-solutions",
+   "path": "/resources/customer-story/vector-choice-technology-solutions",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/wasabi",
+   "path": "/resources/customer-story/wasabi",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/customer-story/webtpa",
+   "path": "/resources/customer-story/webtpa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/blog/hurricane-irma-a-case-study-in-readiness",
+   "path": "/blog/hurricane-irma-a-case-study-in-readiness",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/blog/hybrid-cloud-case-study-a-day-in-the-life-of-it",
+   "path": "/blog/hybrid-cloud-case-study-a-day-in-the-life-of-it",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/blog/real-world-outcomes-customer-stories-in-cloud-data-storage-cybersecurity-and-colocation",
+   "path": "/blog/real-world-outcomes-customer-stories-in-cloud-data-storage-cybersecurity-and-colocation",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/arcadian",
+   "path": "/customer-stories/arcadian",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/architecting-unified-experiences-from-cloud-migration-to-cybersecurity-for-enterprise-clients",
+   "path": "/customer-stories/architecting-unified-experiences-from-cloud-migration-to-cybersecurity-for-enterprise-clients",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/autonomous-vehicle-platform",
+   "path": "/customer-stories/autonomous-vehicle-platform",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/building-lives-that-work",
+   "path": "/customer-stories/building-lives-that-work",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/building-quality-homes-for-any-lifestyle-or-budget",
+   "path": "/customer-stories/building-quality-homes-for-any-lifestyle-or-budget",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/building-winning-it-strategies-for-small-and-medium-sized-businesses",
+   "path": "/customer-stories/building-winning-it-strategies-for-small-and-medium-sized-businesses",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/delivering-an-open-cloud-platform-with-full-control",
+   "path": "/customer-stories/delivering-an-open-cloud-platform-with-full-control",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/delivering-infrastructure-that-enables-intense-ai-ml-workloads",
+   "path": "/customer-stories/delivering-infrastructure-that-enables-intense-ai-ml-workloads",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/delivering-premier-telecommunications-and-internet-services-to-large-enterprises-and-government-entities",
+   "path": "/customer-stories/delivering-premier-telecommunications-and-internet-services-to-large-enterprises-and-government-entities",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/elevating-compliance-driven-enterprises-with-unmatched-it-resilience",
+   "path": "/customer-stories/elevating-compliance-driven-enterprises-with-unmatched-it-resilience",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/enabling-low-cost-always-available-telecommunication-platforms",
+   "path": "/customer-stories/enabling-low-cost-always-available-telecommunication-platforms",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/enabling-real-time-collaboration-on-large-digital-files-for-media-and-entertainment-industry",
+   "path": "/customer-stories/enabling-real-time-collaboration-on-large-digital-files-for-media-and-entertainment-industry",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/ensuring-the-lowest-latency-connections-across-asia-pacific",
+   "path": "/customer-stories/ensuring-the-lowest-latency-connections-across-asia-pacific",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/financial-services-provider",
+   "path": "/customer-stories/financial-services-provider",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/financial-software-platform",
+   "path": "/customer-stories/financial-software-platform",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/higher-education-institution",
+   "path": "/customer-stories/higher-education-institution",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/media-entertainment-provider",
+   "path": "/customer-stories/media-entertainment-provider",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/mlb-network",
+   "path": "/customer-stories/mlb-network",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/navigating-the-global-securities-market-with-technology-driven-trading",
+   "path": "/customer-stories/navigating-the-global-securities-market-with-technology-driven-trading",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/network-services-company",
+   "path": "/customer-stories/network-services-company",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/new-server-enables-enterprises-to-deploy-hyperscale-grade-cloud-infrastructure-on-premises-and-in-colocation",
+   "path": "/customer-stories/new-server-enables-enterprises-to-deploy-hyperscale-grade-cloud-infrastructure-on-premises-and-in-colocation",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/online-gaming-platform",
+   "path": "/customer-stories/online-gaming-platform",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/oxio",
+   "path": "/customer-stories/oxio",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/paul-hastings",
+   "path": "/customer-stories/paul-hastings",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/providing-cloud-data-storage-and-replication-at-a-fifth-of-the-cost-of-legacy-cloud-providers",
+   "path": "/customer-stories/providing-cloud-data-storage-and-replication-at-a-fifth-of-the-cost-of-legacy-cloud-providers",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/providing-sales-teams-with-on-demand-access-to-marketing-assets",
+   "path": "/customer-stories/providing-sales-teams-with-on-demand-access-to-marketing-assets",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/railway",
+   "path": "/customer-stories/railway",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/real-time-cyber-threat-detection-platform-leverages-ai-ml-to-reduce-risk-and-improve-security",
+   "path": "/customer-stories/real-time-cyber-threat-detection-platform-leverages-ai-ml-to-reduce-risk-and-improve-security",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/retail-company",
+   "path": "/customer-stories/retail-company",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/seamless-online-remote-banking-provides-unrivaled-customer-experience-and-service-support",
+   "path": "/customer-stories/seamless-online-remote-banking-provides-unrivaled-customer-experience-and-service-support",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/supplyframe",
+   "path": "/customer-stories/supplyframe",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/supporting-diverse-clients-in-their-digital-transformations",
+   "path": "/customer-stories/supporting-diverse-clients-in-their-digital-transformations",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/supporting-mission-critical-initiatives-for-the-federal-government",
+   "path": "/customer-stories/supporting-mission-critical-initiatives-for-the-federal-government",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/supporting-organizations-complex-it-challenges",
+   "path": "/customer-stories/supporting-organizations-complex-it-challenges",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/technology-solutions-provider-enables-clients-to-focus-on-their-own-businesses-rather-than-it-infrastructure",
+   "path": "/customer-stories/technology-solutions-provider-enables-clients-to-focus-on-their-own-businesses-rather-than-it-infrastructure",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/telco-and-internet-service-provider-accelerates-time-to-market-strengthens-application-performance",
+   "path": "/customer-stories/telco-and-internet-service-provider-accelerates-time-to-market-strengthens-application-performance",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/towardex",
+   "path": "/customer-stories/towardex",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/verizon",
+   "path": "/customer-stories/verizon",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/voxility",
+   "path": "/customer-stories/voxility",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/customer-stories/wish",
+   "path": "/customer-stories/wish",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Expedient",
+   "url": "https://expedient.com/case-study-template/",
+   "path": "/case-study-template",
+   "type": "case",
+   "targets": []
+  }
+ ]
+}
