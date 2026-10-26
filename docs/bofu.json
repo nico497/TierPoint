@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Data center colocation, hybrid IT infrastructure, cloud and managed services",
   "you": "TierPoint",
-  "generated": "2026-10-20T01:01:18+00:00",
+  "generated": "2026-10-26T13:28:11+00:00",
   "state_updated": "2026-10-20T00:50:15+00:00",
   "repo": "nico497/TierPoint"
  },
@@ -40,8 +40,8 @@
  "sites": [
   {
    "name": "TierPoint",
-   "tracked": 784,
-   "considered": 590,
+   "tracked": 787,
+   "considered": 592,
    "own_pricing": null,
    "hubs": []
   },
@@ -68,8 +68,8 @@
   },
   {
    "name": "Rackspace Technology",
-   "tracked": 10,
-   "considered": 10,
+   "tracked": 12556,
+   "considered": 5130,
    "own_pricing": null,
    "hubs": []
   },
@@ -111,7 +111,8 @@
  ],
  "excluded": {
   "webinars, glossary, events and category pages": 172,
-  "templated pages": 2373
+  "templated pages": 2754,
+  "translated pages": 7046
  },
  "pages": [
   {
@@ -1147,6 +1148,48 @@
    "site": "Flexential",
    "url": "https://www.flexential.com/resources/customer-story/webtpa",
    "path": "/resources/customer-story/webtpa",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/blog/nana-direct-case-study-google-cloud",
+   "path": "/blog/nana-direct-case-study-google-cloud",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-hk/blog/nana-direct-case-study-google-cloud",
+   "path": "/en-hk/blog/nana-direct-case-study-google-cloud",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-in/blog/nana-direct-case-study-google-cloud",
+   "path": "/en-in/blog/nana-direct-case-study-google-cloud",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-nl/blog/nana-direct-case-study-google-cloud",
+   "path": "/en-nl/blog/nana-direct-case-study-google-cloud",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-ph/blog/nana-direct-case-study-google-cloud",
+   "path": "/en-ph/blog/nana-direct-case-study-google-cloud",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-sg/blog/nana-direct-case-study-google-cloud",
+   "path": "/en-sg/blog/nana-direct-case-study-google-cloud",
    "type": "case",
    "targets": []
   },
