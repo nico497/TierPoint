@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Data center colocation, hybrid IT infrastructure, cloud and managed services",
   "you": "TierPoint",
-  "generated": "2026-10-26T13:28:11+00:00",
+  "generated": "2026-11-02T16:14:29+00:00",
   "state_updated": "2026-10-20T00:50:15+00:00",
   "repo": "nico497/TierPoint"
  },
@@ -40,8 +40,8 @@
  "sites": [
   {
    "name": "TierPoint",
-   "tracked": 787,
-   "considered": 592,
+   "tracked": 788,
+   "considered": 593,
    "own_pricing": null,
    "hubs": []
   },
@@ -54,29 +54,29 @@
   },
   {
    "name": "Digital Realty",
-   "tracked": 1819,
-   "considered": 736,
+   "tracked": 1824,
+   "considered": 740,
    "own_pricing": null,
    "hubs": []
   },
   {
    "name": "Flexential",
-   "tracked": 826,
-   "considered": 825,
+   "tracked": 828,
+   "considered": 827,
    "own_pricing": null,
    "hubs": []
   },
   {
    "name": "Rackspace Technology",
-   "tracked": 12556,
-   "considered": 5130,
+   "tracked": 12627,
+   "considered": 5160,
    "own_pricing": null,
    "hubs": []
   },
   {
    "name": "CoreSite",
-   "tracked": 760,
-   "considered": 625,
+   "tracked": 762,
+   "considered": 627,
    "own_pricing": null,
    "hubs": [
     "https://www.coresite.com/customer-stories"
@@ -84,8 +84,8 @@
   },
   {
    "name": "Expedient",
-   "tracked": 1766,
-   "considered": 634,
+   "tracked": 1771,
+   "considered": 635,
    "own_pricing": null,
    "hubs": []
   }
@@ -110,9 +110,9 @@
   "Aligned Data Centers"
  ],
  "excluded": {
-  "webinars, glossary, events and category pages": 172,
-  "templated pages": 2754,
-  "translated pages": 7046
+  "webinars, glossary, events and category pages": 173,
+  "templated pages": 2759,
+  "translated pages": 7086
  },
  "pages": [
   {
