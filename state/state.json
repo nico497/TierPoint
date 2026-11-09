@@ -48,7 +48,7 @@
    "pub": "2026-08-04T17:42:37+00:00",
    "mod": "2026-09-01T21:22:37+00:00",
    "fp": "f42d266128106f18",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "updated",
    "event": "2026-09-01T21:22:37+00:00"
   },
@@ -3518,7 +3518,7 @@
    "pub": "2024-01-15T20:33:47+00:00",
    "mod": "2026-10-16T04:10:53+00:00",
    "fp": "400d6b1f7bb4a332",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "updated",
    "event": "2026-10-16T04:10:53+00:00",
    "bulk_pub": false,
@@ -3729,7 +3729,7 @@
    "pub": "2026-08-04T18:38:53+00:00",
    "mod": "2026-10-07T16:09:21+00:00",
    "fp": "369331efe1953961",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "updated",
    "event": "2026-10-07T16:09:21+00:00",
    "bulk_pub": false,
@@ -3834,7 +3834,7 @@
    "pub": "2022-05-13T15:34:39+00:00",
    "mod": "2026-10-01T21:40:16+00:00",
    "fp": "ccaf5e76bc49503f",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "bulk",
    "event": "2022-05-13T15:34:39+00:00",
    "bulk_pub": true,
@@ -3872,7 +3872,7 @@
    "url": "https://www.tierpoint.com/services/data-center-services/colocation-services/",
    "title": "Colocation | TierPoint, LLC",
    "date": "2026-09-24T20:31:33+00:00",
-   "lastmod": "2026-09-24T20:31:33+00:00",
+   "lastmod": "2026-11-03T15:35:35+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": true,
@@ -3886,12 +3886,13 @@
    "prog": null,
    "pub": "2024-05-10T21:16:10+00:00",
    "mod": "2026-09-24T20:31:33+00:00",
-   "fp": "df5cd3727713c88d",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "fp": "bd70438320c18f2d",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "updated",
-   "event": "2026-09-24T20:31:33+00:00",
+   "event": "2026-11-09T16:28:00+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "tierpoint.com/data-centers/pennsylvania/valley-forge": {
    "site": "TierPoint",
@@ -3992,7 +3993,7 @@
    "pub": "2022-05-13T15:43:45+00:00",
    "mod": "2026-09-03T07:45:19+00:00",
    "fp": "1bccc9f857e7cac3",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "bulk",
    "event": "2022-05-13T15:43:45+00:00",
    "bulk_pub": true,
@@ -4100,7 +4101,7 @@
    "pub": "2022-05-13T15:41:53+00:00",
    "mod": "2026-09-03T07:35:26+00:00",
    "fp": "9a2fcb0d8512d706",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "bulk",
    "event": "2022-05-13T15:41:53+00:00",
    "bulk_pub": true,
@@ -4154,7 +4155,7 @@
    "pub": "2022-05-13T15:40:43+00:00",
    "mod": "2026-09-03T07:25:31+00:00",
    "fp": "51bdf59dcedb57b0",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "bulk",
    "event": "2022-05-13T15:40:43+00:00",
    "bulk_pub": true,
@@ -4316,7 +4317,7 @@
    "pub": "2022-05-13T15:31:18+00:00",
    "mod": "2026-09-03T07:13:27+00:00",
    "fp": "3e4cf343f82a3e60",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "bulk",
    "event": "2022-05-13T15:31:18+00:00",
    "bulk_pub": true,
@@ -4535,7 +4536,7 @@
    "pub": "2022-05-13T15:17:08+00:00",
    "mod": "2026-09-03T06:52:13+00:00",
    "fp": "7662b620a2de8b3f",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "bulk",
    "event": "2022-05-13T15:17:08+00:00",
    "bulk_type": "launch"
@@ -4562,7 +4563,7 @@
    "pub": "2024-08-13T13:57:40+00:00",
    "mod": "2026-09-03T06:49:59+00:00",
    "fp": "875224287dfe7a21",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "bulk",
    "event": "2026-09-03T06:49:59+00:00",
    "bulk_type": "edit"
@@ -4616,7 +4617,7 @@
    "pub": "2022-05-13T15:13:52+00:00",
    "mod": "2026-09-03T06:46:07+00:00",
    "fp": "0f5f06202ac9e625",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "bulk",
    "event": "2022-05-13T15:13:52+00:00",
    "bulk_type": "launch"
@@ -4778,7 +4779,7 @@
    "pub": "2022-05-13T14:57:51+00:00",
    "mod": "2026-09-03T06:25:47+00:00",
    "fp": "d7b6b2fb85130de0",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "bulk",
    "event": "2022-05-13T14:57:51+00:00",
    "bulk_type": "launch"
@@ -4832,7 +4833,7 @@
    "pub": "2022-05-13T14:56:20+00:00",
    "mod": "2026-09-03T06:11:18+00:00",
    "fp": "f53108b81520d9c0",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "bulk",
    "event": "2022-05-13T14:56:20+00:00",
    "bulk_type": "launch"
@@ -4913,7 +4914,7 @@
    "pub": "2022-05-06T14:37:30+00:00",
    "mod": "2026-09-02T18:01:38+00:00",
    "fp": "59cae210f97135a5",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "updated",
    "event": "2026-09-02T18:01:38+00:00"
   },
@@ -4933,11 +4934,18 @@
   "tierpoint.com/about-us/sustainability": {
    "site": "TierPoint",
    "url": "https://www.tierpoint.com/about-us/sustainability/",
-   "title": "Sustainability",
+   "title": "Sustainability Initiatives",
    "date": "2026-10-29T15:35:04+00:00",
    "lastmod": "2026-10-29T15:35:04+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "comparing",
+    "topic": "sustainability practices data center",
+    "search": "sustainable data center colocation",
+    "why": "Demonstrates ESG commitment and green credentials to environmentally-conscious enterprise buyers."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -4945,7 +4953,7 @@
    "pub": "2023-04-14T13:59:32+00:00",
    "mod": "2026-10-29T15:35:04+00:00",
    "fp": "f2b2163ed8c66571",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "updated",
    "event": "2026-10-29T15:35:04+00:00"
   },
@@ -6692,7 +6700,7 @@
    "pub": "2026-10-02T15:50:24+00:00",
    "mod": "2026-10-02T16:54:26+00:00",
    "fp": "5b80d6bf9fe40884",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "new",
    "event": "2026-10-02T15:50:24+00:00",
    "bulk_pub": false,
@@ -10188,7 +10196,7 @@
    "pub": "2026-09-09T22:36:15+00:00",
    "mod": "2026-09-10T21:53:13+00:00",
    "fp": "b1d30cdaa53591b7",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-09-09T22:36:15+00:00",
    "bulk_pub": false,
@@ -10214,7 +10222,7 @@
    "pub": "2026-05-08T03:18:07+00:00",
    "mod": "2026-09-09T15:50:26+00:00",
    "fp": "8d187539e77ca5ca",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "updated",
    "event": "2026-09-09T15:50:26+00:00",
    "bulk_pub": false,
@@ -11028,15 +11036,28 @@
   "digitalrealty.com/resources/blog/how-enterprises-will-scale-ai-in-2024": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/how-enterprises-will-scale-ai-in-2024",
-   "title": "How enterprises will scale ai in 2024",
+   "title": "How Enterprises will Scale AI in 2024 | Digital Realty",
    "date": "2026-09-29T21:41:00+00:00",
    "lastmod": "2026-09-29T21:41:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Enterprise AI scaling infrastructure 2024",
+    "search": "how to scale AI in enterprises 2024",
+    "why": "Positions Digital Realty as guide for AI infrastructure needs to enterprise decision-makers."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2023-11-14T00:00:00+00:00",
+   "mod": null,
+   "fp": "f08f42c29dff8c66",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2023-11-14T00:00:00+00:00"
   },
   "digitalrealty.com/about/newsroom/press-releases/123231/digital-realty-recognized-by-nareit-with-the-leader-in-the-light-award-for-seventh-consecutive-year": {
    "site": "Digital Realty",
@@ -11100,15 +11121,28 @@
   "digitalrealty.com/resources/videos/the-mediterranean-region": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/videos/the-mediterranean-region",
-   "title": "The mediterranean region",
+   "title": "The Mediterranean region | Digital Realty",
    "date": "2026-09-29T20:52:00+00:00",
    "lastmod": "2026-09-29T20:52:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "news",
+    "stage": "learning",
+    "topic": "Mediterranean data center presence connectivity",
+    "search": "Digital Realty Mediterranean region data centers",
+    "why": "Showcases geographic footprint and regional connectivity capabilities to prospects researching locations."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "181a11837aa9f086",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-29T20:52:00+00:00"
   },
   "digitalrealty.com/resources/case-studies/fuga": {
    "site": "Digital Realty",
@@ -11323,10 +11357,11 @@
    "bulk_mod": false,
    "pub": "2024-01-17T00:00:00+00:00",
    "mod": null,
-   "fp": "d606a841dcc02954",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
-   "kind": "unknown",
-   "event": "2024-01-17T00:00:00+00:00"
+   "fp": "2e1106aad9d82dcf",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
+   "fp_verified": true
   },
   "digitalrealty.com/about/newsroom/press-releases/123243/digital-realty-announces-presence-of-google-cloud-interconnect-in-brussels": {
    "site": "Digital Realty",
@@ -11399,15 +11434,28 @@
   "digitalrealty.com/resources/videos/how-platformdigital-enables-private-ai": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/videos/how-platformdigital-enables-private-ai",
-   "title": "How platformdigital enables private ai",
+   "title": "How PlatformDIGITAL® Enables Private AI | Digital Realty",
    "date": "2026-09-29T20:50:00+00:00",
    "lastmod": "2026-09-29T20:50:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "PlatformDIGITAL private AI deployment",
+    "search": "private AI infrastructure requirements HPC",
+    "why": "Educates prospects on AI deployment challenges and positions PlatformDIGITAL as solution."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "c3470545db255461",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-29T20:50:00+00:00"
   },
   "digitalrealty.com/about/newsroom/press-releases/123248/digital-realty-reports-fourth-quarter-2023-results": {
    "site": "Digital Realty",
@@ -11678,15 +11726,28 @@
   "digitalrealty.com/resources/videos/modular-design-approach": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/videos/modular-design-approach",
-   "title": "Modular design approach",
+   "title": "The Benefits of Digital Realty’s Modular Design Approach | Digital Realty",
    "date": "2026-09-29T21:44:00+00:00",
    "lastmod": "2026-09-29T21:44:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "landing",
+    "stage": "learning",
+    "topic": "Modular data center design infrastructure",
+    "search": "modular data center design benefits",
+    "why": "Educates prospects on how Digital Realty's infrastructure supports AI and future-proof applications."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "7c4b6358694423cf",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-29T21:44:00+00:00"
   },
   "digitalrealty.com/about/newsroom/press-releases/123256/digital-realty-schedules-first-quarter-2024-earnings-release-and-conference-call": {
    "site": "Digital Realty",
@@ -11831,10 +11892,11 @@
    "bulk_mod": false,
    "pub": "2024-04-24T00:00:00+00:00",
    "mod": null,
-   "fp": "f2b07f3e9e90c92a",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
-   "kind": "unknown",
-   "event": "2024-04-24T00:00:00+00:00"
+   "fp": "b55864d4dcefb830",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
+   "fp_verified": true
   },
   "digitalrealty.com/about/newsroom/press-releases/123260/digital-realty-appoints-susan-swanezy-to-board-of-directors": {
    "site": "Digital Realty",
@@ -12114,28 +12176,54 @@
   "digitalrealty.com/resources/blog/network-infrastructure": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/network-infrastructure",
-   "title": "Network infrastructure",
+   "title": "Modern Network Infrastructure: 3 Principles for Data and AI-Ready Architecture | Digital Realty",
    "date": "2026-09-29T20:57:00+00:00",
    "lastmod": "2026-09-29T20:57:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Network infrastructure for AI workloads",
+    "search": "modern network infrastructure AI readiness",
+    "why": "Educates IT leaders on building infrastructure prepared for AI demands and latency challenges."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2024-05-29T00:00:00+00:00",
+   "mod": null,
+   "fp": "1fe6db3fd857f38c",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2024-05-29T00:00:00+00:00"
   },
   "digitalrealty.com/resources/videos/nvidia-enable-enterprise-ai": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/videos/nvidia-enable-enterprise-ai",
-   "title": "Nvidia enable enterprise ai",
+   "title": "How to Enable Enterprise AI with NVIDIA and Digital Realty | Digital Realty",
    "date": "2026-09-29T21:39:00+00:00",
    "lastmod": "2026-09-29T21:39:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Enterprise AI with NVIDIA",
+    "search": "enable enterprise AI infrastructure",
+    "why": "Teaches IT leaders how to implement generative AI securely at scale."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "3acbb1bf7e6eb3c0",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-29T21:39:00+00:00"
   },
   "digitalrealty.com/about/projects": {
    "site": "Digital Realty",
@@ -12596,7 +12684,7 @@
    "pub": null,
    "mod": null,
    "fp": "c46f31a32a4c48b5",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-01T16:17:00+00:00"
   },
@@ -12947,15 +13035,28 @@
   "digitalrealty.com/resources/multimedia/apac-expansion-with-india-digital-infrastructure": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/multimedia/apac-expansion-with-india-digital-infrastructure",
-   "title": "Apac expansion with india digital infrastructure",
+   "title": "Empower Your APAC Expansion with India’s Strategic Digital Infrastructure | Digital Realty",
    "date": "2026-09-29T21:50:00+00:00",
    "lastmod": "2026-09-29T21:50:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "research",
+    "stage": "learning",
+    "topic": "India digital infrastructure APAC expansion",
+    "search": "India APAC digital infrastructure data center",
+    "why": "Educates businesses on India's infrastructure advantage for regional expansion strategy."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "b404e36604086d85",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-29T21:50:00+00:00"
   },
   "digitalrealty.com/resources/videos/data-foundation": {
    "site": "Digital Realty",
@@ -14893,7 +14994,7 @@
    "pub": null,
    "mod": null,
    "fp": "4871b72cf21038dd",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-02T16:03:00+00:00",
    "bulk_pub": false,
@@ -15177,15 +15278,28 @@
   "digitalrealty.com/resources/blog/hivelocity-and-servicefabric": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/hivelocity-and-servicefabric",
-   "title": "Hivelocity and servicefabric",
+   "title": "Hybrid IT Infrastructure: Introducing ServiceFabric™ and Hivelocity’s Unified Solution | Digital Realty",
    "date": "2026-09-29T20:34:00+00:00",
    "lastmod": "2026-09-29T20:34:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "news",
+    "stage": "learning",
+    "topic": "Hybrid IT infrastructure ServiceFabric",
+    "search": "hybrid IT infrastructure bare metal cloud",
+    "why": "Educates prospects on hybrid infrastructure benefits while showcasing Digital Realty's ServiceFabric solution."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2025-03-31T00:00:00+00:00",
+   "mod": null,
+   "fp": "892045ef65596d0c",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2025-03-31T00:00:00+00:00"
   },
   "digitalrealty.com/resources/blog/enabling-efficient-ai-workloads-in-digital-realty-data-centers-advanced-engineering-group-spotlight": {
    "site": "Digital Realty",
@@ -15376,10 +15490,11 @@
    "bulk_mod": false,
    "pub": "2025-05-13T00:00:00+00:00",
    "mod": null,
-   "fp": "1e4a598e38fbef92",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
-   "kind": "unknown",
-   "event": "2025-05-13T00:00:00+00:00"
+   "fp": "1db3be9e07b39584",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
+   "fp_verified": true
   },
   "digitalrealty.com/about/newsroom/press-releases/123324/digital-realty-expands-peering-environment-in-maputo-with-mozambique-internet-exchange-point-of-presence": {
    "site": "Digital Realty",
@@ -16078,7 +16193,7 @@
    "url": "https://www.digitalrealty.com/partners/partner-directory/wwt",
    "title": "Wwt",
    "date": "2025-08-27T18:59:00+00:00",
-   "lastmod": "2025-08-27T18:59:00+00:00",
+   "lastmod": "2026-11-05T07:24:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -18448,11 +18563,18 @@
   "digitalrealty.com/resources/reports/impact-report": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/reports/impact-report",
-   "title": "Impact report",
+   "title": "2025 Impact Report | Digital Realty",
    "date": "2026-10-28T21:35:00+00:00",
    "lastmod": "2026-10-28T21:35:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "research",
+    "stage": "learning",
+    "topic": "data center sustainability impact report",
+    "search": "digital realty sustainability 2025 impact",
+    "why": "Demonstrates environmental leadership to attract sustainability-conscious customers and partners."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -18460,7 +18582,7 @@
    "pub": null,
    "mod": null,
    "fp": "eb7c8b0d68b2a6fa",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-28T21:35:00+00:00"
   },
@@ -19037,28 +19159,54 @@
   "digitalrealty.com/resources/blog/amsterdam-data-centers-powering-finance-tech-and-innovation": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/amsterdam-data-centers-powering-finance-tech-and-innovation",
-   "title": "Amsterdam data centers powering finance tech and innovation",
+   "title": "Digital Realty Enables AI and Tech Innovation in Amsterdam | Digital Realty",
    "date": "2026-09-29T22:09:00+00:00",
    "lastmod": "2026-09-29T22:09:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Amsterdam data centers innovation finance",
+    "search": "Amsterdam data centers finance tech",
+    "why": "Positions Amsterdam as innovation hub served by their data centers."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-06-29T00:00:00+00:00",
+   "mod": null,
+   "fp": "f07b4f2d397f980d",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-06-29T00:00:00+00:00"
   },
   "digitalrealty.com/resources/blog/digital-realty-internship-opportunities-northern-virginia": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/digital-realty-internship-opportunities-northern-virginia",
-   "title": "Digital realty internship opportunities northern virginia",
+   "title": "Start your career with Digital Realty's internship opportunities | Digital Realty",
    "date": "2026-09-29T22:14:00+00:00",
    "lastmod": "2026-09-29T22:14:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": false,
+    "type": "news",
+    "stage": "customers",
+    "topic": "Internship program career development",
+    "search": "internship opportunities Northern Virginia",
+    "why": "Attracts early-career talent and builds employer brand within data center sector."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-07-07T00:00:00+00:00",
+   "mod": null,
+   "fp": "e93c07735fe775fe",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-07-07T00:00:00+00:00"
   },
   "digitalrealty.com/about/newsroom/press-releases/30426/digital-realty-announces-purchase-of-blackstone-interest-in-three-northern-virginia-data-centers": {
    "site": "Digital Realty",
@@ -19190,15 +19338,28 @@
   "digitalrealty.com/resources/analyst-reports/idc-vendor-profile": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/analyst-reports/idc-vendor-profile",
-   "title": "Idc vendor profile",
+   "title": "IDC 2026 Vendor Profile: Digital Realty | Digital Realty",
    "date": "2026-09-29T21:56:00+00:00",
    "lastmod": "2026-09-29T21:56:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "research",
+    "stage": "comparing",
+    "topic": "IDC vendor profile colocation AI",
+    "search": "best data center colocation for AI",
+    "why": "Third-party validation builds trust with enterprise buyers evaluating colocation providers."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-07-16T00:00:00+00:00",
+   "mod": null,
+   "fp": "9a023ce3916e85d7",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-07-16T00:00:00+00:00"
   },
   "digitalrealty.com/about/newsroom/press-releases/30551/digital-realty-reports-second-quarter-2026-results": {
    "site": "Digital Realty",
@@ -19264,15 +19425,28 @@
   "digitalrealty.com/resources/videos/new-york-metro-hype": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/videos/new-york-metro-hype",
-   "title": "New york metro hype",
+   "title": "New York: The World's Financial Capital | Data Center Hub",
    "date": "2026-09-29T19:45:00+00:00",
    "lastmod": "2026-09-29T19:45:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "news",
+    "stage": "learning",
+    "topic": "New York data center market financial services",
+    "search": "New York data center colocation financial services",
+    "why": "Builds thought leadership by showcasing NY's role as data center hub for finance and AI."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-08-03T00:00:00+00:00",
+   "mod": null,
+   "fp": "83ccdde2ffa41ff7",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-08-03T00:00:00+00:00"
   },
   "digitalrealty.com/resources/videos/chicago-metro-hype": {
    "site": "Digital Realty",
@@ -19340,15 +19514,28 @@
   "digitalrealty.com/resources/blog/chicago-north-americas-financial-powerhouse-meets-the-future-of-ai-infrastructure": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/chicago-north-americas-financial-powerhouse-meets-the-future-of-ai-infrastructure",
-   "title": "Chicago north americas financial powerhouse meets the future of ai infrastructure",
+   "title": "Chicago: North America's financial powerhouse meets the future of AI infrastructure",
    "date": "2026-09-29T22:13:00+00:00",
    "lastmod": "2026-09-29T22:13:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Chicago data centers AI infrastructure",
+    "search": "Chicago data center AI infrastructure finance",
+    "why": "Establishes Digital Realty's Chicago data center capabilities for AI and finance sector decision-makers."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-08-04T00:00:00+00:00",
+   "mod": null,
+   "fp": "5deccce7c4efd52a",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-08-04T00:00:00+00:00"
   },
   "digitalrealty.com/about/newsroom/press-releases/30576/digital-realty-welcomes-governor-abbott-s-initiative-for-responsible-and-transparent-data-center-investment-in-texas": {
    "site": "Digital Realty",
@@ -19390,15 +19577,28 @@
   "digitalrealty.com/resources/webinars/tech-talk-ashburn": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/webinars/tech-talk-ashburn",
-   "title": "Tech talk ashburn",
+   "title": "Tech Talk: Inside the Ashburn Data Center Market | Digital Realty",
    "date": "2026-09-29T19:52:00+00:00",
    "lastmod": "2026-09-29T19:52:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Ashburn data center market and AI infrastructure",
+    "search": "Ashburn data center market AI power",
+    "why": "Establishes thought leadership on regional data center trends and AI infrastructure demand."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-08-13T00:00:00+00:00",
+   "mod": null,
+   "fp": "b5ddd40138d0407f",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-08-13T00:00:00+00:00"
   },
   "digitalrealty.com/about/newsroom/press-releases/30586/digital-realty-declares-quarterly-cash-dividends-for-common-and-preferred-stock": {
    "site": "Digital Realty",
@@ -19414,41 +19614,80 @@
   "digitalrealty.com/resources/videos/eplus-americas-ai-unfiltered-podcast": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/videos/eplus-americas-ai-unfiltered-podcast",
-   "title": "Eplus americas ai unfiltered podcast",
+   "title": "ePlus Americas \"AI Unfiltered\" Podcast",
    "date": "2026-09-29T19:41:00+00:00",
    "lastmod": "2026-09-29T19:41:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "AI infrastructure liquid cooling technology",
+    "search": "AI workloads data center liquid cooling",
+    "why": "Builds thought leadership on emerging AI infrastructure trends and capabilities."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-08-12T00:00:00+00:00",
+   "mod": null,
+   "fp": "d23dcec1710f6f13",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-08-12T00:00:00+00:00"
   },
   "digitalrealty.com/resources/videos/eplus-emea-ai-unfiltered-podcast": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/videos/eplus-emea-ai-unfiltered-podcast",
-   "title": "Eplus emea ai unfiltered podcast",
+   "title": "ePlus EMEA \"AI Unfiltered\" Podcast",
    "date": "2026-09-29T19:43:00+00:00",
    "lastmod": "2026-09-29T19:43:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "news",
+    "stage": "learning",
+    "topic": "AI infrastructure direct liquid cooling",
+    "search": "AI infrastructure data center cooling",
+    "why": "Showcases innovation and thought leadership at industry summit event."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-08-12T00:00:00+00:00",
+   "mod": null,
+   "fp": "b9c98fd92ba8fe06",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-08-12T00:00:00+00:00"
   },
   "digitalrealty.com/resources/webinars/tech-talk-chicago": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/webinars/tech-talk-chicago",
-   "title": "Tech talk chicago",
+   "title": "Tech Talk: Inside the Chicago Data Center Market | Digital Realty",
    "date": "2026-09-29T19:54:00+00:00",
    "lastmod": "2026-09-29T19:54:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Chicago data center market AI financial services",
+    "search": "Chicago data center market AI",
+    "why": "Establishes thought leadership on emerging trends in Chicago's financial tech infrastructure."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-08-26T00:00:00+00:00",
+   "mod": null,
+   "fp": "37644c34003f2f70",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-08-26T00:00:00+00:00"
   },
   "digitalrealty.com/partners/partner-directory/cisco": {
    "site": "Digital Realty",
@@ -19666,7 +19905,7 @@
    "url": "https://www.digitalrealty.com/resources/webinars/cio-strategies-for-a-production-ready-scalable-ai-infrastructure",
    "title": "CIO Strategies for a Production-Ready, Scalable AI Infrastructure | Digital Realty",
    "date": "2026-10-22T09:26:00+00:00",
-   "lastmod": "2026-10-22T09:26:00+00:00",
+   "lastmod": "2026-11-05T21:00:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": true,
@@ -19682,10 +19921,11 @@
    "bulk_mod": false,
    "pub": "2026-09-21T00:00:00+00:00",
    "mod": null,
-   "fp": "93b3da551bf63e4a",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
-   "kind": "new",
-   "event": "2026-09-21T00:00:00+00:00"
+   "fp": "a05bde88cdb45ccd",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
+   "fp_verified": true
   },
   "digitalrealty.com/about/newsroom/press-releases/30616/digital-realty-selected-to-develop-50-megawatts-of-new-data-center-capacity-in-singapore": {
    "site": "Digital Realty",
@@ -19701,15 +19941,28 @@
   "digitalrealty.com/resources/blog/scale-sovereignty-and-ai-readiness": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/scale-sovereignty-and-ai-readiness",
-   "title": "Scale sovereignty and ai readiness",
+   "title": "Scale, Sovereignty & AI Readiness | Digital Realty's Expanding EMEA Footprint",
    "date": "2026-09-29T22:15:00+00:00",
    "lastmod": "2026-09-29T22:15:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "news",
+    "stage": "learning",
+    "topic": "Digital Realty EMEA expansion AI infrastructure",
+    "search": "Digital Realty EMEA data centers AI readiness",
+    "why": "Announces EMEA footprint expansion to help enterprises scale AI workloads and meet data sovereignty needs."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-09-01T00:00:00+00:00",
+   "mod": null,
+   "fp": "5198155e2086780f",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-01T00:00:00+00:00"
   },
   "digitalrealty.com/resources/blog/operationalizing-ai-at-scale-a-cios-roadmap-to-modern-infrastructure": {
    "site": "Digital Realty",
@@ -19888,15 +20141,28 @@
   "digitalrealty.com/resources/blog/agentic-ai-productivity-at-scale": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/agentic-ai-productivity-at-scale",
-   "title": "Agentic ai productivity at scale",
+   "title": "Agentic AI is here: Is your inference infrastructure ready? | Digital Realty",
    "date": "2026-09-29T22:03:00+00:00",
    "lastmod": "2026-09-29T22:03:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Agentic AI inference infrastructure",
+    "search": "agentic AI inference latency data center",
+    "why": "Educates prospects on agentic AI infrastructure needs and Digital Realty's metro-based advantage."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-09-16T00:00:00+00:00",
+   "mod": null,
+   "fp": "7cbe48d6ede24e74",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-16T00:00:00+00:00"
   },
   "digitalrealty.com/data-centers/emea/sofia": {
    "site": "Digital Realty",
@@ -20013,14 +20279,20 @@
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/reports/global-data-insights-survey",
    "title": "Global data insights survey",
-   "date": "2026-09-23T20:21:00+00:00",
-   "lastmod": "2026-09-23T20:21:00+00:00",
+   "date": "2026-11-06T21:44:00+00:00",
+   "lastmod": "2026-11-06T21:44:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-09-16T00:00:00+00:00",
+   "mod": null,
+   "fp": "43759326baf265f5",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-16T00:00:00+00:00"
   },
   "digitalrealty.com/resources/blog/the-rise-of-neobanks-in-europe": {
    "site": "Digital Realty",
@@ -20418,7 +20690,7 @@
    "pub": "2025-06-16T00:00:00+00:00",
    "mod": null,
    "fp": "9987222ade0bfb34",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2025-06-16T00:00:00+00:00",
    "bulk_pub": false,
@@ -20502,12 +20774,13 @@
    "prog": null,
    "pub": "2026-10-14T00:00:00+00:00",
    "mod": null,
-   "fp": "4742ee4095d23a1e",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
-   "kind": "new",
-   "event": "2026-10-14T00:00:00+00:00",
+   "fp": "fd7657e477e3203d",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "digitalrealty.com/resources/solution-briefs/quantum-accelerated-ai-from-exploration-to-real-world-validation": {
    "site": "Digital Realty",
@@ -20529,7 +20802,7 @@
    "pub": "2026-10-14T00:00:00+00:00",
    "mod": null,
    "fp": "4101ca5becb927c8",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "new",
    "event": "2026-10-14T00:00:00+00:00",
    "bulk_pub": false,
@@ -20554,19 +20827,20 @@
    "prog": null,
    "pub": "2026-10-14T00:00:00+00:00",
    "mod": null,
-   "fp": "8b2b887fcbcd0d75",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
-   "kind": "new",
-   "event": "2026-10-14T00:00:00+00:00",
+   "fp": "5a29967ab1389926",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "digitalrealty.com/resources/blog/emeas-ai-imperative-what-the-2026-global-data-insights-survey-reveals": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/emeas-ai-imperative-what-the-2026-global-data-insights-survey-reveals",
    "title": "EMEA AI Imperative: GDIS 2026 Reveals Seven Routes to AI Execution | Digital Realty",
    "date": "2026-10-19T17:13:00+00:00",
-   "lastmod": "2026-10-19T17:13:00+00:00",
+   "lastmod": "2026-11-04T18:13:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": true,
@@ -20580,19 +20854,20 @@
    "prog": null,
    "pub": "2026-10-14T00:00:00+00:00",
    "mod": null,
-   "fp": "b044129fecf1deac",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
-   "kind": "new",
-   "event": "2026-10-14T00:00:00+00:00",
+   "fp": "b50a16d025a05862",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "digitalrealty.com/resources/blog/emea-ai-imperative-gdis-2026-data-insights": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/emea-ai-imperative-gdis-2026-data-insights",
    "title": "EMEA AI Imperative: GDIS 2026 Data Insights | Digital Realty",
    "date": "2026-10-19T14:02:00+00:00",
-   "lastmod": "2026-10-19T14:02:00+00:00",
+   "lastmod": "2026-11-04T18:06:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": true,
@@ -20606,12 +20881,13 @@
    "prog": null,
    "pub": "2026-10-16T00:00:00+00:00",
    "mod": null,
-   "fp": "66da94647adc6db0",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
-   "kind": "new",
-   "event": "2026-10-16T00:00:00+00:00",
+   "fp": "51a342337303c03a",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "digitalrealty.com/resources/analyst-reports/what-enterprises-want-from-an-infrastructure-partner": {
    "site": "Digital Realty",
@@ -20683,15 +20959,28 @@
   "digitalrealty.com/resources/blog/5-macrotrends-data-gravity": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/5-macrotrends-data-gravity",
-   "title": "5 macrotrends data gravity",
+   "title": "5 Macrotrends Amplifying Data Gravity | Digital Realty",
    "date": "2026-09-29T20:53:00+00:00",
    "lastmod": "2026-09-29T20:53:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "research",
+    "stage": "learning",
+    "topic": "macrotrends data gravity",
+    "search": "data gravity macrotrends digital economy",
+    "why": "Establishes thought leadership on data economy trends influencing enterprise infrastructure strategy."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2023-08-23T00:00:00+00:00",
+   "mod": null,
+   "fp": "8679466b99ceda59",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2023-08-23T00:00:00+00:00"
   },
   "digitalrealty.com/data-centers/emea/maputo": {
    "site": "Digital Realty",
@@ -22302,7 +22591,7 @@
    "url": "https://www.digitalrealty.com/data-centers/asia-pacific/sydney",
    "title": "Sydney",
    "date": "2024-10-25T20:10:00+00:00",
-   "lastmod": "2024-10-25T20:10:00+00:00",
+   "lastmod": "2026-11-06T22:47:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -24182,7 +24471,7 @@
    "url": "https://www.digitalrealty.com/data-centers/emea/accra/acr2",
    "title": "Acr2",
    "date": "2026-09-09T21:01:00+00:00",
-   "lastmod": "2026-09-09T21:01:00+00:00",
+   "lastmod": "2026-11-05T16:19:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -25117,15 +25406,28 @@
   "digitalrealty.com/resources/videos/chicago-virtual-tour": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/videos/chicago-virtual-tour",
-   "title": "Chicago virtual tour",
+   "title": "Chicago Virtual Tour Video | Digital Realty",
    "date": "2026-09-29T21:44:00+00:00",
    "lastmod": "2026-09-29T21:44:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "landing",
+    "stage": "comparing",
+    "topic": "Chicago data center virtual tour",
+    "search": "chicago data center tour video",
+    "why": "Showcases Chicago facility to buyers evaluating location options."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "118e8591e6ab86d6",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-29T21:44:00+00:00"
   },
   "digitalrealty.com/resources/videos/digital-houston-a-digital-realty-datacampus-houston-tx": {
    "site": "Digital Realty",
@@ -25312,15 +25614,28 @@
   "digitalrealty.com/resources/videos/increase-the-value-of-your-network": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/videos/increase-the-value-of-your-network",
-   "title": "Increase the value of your network",
+   "title": "Increase the value of your network | Digital Realty",
    "date": "2026-09-29T21:48:00+00:00",
    "lastmod": "2026-09-29T21:48:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "landing",
+    "stage": "learning",
+    "topic": "Network value optimization data centers",
+    "search": "optimize network costs data centers",
+    "why": "Educates network operators on colocation benefits and cost efficiency strategies."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "437e71f611195c31",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-29T21:48:00+00:00"
   },
   "digitalrealty.com/resources/videos/cloud-house-tour": {
    "site": "Digital Realty",
@@ -25416,28 +25731,54 @@
   "digitalrealty.com/resources/videos/grange-castle-business-park-old-nangor-road-ireland-video-tour": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/videos/grange-castle-business-park-old-nangor-road-ireland-video-tour",
-   "title": "Grange castle business park old nangor road ireland video tour",
+   "title": "Profile Park, Dublin - Video Tour | Digital Realty",
    "date": "2026-09-29T21:16:00+00:00",
    "lastmod": "2026-09-29T21:16:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "news",
+    "stage": "learning",
+    "topic": "Profile Park Dublin data center tour",
+    "search": "Profile Park Dublin data center video tour",
+    "why": "Showcases EMEA facility to prospects exploring data center locations."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "b97a8f1bbca02946",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-29T21:16:00+00:00"
   },
   "digitalrealty.com/resources/videos/the-connected-campus": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/videos/the-connected-campus",
-   "title": "The connected campus",
+   "title": "The Connected Campus | Digital Realty",
    "date": "2026-09-29T20:33:00+00:00",
    "lastmod": "2026-09-29T20:33:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "news",
+    "stage": "learning",
+    "topic": "Connected Campus integrated data center solution",
+    "search": "connected campus data center infrastructure",
+    "why": "Showcases their integrated platform concept to educate prospects on unified infrastructure benefits."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "c0c0b46ca03ec30b",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-29T20:33:00+00:00"
   },
   "digitalrealty.com/resources/videos/the-role-of-colocation-in-securing-and-managing-data-in-a-digital-business": {
    "site": "Digital Realty",
@@ -25520,28 +25861,54 @@
   "digitalrealty.com/resources/videos/digital-profile-park-ireland-data-center": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/videos/digital-profile-park-ireland-data-center",
-   "title": "Digital profile park ireland data center",
+   "title": "Digital Profile Park Ireland Data Center Video | Digital Realty",
    "date": "2026-09-29T21:01:00+00:00",
    "lastmod": "2026-09-29T21:01:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "landing",
+    "stage": "comparing",
+    "topic": "Digital Profile Park Ireland data center",
+    "search": "Ireland data center colocation facility",
+    "why": "Showcases specific facility capabilities to help prospects evaluate this location option."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "992004c60a36f1b8",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-29T21:01:00+00:00"
   },
   "digitalrealty.com/resources/videos/amsterdam-data-tower-tour": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/videos/amsterdam-data-tower-tour",
-   "title": "Amsterdam data tower tour",
+   "title": "Amsterdam Data Tower Tour | Digital Realty",
    "date": "2026-09-29T21:47:00+00:00",
    "lastmod": "2026-09-29T21:47:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "news",
+    "stage": "learning",
+    "topic": "Amsterdam data tower facility tour",
+    "search": "amsterdam data center tour",
+    "why": "Shows facility capabilities to prospects evaluating European colocation options."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "75822c4c1558f2a8",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-29T21:47:00+00:00"
   },
   "digitalrealty.com/resources/videos/build-here": {
    "site": "Digital Realty",
@@ -25663,15 +26030,28 @@
   "digitalrealty.com/resources/webinars/the-sustainable-data-center-the-path-to-business-and-environmental-resilience": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/webinars/the-sustainable-data-center-the-path-to-business-and-environmental-resilience",
-   "title": "The sustainable data center the path to business and environmental resilience",
+   "title": "The Sustainable Data Centre: The Path to Business and Environmental Resilience | Digital Realty",
    "date": "2026-09-29T21:48:00+00:00",
    "lastmod": "2026-09-29T21:48:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "sustainable data center environmental resilience",
+    "search": "sustainable data center business resilience",
+    "why": "Positions Digital Realty as thought leader in sustainable infrastructure practices."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "cc61253ab6cc8cbe",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-29T21:48:00+00:00"
   },
   "digitalrealty.com/resources/multimedia/overcoming-roadblocks-in-digital-transformation-for-financial-services": {
    "site": "Digital Realty",
@@ -26079,15 +26459,28 @@
   "digitalrealty.com/resources/videos/cultural-approaches-to-cybersecurity": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/videos/cultural-approaches-to-cybersecurity",
-   "title": "Cultural approaches to cybersecurity",
+   "title": "Cultural Approaches to Cybersecurity: Changing Paradigms for Veterans and Beyond | Digital Realty",
    "date": "2026-09-29T21:25:00+00:00",
    "lastmod": "2026-09-29T21:25:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "cybersecurity talent hiring veterans",
+    "search": "how to hire cybersecurity veterans talent",
+    "why": "Establishes thought leadership on military talent retention in cybersecurity."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "546dbcf075de1359",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-09-29T21:25:00+00:00"
   },
   "digitalrealty.com/resources/reports/2018-esg": {
    "site": "Digital Realty",
@@ -26508,15 +26901,28 @@
   "digitalrealty.com/resources/blog/building-hyperscale-data-centers-in-emerging-markets": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/building-hyperscale-data-centers-in-emerging-markets",
-   "title": "Building hyperscale data centers in emerging markets",
+   "title": "Building Hyperscale Data Centers in Emerging Markets | Digital Realty",
    "date": "2026-09-29T21:40:00+00:00",
    "lastmod": "2026-09-29T21:40:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "hyperscale data centers emerging markets",
+    "search": "building hyperscale data centers emerging markets",
+    "why": "Educates prospects on hybrid cloud and hyperscale infrastructure benefits early in buying journey."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2019-03-05T00:00:00+00:00",
+   "mod": null,
+   "fp": "21c0d7d96e0a02c2",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2019-03-05T00:00:00+00:00"
   },
   "digitalrealty.com/resources/blog/big-data-analytics-helping-formula-1-teams-take-chequered-flag": {
    "site": "Digital Realty",
@@ -26612,15 +27018,28 @@
   "digitalrealty.com/resources/blog/why-adopting-a-cloud-first-policy-is-the-right-move-for-the-australian-government": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/why-adopting-a-cloud-first-policy-is-the-right-move-for-the-australian-government",
-   "title": "Why adopting a cloud first policy is the right move for the australian government",
+   "title": "Why adopting a ‘cloud first’ policy is the right move | Digital Realty",
    "date": "2026-09-29T21:41:00+00:00",
    "lastmod": "2026-09-29T21:41:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "cloud first policy government",
+    "search": "cloud first policy government Australia",
+    "why": "Positions Digital Realty as cloud thought leader for public sector decision-makers."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2014-06-24T00:00:00+00:00",
+   "mod": null,
+   "fp": "7ede8b725cc74117",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2014-06-24T00:00:00+00:00"
   },
   "digitalrealty.com/resources/blog/sustainability-in-financial-services": {
    "site": "Digital Realty",
@@ -26677,15 +27096,28 @@
   "digitalrealty.com/resources/blog/what-will-the-data-center-of-2025-look-like": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/what-will-the-data-center-of-2025-look-like",
-   "title": "What will the data center of 2025 look like",
+   "title": "What Will the Data Center of 2025 Look Like? | Digital Realty",
    "date": "2026-09-29T21:39:00+00:00",
    "lastmod": "2026-09-29T21:39:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Data center evolution and future trends",
+    "search": "data center 2025 trends predictions",
+    "why": "Positions Digital Realty as forward-thinking leader anticipating industry shifts."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2014-05-12T00:00:00+00:00",
+   "mod": null,
+   "fp": "054efeb932a136e8",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2014-05-12T00:00:00+00:00"
   },
   "digitalrealty.com/resources/blog/why-interconnectivity-is-crucial-for-healthcare": {
    "site": "Digital Realty",
@@ -26703,15 +27135,28 @@
   "digitalrealty.com/resources/blog/five-steps-to-creating-a-multi-cloud-optimization-strategy": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/five-steps-to-creating-a-multi-cloud-optimization-strategy",
-   "title": "Five steps to creating a multi cloud optimization strategy",
+   "title": "Five Steps to Creating a Multi-Cloud Optimization Strategy | Digital Realty",
    "date": "2026-09-29T21:45:00+00:00",
    "lastmod": "2026-09-29T21:45:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "comparing",
+    "topic": "Multi-cloud optimization strategy",
+    "search": "how to optimize multi-cloud strategy",
+    "why": "Guides prospects evaluating multi-cloud architectures toward Digital Realty's management solutions."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2019-05-30T00:00:00+00:00",
+   "mod": null,
+   "fp": "05cd538074859f8d",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2019-05-30T00:00:00+00:00"
   },
   "digitalrealty.com/resources/blog/digital-realtys-san-francisco-facility-now-runs-on-sustainable-power": {
    "site": "Digital Realty",
@@ -26807,15 +27252,28 @@
   "digitalrealty.com/resources/blog/the-future-of-digital-media-cloud-gaming": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/the-future-of-digital-media-cloud-gaming",
-   "title": "The future of digital media cloud gaming",
+   "title": "The Future of Digital Media: Cloud Gaming | Digital Realty",
    "date": "2026-09-29T21:49:00+00:00",
    "lastmod": "2026-09-29T21:49:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Cloud gaming infrastructure and market",
+    "search": "future of cloud gaming technology",
+    "why": "Positions Digital Realty as infrastructure provider supporting emerging cloud gaming trend."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2012-10-18T00:00:00+00:00",
+   "mod": null,
+   "fp": "00f7f533bec0aa98",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2012-10-18T00:00:00+00:00"
   },
   "digitalrealty.com/resources/blog/unlocking-new-opportunities-in-retail": {
    "site": "Digital Realty",
@@ -27067,15 +27525,28 @@
   "digitalrealty.com/resources/blog/why-interconnectivity-is-crucial-in-financial-services": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/why-interconnectivity-is-crucial-in-financial-services",
-   "title": "Why interconnectivity is crucial in financial services",
+   "title": "Why Interconnectivity is Crucial in Financial Services | Digital Realty",
    "date": "2026-09-29T21:39:00+00:00",
    "lastmod": "2026-09-29T21:39:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Interconnectivity financial services infrastructure",
+    "search": "why interconnectivity matters financial services",
+    "why": "Educates prospects on interconnectivity needs before they consider colocation solutions."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2019-04-04T00:00:00+00:00",
+   "mod": null,
+   "fp": "f47df4d0ea5dd9ae",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2019-04-04T00:00:00+00:00"
   },
   "digitalrealty.com/resources/blog/what-is-internet-peering-and-why-is-it-beneficial": {
    "site": "Digital Realty",
@@ -30947,10 +31418,11 @@
    "bulk_mod": false,
    "pub": "2023-02-10T00:00:00+00:00",
    "mod": null,
-   "fp": "44692fea6762afea",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
-   "kind": "unknown",
-   "event": "2023-02-10T00:00:00+00:00"
+   "fp": "56f2438bc65446c9",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
+   "fp_verified": true
   },
   "digitalrealty.com/resources/case-studies/fifosys": {
    "site": "Digital Realty",
@@ -31046,15 +31518,28 @@
   "digitalrealty.com/resources/blog/to-enhance-security-head-into-the-cloud": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/to-enhance-security-head-into-the-cloud",
-   "title": "To enhance security head into the cloud",
+   "title": "How Cloud Security Helps You Build a Secure IT Infrastructure? | Digital Realty",
    "date": "2026-09-29T21:04:00+00:00",
    "lastmod": "2026-09-29T21:04:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "cloud security hybrid IT infrastructure",
+    "search": "how to secure cloud data infrastructure",
+    "why": "Educates prospects on cloud security benefits to overcome adoption concerns and position hybrid IT solutions."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2023-02-21T00:00:00+00:00",
+   "mod": null,
+   "fp": "9fdeb585d2b6d4cb",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2023-02-21T00:00:00+00:00"
   },
   "digitalrealty.com/resources/blog/multi-cloud-vs-hybrid-cloud-whats-the-difference": {
    "site": "Digital Realty",
@@ -31710,10 +32195,11 @@
    "bulk_mod": false,
    "pub": null,
    "mod": null,
-   "fp": "0f0d3c852b00ccc3",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
-   "kind": "unknown",
-   "event": "2026-10-01T17:12:00+00:00"
+   "fp": "6df8096c3451b8c7",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
+   "fp_verified": true
   },
   "digitalrealty.com/resources/blog/what-is-data-center-management": {
    "site": "Digital Realty",
@@ -31840,10 +32326,11 @@
    "bulk_mod": false,
    "pub": null,
    "mod": null,
-   "fp": "aabc33be482a0804",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
-   "kind": "unknown",
-   "event": "2026-10-01T17:10:00+00:00"
+   "fp": "8fa7f80a600c1f67",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
+   "fp_verified": true
   },
   "digitalrealty.com/platform-digital/connectivity/internet-exchange": {
    "site": "Digital Realty",
@@ -31866,10 +32353,11 @@
    "bulk_mod": false,
    "pub": null,
    "mod": null,
-   "fp": "cc398a65b5bcfac9",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
-   "kind": "unknown",
-   "event": "2026-10-01T17:13:00+00:00"
+   "fp": "5b2c48f48957a3db",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
+   "fp_verified": true
   },
   "digitalrealty.com/expertise/solutions": {
    "site": "Digital Realty",
@@ -33225,15 +33713,28 @@
   "digitalrealty.com/resources/blog/when-to-migrate-workloads-in-a-hybrid--it-environment": {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/when-to-migrate-workloads-in-a-hybrid--it-environment",
-   "title": "When to migrate workloads in a hybrid it environment",
+   "title": "When to migrate workloads in a hybrid IT environment | Digital Realty",
    "date": "2026-09-29T21:52:00+00:00",
    "lastmod": "2026-09-29T21:52:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Migrating workloads hybrid IT environment",
+    "search": "when to migrate workloads hybrid IT",
+    "why": "Educates early-stage prospects on hybrid strategy fundamentals and data gravity principles."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2023-06-02T00:00:00+00:00",
+   "mod": null,
+   "fp": "08e03ec3c17ca144",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2023-06-02T00:00:00+00:00"
   },
   "digitalrealty.com/resources/blog/workload-management": {
    "site": "Digital Realty",
@@ -33269,10 +33770,11 @@
    "bulk_mod": false,
    "pub": "2023-07-08T00:00:00+00:00",
    "mod": null,
-   "fp": "3bc032dc47864b98",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
-   "kind": "unknown",
-   "event": "2023-07-08T00:00:00+00:00"
+   "fp": "aeb35b52f28890a2",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
+   "fp_verified": true
   },
   "digitalrealty.com/resources/multimedia/gateway-to-asia-pacific-spotlight-hong-kong": {
    "site": "Digital Realty",
@@ -33292,7 +33794,7 @@
    "url": "https://www.digitalrealty.com/about/newsroom",
    "title": "Newsroom",
    "date": "2026-10-09T21:19:00+00:00",
-   "lastmod": "2026-10-29T22:44:00+00:00",
+   "lastmod": "2026-11-09T15:46:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -34315,12 +34817,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "47aef3a0ec773408",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
-   "kind": "unknown",
-   "event": "2026-09-24T16:15:01+00:00",
+   "fp": "56f36dce142d66b1",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "flexential.com/solutions/improve-distributed-user-experience": {
    "site": "Flexential",
@@ -34825,7 +35328,7 @@
    "pub": null,
    "mod": null,
    "fp": "3ba4c493e738c9d9",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-09-21T13:32:35+00:00"
   },
@@ -34877,7 +35380,7 @@
    "pub": null,
    "mod": null,
    "fp": "7f86e1573d3c8c27",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-09-21T19:23:13+00:00"
   },
@@ -34993,7 +35496,7 @@
    "mod": null,
    "fp": "333c11804063f339",
    "dates_checked": "2026-10-20T00:50:15+00:00",
-   "kind": "new",
+   "kind": "unknown",
    "event": "2026-09-25T00:00:00+00:00",
    "bulk_pub": false,
    "bulk_mod": false
@@ -35033,7 +35536,7 @@
    "pub": null,
    "mod": null,
    "fp": "b9e95cd1e1a98dd5",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-09-18T17:56:54+00:00"
   },
@@ -36790,7 +37293,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/blog/top-five-disaster-recovery-risks": {
    "site": "Flexential",
@@ -36907,7 +37411,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/press-release/flexential-closes-250-million-debt-offering-support-its-continued": {
    "site": "Flexential",
@@ -37128,7 +37633,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/press-release/flexential-named-top-15-sourcing-standout-isg": {
    "site": "Flexential",
@@ -37245,7 +37751,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/customer-story/heart-heart-hospice": {
    "site": "Flexential",
@@ -37375,7 +37882,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/blog/dynamic-ecosystem-data-center-interconnection-and-edge": {
    "site": "Flexential",
@@ -37557,7 +38065,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/blog/importance-hybrid-it-successful-ai-strategy": {
    "site": "Flexential",
@@ -37648,7 +38157,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/press-release/flexential-announces-cloud-fabric-enable-agile-demand-management": {
    "site": "Flexential",
@@ -37895,7 +38405,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/customer-story/credit-union-colorado": {
    "site": "Flexential",
@@ -38051,20 +38562,27 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/press-release/flexentialr-announces-new-capabilities-hosted-private-cloud-advanced-access": {
    "site": "Flexential",
    "url": "https://www.flexential.com/resources/press-release/flexentialr-announces-new-capabilities-hosted-private-cloud-advanced-access",
    "title": "Flexentialr announces new capabilities hosted private cloud advanced access",
-   "date": "2025-02-04T21:42:44+00:00",
-   "lastmod": "2025-02-04T21:42:44+00:00",
+   "date": "2026-11-09T14:18:01+00:00",
+   "lastmod": "2026-11-09T14:18:01+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2022-08-09T00:00:00+00:00",
+   "mod": null,
+   "fp": "3b8f414821181b68",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2022-08-09T00:00:00+00:00"
   },
   "flexential.com/resources/press-release/flexentialr-hires-tenured-general-counsel-support-continued-flexanywherer": {
    "site": "Flexential",
@@ -38194,7 +38712,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/white-paper/451-research-multicloud-complexity-enterprises-infrastructure": {
    "site": "Flexential",
@@ -38207,7 +38726,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/white-paper/451-research-hosted-private-cloud-hybrid-it-success": {
    "site": "Flexential",
@@ -38220,7 +38740,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/press-release/crn-recognizes-flexentialr-cloud-100-company-2023": {
    "site": "Flexential",
@@ -38363,7 +38884,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/press-release/flexential-launches-new-interconnection-enhancement-to-provide-additional-high-bandwidth-options-for-customers": {
    "site": "Flexential",
@@ -38428,7 +38950,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/blog/what-is-it-infrastructure-management": {
    "site": "Flexential",
@@ -38629,14 +39152,20 @@
    "site": "Flexential",
    "url": "https://www.flexential.com/resources/blog/cloud-data-privacy",
    "title": "Cloud data privacy",
-   "date": "2025-12-10T18:55:53+00:00",
-   "lastmod": "2025-12-10T18:55:53+00:00",
+   "date": "2026-11-07T00:20:11+00:00",
+   "lastmod": "2026-11-07T00:20:11+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "5235302df7e860ef",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-11-07T00:20:11+00:00"
   },
   "flexential.com/resources/blog/how-to-protect-cloud-data": {
    "site": "Flexential",
@@ -38657,12 +39186,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "5f21c009b4198704",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
-   "kind": "unknown",
-   "event": "2026-10-06T17:33:14+00:00",
+   "fp": "5db566002d16dc6d",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "flexential.com/resources/blog/continuous-data-protection-zerto": {
    "site": "Flexential",
@@ -39026,7 +39556,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/blog/data-center-compliance-standards": {
    "site": "Flexential",
@@ -39058,14 +39589,20 @@
    "site": "Flexential",
    "url": "https://www.flexential.com/resources/blog/private-cloud-vs-public-cloud",
    "title": "Private cloud vs public cloud",
-   "date": "2025-12-29T16:26:30+00:00",
-   "lastmod": "2025-12-29T16:26:30+00:00",
+   "date": "2026-11-09T04:00:27+00:00",
+   "lastmod": "2026-11-09T04:00:27+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "0bef3c8e35d99165",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-11-09T04:00:27+00:00"
   },
   "flexential.com/resources/blog/what-is-network-optimization": {
    "site": "Flexential",
@@ -39663,7 +40200,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/blog/what-is-high-density-data-center": {
    "site": "Flexential",
@@ -41873,7 +42411,8 @@
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "flexential.com/resources/blog/data-center-energy-consumption": {
    "site": "Flexential",
@@ -43144,7 +43683,7 @@
    "pub": null,
    "mod": null,
    "fp": "531813d7b0095506",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-09-24T19:24:33+00:00",
    "bulk_pub": false,
@@ -43627,7 +44166,7 @@
    "pub": null,
    "mod": null,
    "fp": "e123f4bb3c36e526",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-08-31T17:28:56+00:00"
   },
@@ -44806,7 +45345,7 @@
    "url": "https://www.flexential.com/resources/blog/modern-cloud-data-protection-healthcare",
    "title": "Why healthcare organizations need modern cloud data protection",
    "date": "2026-08-28T05:34:37+00:00",
-   "lastmod": "2026-08-28T05:34:37+00:00",
+   "lastmod": "2026-11-09T15:55:51+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": true,
@@ -44822,10 +45361,11 @@
    "bulk_mod": false,
    "pub": null,
    "mod": null,
-   "fp": "70de0694b9749057",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
-   "kind": "unknown",
-   "event": "2026-08-28T05:34:37+00:00"
+   "fp": "78c427d046c469f0",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
+   "fp_verified": true
   },
   "flexential.com/resources/report/compression-event": {
    "site": "Flexential",
@@ -44849,7 +45389,7 @@
    "pub": null,
    "mod": null,
    "fp": "45eb5c096207d165",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-09-01T20:09:58+00:00"
   },
@@ -44900,10 +45440,11 @@
    "bulk_mod": false,
    "pub": null,
    "mod": null,
-   "fp": "4350ea28820cabd4",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
-   "kind": "unknown",
-   "event": "2026-08-31T20:57:43+00:00"
+   "fp": "47bbe1e72cdf9a2f",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
+   "fp_verified": true
   },
   "flexential.com/resources/blog/backup-tier-survives-when-entire-region-goes-offline": {
    "site": "Flexential",
@@ -44952,10 +45493,11 @@
    "bulk_mod": false,
    "pub": "2026-09-22T00:00:00+00:00",
    "mod": null,
-   "fp": "2ecf6b2793ddf228",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
-   "kind": "new",
-   "event": "2026-09-22T00:00:00+00:00"
+   "fp": "36692b0099ef57ea",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
+   "fp_verified": true
   },
   "flexential.com/resources/blog/when-power-constrains-ai-infrastructure-workload-placement-matters": {
    "site": "Flexential",
@@ -45029,12 +45571,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "8b11659595d97a03",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
-   "kind": "unknown",
-   "event": "2026-10-05T20:53:33+00:00",
+   "fp": "7104942c268922fb",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "flexential.com/resources/blog/disaster-recovery-has-matured-has-your-program": {
    "site": "Flexential",
@@ -45238,12 +45781,13 @@
    "prog": null,
    "pub": null,
    "mod": null,
-   "fp": "8cb4cafdcb89fff3",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
-   "kind": "unknown",
-   "event": "2026-10-12T22:39:40+00:00",
+   "fp": "d59d34c4f80a8f3b",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "flexential.com/products-services/interconnection/cross-connects": {
    "site": "Flexential",
@@ -45590,7 +46134,7 @@
    "pub": null,
    "mod": null,
    "fp": "b04e1e58842671f1",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-09-28T20:33:38+00:00",
    "bulk_pub": false,
@@ -45954,7 +46498,7 @@
    "pub": null,
    "mod": null,
    "fp": "e6718f6db2df1bf4",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-09-24T17:15:43+00:00",
    "bulk_pub": false,
@@ -47584,7 +48128,7 @@
    "pub": null,
    "mod": null,
    "fp": "45fb0caae1c5b946",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-09-21T00:00:00+00:00"
   },
@@ -47770,14 +48314,20 @@
    "site": "CoreSite",
    "url": "https://www.coresite.com/colocation",
    "title": "Colocation",
-   "date": "2026-02-25T00:00:00+00:00",
-   "lastmod": "2026-02-25T00:00:00+00:00",
+   "date": "2026-11-04T00:00:00+00:00",
+   "lastmod": "2026-11-04T00:00:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "048337458daac3f7",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-11-04T00:00:00+00:00"
   },
   "coresite.com/marketplace/neovera": {
    "site": "CoreSite",
@@ -47811,10 +48361,11 @@
    "bulk_mod": false,
    "pub": null,
    "mod": null,
-   "fp": "ba6d21a0ff2fa631",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
-   "kind": "unknown",
-   "event": "2026-09-16T00:00:00+00:00"
+   "fp": "3820eacadb0e8339",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
+   "fp_verified": true
   },
   "coresite.com/news/coresite-strengthens-native-cloud-ecosystem-at-chicago-data-center-campus-with-aws-direct-connect": {
    "site": "CoreSite",
@@ -48190,19 +48741,26 @@
   "coresite.com/blog": {
    "site": "CoreSite",
    "url": "https://www.coresite.com/blog",
-   "title": "Blog",
+   "title": "Data Center News - CoreSite Connect[ED] Blog",
    "date": "2026-10-30T00:00:00+00:00",
    "lastmod": "2026-10-30T00:00:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "landing",
+    "stage": "learning",
+    "topic": "Data center industry news and insights",
+    "search": "data center colocation cloud connectivity news",
+    "why": "Positions CoreSite as thought leader in data center and hybrid IT industry."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
    "pub": null,
    "mod": null,
-   "fp": "9e560c200b34f8fa",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "fp": "8b25e4029c4406bf",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-30T00:00:00+00:00"
   },
@@ -48404,8 +48962,8 @@
    "pub": "2026-09-24T15:00:03+00:00",
    "mod": "2026-09-24T15:00:03+00:00",
    "fp": "bb858c306db68be1",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
-   "kind": "new",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
    "event": "2026-09-24T15:00:03+00:00",
    "bulk_pub": false,
    "bulk_mod": false
@@ -49344,19 +49902,26 @@
   "coresite.com/data-center-locations/denver": {
    "site": "CoreSite",
    "url": "https://www.coresite.com/data-center-locations/denver",
-   "title": "Denver",
+   "title": "Colocation Data Centers in Denver - CoreSite",
    "date": "2026-10-27T00:00:00+00:00",
-   "lastmod": "2026-10-27T00:00:00+00:00",
+   "lastmod": "2026-11-05T00:00:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "landing",
+    "stage": "comparing",
+    "topic": "Denver colocation data center services",
+    "search": "colocation data centers Denver Colorado",
+    "why": "Showcases Denver facilities to prospects evaluating regional colocation providers."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
    "bulk_mod": false,
    "pub": null,
    "mod": null,
-   "fp": "8e2944f56191a239",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "fp": "f18e668e5126d487",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-27T00:00:00+00:00"
   },
@@ -51290,14 +51855,20 @@
    "site": "CoreSite",
    "url": "https://www.coresite.com/data-centers/data-center-design",
    "title": "Data center design",
-   "date": "2026-04-07T00:00:00+00:00",
-   "lastmod": "2026-04-07T00:00:00+00:00",
+   "date": "2026-11-04T00:00:00+00:00",
+   "lastmod": "2026-11-04T00:00:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": null,
+   "mod": null,
+   "fp": "4d4afc7585c02971",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "unknown",
+   "event": "2026-11-04T00:00:00+00:00"
   },
   "coresite.com/hybrid-it-in-the-ai-era-insights-2025-state-of-the-data-center-report": {
    "site": "CoreSite",
@@ -51445,7 +52016,7 @@
    "url": "https://www.coresite.com/resource-category/infographics",
    "title": "Data Center Infographics - CoreSite",
    "date": "2026-10-05T00:00:00+00:00",
-   "lastmod": "2026-10-05T00:00:00+00:00",
+   "lastmod": "2026-11-06T00:00:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": false,
@@ -51460,7 +52031,7 @@
    "pub": null,
    "mod": null,
    "fp": "c9fe87468e037c7a",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-05T00:00:00+00:00",
    "bulk_pub": false,
@@ -53097,7 +53668,7 @@
    "pub": null,
    "mod": null,
    "fp": "fd5a3f0b477c57d9",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-09-10T00:00:00+00:00"
   },
@@ -55302,11 +55873,18 @@
   "coresite.com/about": {
    "site": "CoreSite",
    "url": "https://www.coresite.com/about",
-   "title": "About",
+   "title": "About CoreSite – Data Center and Colocation Company",
    "date": "2026-10-29T00:00:00+00:00",
    "lastmod": "2026-10-29T00:00:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": false,
+    "type": "landing",
+    "stage": "learning",
+    "topic": "CoreSite company overview",
+    "search": "data center colocation company",
+    "why": "Establishes brand identity, heritage, and market position for prospect research."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -55314,7 +55892,7 @@
    "pub": null,
    "mod": null,
    "fp": "ba41a2d8cdb157fd",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-29T00:00:00+00:00"
   },
@@ -56046,11 +56624,18 @@
   "coresite.com/video/data-center-explainer": {
    "site": "CoreSite",
    "url": "https://www.coresite.com/video/data-center-explainer",
-   "title": "Data center explainer",
+   "title": "What is a Data Center?",
    "date": "2026-10-29T00:00:00+00:00",
    "lastmod": "2026-10-29T00:00:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "what is a data center",
+    "search": "what is a data center",
+    "why": "Educates prospects on data center basics and positions colocation as solution."
+   },
    "baseline": true,
    "prog": null,
    "bulk_pub": false,
@@ -56058,7 +56643,7 @@
    "pub": null,
    "mod": null,
    "fp": "af614367bbcf4ba5",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-29T00:00:00+00:00"
   },
@@ -56834,7 +57419,7 @@
    "url": "https://expedient.com/knowledgebase/resources/careworks-tech/",
    "title": "Careworks tech",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -56856,7 +57441,7 @@
    "url": "https://expedient.com/knowledgebase/resources/elite-services-inc/",
    "title": "Elite services inc",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -56867,7 +57452,7 @@
    "url": "https://expedient.com/knowledgebase/resources/first-insight/",
    "title": "First insight",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -56878,7 +57463,7 @@
    "url": "https://expedient.com/knowledgebase/resources/interactiveblue/",
    "title": "Interactiveblue",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -56889,7 +57474,7 @@
    "url": "https://expedient.com/knowledgebase/resources/irth-solutions-llc/",
    "title": "Irth solutions llc",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -56900,7 +57485,7 @@
    "url": "https://expedient.com/knowledgebase/resources/medcom-solutions/",
    "title": "Medcom solutions",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -56911,7 +57496,7 @@
    "url": "https://expedient.com/knowledgebase/resources/nonni-s-foods/",
    "title": "Nonni s foods",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -56922,7 +57507,7 @@
    "url": "https://expedient.com/knowledgebase/resources/orchard-software/",
    "title": "Orchard software",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -56933,7 +57518,7 @@
    "url": "https://expedient.com/knowledgebase/resources/shapiro/",
    "title": "Shapiro",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -56944,7 +57529,7 @@
    "url": "https://expedient.com/knowledgebase/resources/softlinx-inc/",
    "title": "Softlinx inc",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -56966,7 +57551,7 @@
    "url": "https://expedient.com/knowledgebase/resources/ultimate-home-services/",
    "title": "Ultimate home services",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -66337,19 +66922,20 @@
    "prog": null,
    "pub": "2026-10-13T13:00:00+00:00",
    "mod": null,
-   "fp": "eacc11c891d6165c",
-   "dates_checked": "2026-10-20T00:50:15+00:00",
-   "kind": "new",
-   "event": "2026-10-13T13:00:00+00:00",
+   "fp": "cfa9f840c77c1ca5",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "event": "2026-11-09T16:28:00+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "fp_verified": true
   },
   "expedient.com/knowledgebase/tools-and-calculators/bridge-fit-check": {
    "site": "Expedient",
    "url": "https://expedient.com/knowledgebase/tools-and-calculators/bridge-fit-check/",
    "title": "Bridge fit check",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -66360,7 +66946,7 @@
    "url": "https://expedient.com/knowledgebase/tools-and-calculators/cloud-build-vs-buy-calculator/",
    "title": "Cloud build vs buy calculator",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -66382,7 +66968,7 @@
    "url": "https://expedient.com/knowledgebase/tools-and-calculators/cost-of-downtime-calculator/",
    "title": "Cost of downtime calculator",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -66393,7 +66979,7 @@
    "url": "https://expedient.com/knowledgebase/tools-and-calculators/data-center-build-vs-buy-calculator/",
    "title": "Data center build vs buy calculator",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -66404,7 +66990,7 @@
    "url": "https://expedient.com/knowledgebase/tools-and-calculators/disk-based-backup-calculator/",
    "title": "Disk based backup calculator",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -66415,7 +67001,7 @@
    "url": "https://expedient.com/knowledgebase/tools-and-calculators/disk-raid-and-iops-calculator/",
    "title": "Disk raid and iops calculator",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -66426,7 +67012,7 @@
    "url": "https://expedient.com/knowledgebase/tools-and-calculators/vmware-vs-nutanix-pricing/",
    "title": "Vmware vs nutanix pricing",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -66437,7 +67023,7 @@
    "url": "https://expedient.com/knowledgebase/tools-and-calculators/file-transfer-time-calculator/",
    "title": "File transfer time calculator",
    "date": "2026-10-19T18:51:59+00:00",
-   "lastmod": "2026-11-01T07:59:35+00:00",
+   "lastmod": "2026-11-06T19:36:14+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": null,
    "baseline": true,
@@ -77412,7 +77998,7 @@
    "url": "https://expedient.com/aqueduct.html",
    "title": "Aqueduct",
    "date": "2026-10-19T18:51:27+00:00",
-   "lastmod": "2026-11-01T07:59:01+00:00",
+   "lastmod": "2026-11-06T19:35:45+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": true,
@@ -77427,7 +78013,7 @@
    "pub": null,
    "mod": null,
    "fp": "da39a3ee5e6b4b0d",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-19T18:51:27+00:00",
    "bulk_pub": false,
@@ -77438,7 +78024,7 @@
    "url": "https://expedient.com/company/helper.html",
    "title": "Helper",
    "date": "2026-10-19T18:51:27+00:00",
-   "lastmod": "2026-11-01T07:59:01+00:00",
+   "lastmod": "2026-11-06T19:35:45+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": false,
@@ -77453,7 +78039,7 @@
    "pub": null,
    "mod": null,
    "fp": "912c98585aa779a9",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-19T18:51:27+00:00",
    "bulk_pub": false,
@@ -77464,7 +78050,7 @@
    "url": "https://expedient.com/exp_pardot-landing/",
    "title": "Contact V17",
    "date": "2026-10-19T18:51:27+00:00",
-   "lastmod": "2026-11-01T07:59:01+00:00",
+   "lastmod": "2026-11-06T19:35:45+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": false,
@@ -77479,7 +78065,7 @@
    "pub": null,
    "mod": null,
    "fp": "7fe094a670023d6b",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-19T18:51:27+00:00",
    "bulk_pub": false,
@@ -77490,7 +78076,7 @@
    "url": "https://expedient.com/expedient-rebill-resell-client-master_tc.html",
    "title": "Expedient Rebill Resell Client Master T&C - 9.19.2024",
    "date": "2026-10-19T18:51:27+00:00",
-   "lastmod": "2026-11-01T07:59:01+00:00",
+   "lastmod": "2026-11-06T19:35:45+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": false,
@@ -77505,7 +78091,7 @@
    "pub": null,
    "mod": null,
    "fp": "8b517aa22d0ac68b",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-19T18:51:27+00:00",
    "bulk_pub": false,
@@ -77516,7 +78102,7 @@
    "url": "https://expedient.com/google9c544a3a3580a196.html",
    "title": "Google9c544a3a3580a196",
    "date": "2026-10-19T18:51:27+00:00",
-   "lastmod": "2026-11-01T07:59:01+00:00",
+   "lastmod": "2026-11-06T19:35:45+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": false,
@@ -77531,7 +78117,7 @@
    "pub": null,
    "mod": null,
    "fp": "66a20f24bc17c607",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-19T18:51:27+00:00",
    "bulk_pub": false,
@@ -77542,7 +78128,7 @@
    "url": "https://expedient.com/helper.html",
    "title": "Helper",
    "date": "2026-10-19T18:51:27+00:00",
-   "lastmod": "2026-11-01T07:59:01+00:00",
+   "lastmod": "2026-11-06T19:35:45+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": false,
@@ -77557,7 +78143,7 @@
    "pub": null,
    "mod": null,
    "fp": "912c98585aa779a9",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-19T18:51:27+00:00",
    "bulk_pub": false,
@@ -77568,7 +78154,7 @@
    "url": "https://expedient.com/np/",
    "title": "Random Name Picker for Lucky Draw",
    "date": "2026-10-19T18:51:27+00:00",
-   "lastmod": "2026-11-01T07:59:01+00:00",
+   "lastmod": "2026-11-06T19:35:45+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": false,
@@ -77583,7 +78169,7 @@
    "pub": null,
    "mod": null,
    "fp": "145efa4f9c7b2512",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-19T18:51:27+00:00",
    "bulk_pub": false,
@@ -77594,7 +78180,7 @@
    "url": "https://expedient.com/qg/",
    "title": "CodePen - EXP-Calc-Pardot",
    "date": "2026-10-19T18:51:27+00:00",
-   "lastmod": "2026-11-01T07:59:01+00:00",
+   "lastmod": "2026-11-06T19:35:45+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": false,
@@ -77609,7 +78195,7 @@
    "pub": null,
    "mod": null,
    "fp": "6124ecaf6f0b5b5c",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-19T18:51:27+00:00",
    "bulk_pub": false,
@@ -77620,7 +78206,7 @@
    "url": "https://expedient.com/savvior.html",
    "title": "Savvior",
    "date": "2026-10-19T18:51:27+00:00",
-   "lastmod": "2026-11-01T07:59:01+00:00",
+   "lastmod": "2026-11-06T19:35:45+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": true,
@@ -77635,7 +78221,7 @@
    "pub": null,
    "mod": null,
    "fp": "da39a3ee5e6b4b0d",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-19T18:51:27+00:00",
    "bulk_pub": false,
@@ -77646,7 +78232,7 @@
    "url": "https://expedient.com/uploads/IconSearch.html",
    "title": "Icon Search",
    "date": "2026-10-19T18:51:29+00:00",
-   "lastmod": "2026-11-01T07:59:03+00:00",
+   "lastmod": "2026-11-06T19:35:46+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": false,
@@ -77661,7 +78247,7 @@
    "pub": null,
    "mod": null,
    "fp": "169fc87bca4d14bb",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-19T18:51:29+00:00",
    "bulk_pub": false,
@@ -77672,7 +78258,7 @@
    "url": "https://expedient.com/vmware-test-drive-legacy/",
    "title": "Expedient | Test the performanceof the enterprise cloud",
    "date": "2026-10-19T18:51:31+00:00",
-   "lastmod": "2026-11-01T07:59:05+00:00",
+   "lastmod": "2026-11-06T19:35:48+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": true,
@@ -77687,7 +78273,7 @@
    "pub": null,
    "mod": null,
    "fp": "ca8eb1c02ba25d11",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-19T18:51:31+00:00",
    "bulk_pub": false,
@@ -77698,7 +78284,7 @@
    "url": "https://expedient.com/vmware-test-drive-legacy/pages/success.html",
    "title": "Expedient | Thank You",
    "date": "2026-10-19T18:51:31+00:00",
-   "lastmod": "2026-11-01T07:59:05+00:00",
+   "lastmod": "2026-11-06T19:35:48+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": false,
@@ -77713,7 +78299,7 @@
    "pub": null,
    "mod": null,
    "fp": "da39a3ee5e6b4b0d",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-19T18:51:31+00:00",
    "bulk_pub": false,
@@ -77724,7 +78310,7 @@
    "url": "https://expedient.com/vrtours/cmh3/",
    "title": "CMH3_MappedTourInfo",
    "date": "2026-10-19T18:51:31+00:00",
-   "lastmod": "2026-11-01T07:59:05+00:00",
+   "lastmod": "2026-11-06T19:35:48+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "cls": {
     "is_content": true,
@@ -77739,7 +78325,7 @@
    "pub": null,
    "mod": null,
    "fp": "fd2e0681943c1b25",
-   "dates_checked": "2026-11-02T16:02:33+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "kind": "unknown",
    "event": "2026-10-19T18:51:31+00:00",
    "bulk_pub": false,
@@ -77793,7 +78379,7 @@
    "pub": "2026-10-21T22:03:33+00:00",
    "mod": "2026-10-22T16:18:25+00:00",
    "fp": "9484d0a100cfbfd8",
-   "dates_checked": "2026-10-26T13:09:43+00:00",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
    "bulk_pub": false,
    "bulk_mod": false
   },
@@ -115969,13 +116555,22 @@
    "date": "2026-09-28T16:56:11+00:00",
    "lastmod": "2026-09-28T16:56:11+00:00",
    "first_seen": "2026-10-26T13:09:43+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "case",
+    "stage": "buying",
+    "topic": "healthcare migration planning",
+    "search": "healthcare IT migration planning",
+    "why": "Demonstrates Rackspace's ability to deliver predictable outcomes for regulated healthcare migrations."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-10-26T13:09:43+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/de-ch/blog/versteckte-ai-kosten-private-cloud-kosten-sparende-lösung": {
    "site": "Rackspace Technology",
@@ -128873,13 +129468,22 @@
    "date": "2026-09-28T16:56:11+00:00",
    "lastmod": "2026-09-28T16:56:11+00:00",
    "first_seen": "2026-10-26T13:09:43+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "case",
+    "stage": "buying",
+    "topic": "healthcare IT migration planning",
+    "search": "healthcare system cloud migration success",
+    "why": "Demonstrates Rackspace's migration expertise to win healthcare buyers in deciding phase."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-10-26T13:09:43+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/en-hk/blog/veterans-day-honoring-those-who-serve": {
    "site": "Rackspace Technology",
@@ -141731,13 +142335,22 @@
    "date": "2026-09-28T16:56:11+00:00",
    "lastmod": "2026-09-28T16:56:11+00:00",
    "first_seen": "2026-10-26T13:09:43+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "case",
+    "stage": "buying",
+    "topic": "healthcare migration planning",
+    "search": "healthcare cloud migration",
+    "why": "Shows healthcare clients predictable migration outcomes with upfront planning and expertise."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-10-26T13:09:43+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "URL not found (404)",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/en-in/blog/veterans-day-honoring-those-who-serve": {
    "site": "Rackspace Technology",
@@ -154590,13 +155203,22 @@
    "date": "2026-09-28T16:56:11+00:00",
    "lastmod": "2026-09-28T16:56:11+00:00",
    "first_seen": "2026-10-26T13:09:43+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "case",
+    "stage": "buying",
+    "topic": "Healthcare migration planning",
+    "search": "healthcare cloud migration strategy",
+    "why": "Shows buyers how Rackspace delivers predictable migrations for complex healthcare workloads."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-10-26T13:09:43+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/en-nl/blog/veterans-day-honoring-those-who-serve": {
    "site": "Rackspace Technology",
@@ -167449,13 +168071,22 @@
    "date": "2026-09-28T16:56:11+00:00",
    "lastmod": "2026-09-28T16:56:11+00:00",
    "first_seen": "2026-10-26T13:09:43+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "case",
+    "stage": "buying",
+    "topic": "Healthcare cloud migration planning",
+    "search": "healthcare IT infrastructure migration strategy",
+    "why": "Shows healthcare industry expertise through detailed migration planning methodology and outcomes."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-10-26T13:09:43+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "URL not found (404)",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/en-sg/blog/veterans-day-honoring-those-who-serve": {
    "site": "Rackspace Technology",
@@ -180307,13 +180938,22 @@
    "date": "2026-09-28T16:56:11+00:00",
    "lastmod": "2026-09-28T16:56:11+00:00",
    "first_seen": "2026-10-26T13:09:43+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "case",
+    "stage": "buying",
+    "topic": "Healthcare migration planning",
+    "search": "healthcare cloud migration planning",
+    "why": "Demonstrates predictable outcomes for healthcare organizations planning complex infrastructure moves."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-10-26T13:09:43+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/en-ph/blog/veterans-day-honoring-those-who-serve": {
    "site": "Rackspace Technology",
@@ -193500,13 +194140,22 @@
    "date": "2026-09-28T16:56:11+00:00",
    "lastmod": "2026-09-28T16:56:11+00:00",
    "first_seen": "2026-10-26T13:09:43+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "case",
+    "stage": "buying",
+    "topic": "Healthcare migration planning strategy",
+    "search": "healthcare cloud migration best practices",
+    "why": "Shows healthcare buyers how upfront planning reduces migration risk and complexity."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-10-26T13:09:43+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-ar/blog/veterans-day-honoring-those-who-serve": {
    "site": "Rackspace Technology",
@@ -206705,13 +207354,22 @@
    "date": "2026-09-28T16:56:11+00:00",
    "lastmod": "2026-09-28T16:56:11+00:00",
    "first_seen": "2026-10-26T13:09:43+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "case",
+    "stage": "buying",
+    "topic": "Healthcare migration planning approach",
+    "search": "healthcare cloud migration strategy",
+    "why": "Demonstrates proven methodology to overcome buyer concerns about migration complexity and risk."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-10-26T13:09:43+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "URL not found (404)",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-cl/blog/veterans-day-honoring-those-who-serve": {
    "site": "Rackspace Technology",
@@ -219908,13 +220566,22 @@
    "date": "2026-09-28T16:56:11+00:00",
    "lastmod": "2026-09-28T16:56:11+00:00",
    "first_seen": "2026-10-26T13:09:43+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "case",
+    "stage": "buying",
+    "topic": "healthcare migration planning predictability",
+    "search": "healthcare cloud migration planning process",
+    "why": "Demonstrates Rackspace's methodology to healthcare buyers planning complex migrations."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-10-26T13:09:43+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-co/blog/veterans-day-honoring-those-who-serve": {
    "site": "Rackspace Technology",
@@ -233111,13 +233778,22 @@
    "date": "2026-09-28T16:56:11+00:00",
    "lastmod": "2026-09-28T16:56:11+00:00",
    "first_seen": "2026-10-26T13:09:43+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "case",
+    "stage": "buying",
+    "topic": "Healthcare migration planning infrastructure",
+    "search": "healthcare migration to cloud planning",
+    "why": "Demonstrates migration planning expertise to healthcare buyers evaluating infrastructure moves."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-10-26T13:09:43+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-pe/blog/veterans-day-honoring-those-who-serve": {
    "site": "Rackspace Technology",
@@ -265825,7 +266501,8 @@
    "fp": "9020dead9f34ba2e",
    "dates_checked": "2026-11-02T16:02:33+00:00",
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "missing_since": "2026-11-09T16:28:00+00:00"
   },
   "digitalrealty.com/about/newsroom/press-releases/3391849/digital-realty-reports-third-quarter-2026-results": {
    "site": "Digital Realty",
@@ -265925,13 +266602,22 @@
    "date": "2026-10-28T14:19:01+00:00",
    "lastmod": "2026-10-28T14:19:01+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "case",
+    "stage": "comparing",
+    "topic": "Connected healthcare cloud Epic AI",
+    "search": "healthcare cloud Epic AI infrastructure",
+    "why": "Demonstrates Rackspace capability to healthcare buyers evaluating cloud partners."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "URL not found (404)",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/blog/governing-ai-agents-starts-infrastructure-beneath-them": {
    "site": "Rackspace Technology",
@@ -265994,13 +266680,22 @@
    "date": "2026-10-26T18:58:16+00:00",
    "lastmod": "2026-10-26T18:58:16+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Data sovereignty and governance in cloud",
+    "search": "data sovereignty governance cloud compliance",
+    "why": "Educates prospects on sovereignty benefits as a differentiator against hyperscalers."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/de-at/blog/cyberattacks-never-cross-your-firewall": {
    "site": "Rackspace Technology",
@@ -266035,13 +266730,22 @@
    "date": "2026-10-28T14:19:01+00:00",
    "lastmod": "2026-10-28T14:19:01+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Connected healthcare cloud Epic data AI",
+    "search": "healthcare cloud Epic data AI integration",
+    "why": "Educates healthcare IT leaders on modern cloud architectures for connected systems."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "URL not found (404)",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/de-at/blog/governing-ai-agents-starts-infrastructure-beneath-them": {
    "site": "Rackspace Technology",
@@ -266104,13 +266808,22 @@
    "date": "2026-10-26T18:58:16+00:00",
    "lastmod": "2026-10-26T18:58:16+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Data sovereignty governance compliance",
+    "search": "data sovereignty compliance governance",
+    "why": "Establishes thought leadership on regulated industries' data control concerns."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/de-ch/blog/cyberattacks-never-cross-your-firewall": {
    "site": "Rackspace Technology",
@@ -266145,13 +266858,22 @@
    "date": "2026-10-28T14:19:01+00:00",
    "lastmod": "2026-10-28T14:19:01+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Connected healthcare cloud Epic data AI",
+    "search": "design connected healthcare cloud Epic data",
+    "why": "Educates healthcare buyers on building Epic-integrated cloud infrastructure with AI capabilities."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/de-ch/blog/governing-ai-agents-starts-infrastructure-beneath-them": {
    "site": "Rackspace Technology",
@@ -266214,13 +266936,22 @@
    "date": "2026-10-26T18:58:16+00:00",
    "lastmod": "2026-10-26T18:58:16+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Data sovereignty and governance",
+    "search": "data sovereignty governance compliance",
+    "why": "Establishes thought leadership on regulatory compliance and data residency concerns."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/en-hk/blog/cyberattacks-never-cross-your-firewall": {
    "site": "Rackspace Technology",
@@ -266255,13 +266986,22 @@
    "date": "2026-10-28T14:19:01+00:00",
    "lastmod": "2026-10-28T14:19:01+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Healthcare cloud Epic AI data",
+    "search": "build connected healthcare cloud Epic",
+    "why": "Educates healthcare IT decision-makers on cloud architecture patterns for EHR systems."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/en-hk/blog/governing-ai-agents-starts-infrastructure-beneath-them": {
    "site": "Rackspace Technology",
@@ -266324,13 +267064,22 @@
    "date": "2026-10-26T18:58:16+00:00",
    "lastmod": "2026-10-26T18:58:16+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Data sovereignty governance compliance",
+    "search": "data sovereignty compliance requirements",
+    "why": "Positions Rackspace as trusted advisor on critical compliance and governance challenges."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/en-in/blog/cyberattacks-never-cross-your-firewall": {
    "site": "Rackspace Technology",
@@ -266365,13 +267114,22 @@
    "date": "2026-10-28T14:19:01+00:00",
    "lastmod": "2026-10-28T14:19:01+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Connected healthcare cloud Epic data AI",
+    "search": "design connected healthcare cloud Epic",
+    "why": "Educates healthcare organizations on building cloud infrastructure for Epic systems."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "URL not found (404)",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/en-in/blog/governing-ai-agents-starts-infrastructure-beneath-them": {
    "site": "Rackspace Technology",
@@ -266434,13 +267192,25 @@
    "date": "2026-10-26T18:58:16+00:00",
    "lastmod": "2026-10-26T18:58:16+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Data sovereignty governance compliance",
+    "search": "data sovereignty governance compliance",
+    "why": "Establishes thought leadership on compliance and sovereignty concerns in cloud infrastructure."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "pub": "2026-10-26T00:00:00+00:00",
+   "mod": null,
+   "fp": "77f1b2a1e64c67ce",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/en-nl/blog/cyberattacks-never-cross-your-firewall": {
    "site": "Rackspace Technology",
@@ -266475,13 +267245,22 @@
    "date": "2026-10-28T14:19:01+00:00",
    "lastmod": "2026-10-28T14:19:01+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Healthcare cloud infrastructure Epic data",
+    "search": "how to design connected healthcare cloud",
+    "why": "Educates healthcare IT teams on cloud architecture for Epic systems."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/en-nl/blog/governing-ai-agents-starts-infrastructure-beneath-them": {
    "site": "Rackspace Technology",
@@ -266544,13 +267323,22 @@
    "date": "2026-10-26T18:58:16+00:00",
    "lastmod": "2026-10-26T18:58:16+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Data sovereignty governance infrastructure",
+    "search": "data sovereignty compliance managed services",
+    "why": "Establishes thought leadership on data governance for compliance-conscious prospects evaluating infrastructure."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/en-sg/blog/cyberattacks-never-cross-your-firewall": {
    "site": "Rackspace Technology",
@@ -266585,13 +267373,22 @@
    "date": "2026-10-28T14:19:01+00:00",
    "lastmod": "2026-10-28T14:19:01+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Connected healthcare cloud Epic data AI",
+    "search": "healthcare cloud Epic data AI architecture",
+    "why": "Establishes thought leadership on healthcare cloud infrastructure and AI integration."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/en-sg/blog/governing-ai-agents-starts-infrastructure-beneath-them": {
    "site": "Rackspace Technology",
@@ -266650,17 +267447,28 @@
   "rackspace.com/en-sg/blog/sovereignty-and-governance-you-can-prove": {
    "site": "Rackspace Technology",
    "url": "https://www.rackspace.com/en-sg/blog/sovereignty-and-governance-you-can-prove",
-   "title": "Sovereignty and governance you can prove",
+   "title": "Sovereignty and Governance You Can Prove",
    "date": "2026-10-26T18:58:16+00:00",
    "lastmod": "2026-10-26T18:58:16+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Proving sovereignty and governance controls",
+    "search": "how to prove governance controls work",
+    "why": "Educates prospects on regulatory compliance and positions Rackspace as governance expert."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-10-26T00:00:00+00:00",
+   "mod": null,
+   "fp": "77f1b2a1e64c67ce",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/en-ph/blog/cyberattacks-never-cross-your-firewall": {
    "site": "Rackspace Technology",
@@ -266695,13 +267503,22 @@
    "date": "2026-10-28T14:19:01+00:00",
    "lastmod": "2026-10-28T14:19:01+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "connected healthcare cloud Epic data AI",
+    "search": "design connected healthcare cloud Epic",
+    "why": "Educates healthcare IT teams on architecting modern cloud solutions for Epic systems."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/en-ph/blog/governing-ai-agents-starts-infrastructure-beneath-them": {
    "site": "Rackspace Technology",
@@ -266765,13 +267582,22 @@
    "date": "2026-10-26T18:58:16+00:00",
    "lastmod": "2026-10-26T18:58:16+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Data sovereignty governance compliance",
+    "search": "data sovereignty governance compliance",
+    "why": "Establishes thought leadership on compliance and sovereignty for prospects in early research."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-ar/blog/cyberattacks-never-cross-your-firewall": {
    "site": "Rackspace Technology",
@@ -266806,13 +267632,22 @@
    "date": "2026-10-28T14:19:01+00:00",
    "lastmod": "2026-10-28T14:19:01+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Connected healthcare cloud Epic data AI",
+    "search": "design connected healthcare cloud Epic",
+    "why": "Attracts healthcare IT teams exploring cloud solutions for Epic systems."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "URL not found (404)",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-ar/blog/governing-ai-agents-starts-infrastructure-beneath-them": {
    "site": "Rackspace Technology",
@@ -266875,13 +267710,25 @@
    "date": "2026-10-26T18:58:16+00:00",
    "lastmod": "2026-10-26T18:58:16+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Data sovereignty governance cloud",
+    "search": "data sovereignty cloud governance compliance",
+    "why": "Establishes thought leadership on regulatory compliance and data residency concerns."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "pub": "2026-10-26T00:00:00+00:00",
+   "mod": null,
+   "fp": "77f1b2a1e64c67ce",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-cl/blog/cyberattacks-never-cross-your-firewall": {
    "site": "Rackspace Technology",
@@ -266916,13 +267763,22 @@
    "date": "2026-10-28T14:19:01+00:00",
    "lastmod": "2026-10-28T14:19:01+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "healthcare cloud Epic data AI",
+    "search": "connected healthcare cloud Epic AI",
+    "why": "Positions Rackspace as thought leader for healthcare IT infrastructure and cloud solutions."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-cl/blog/governing-ai-agents-starts-infrastructure-beneath-them": {
    "site": "Rackspace Technology",
@@ -266985,13 +267841,22 @@
    "date": "2026-10-26T18:58:16+00:00",
    "lastmod": "2026-10-26T18:58:16+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "data sovereignty and governance",
+    "search": "data sovereignty governance compliance",
+    "why": "Establishes thought leadership on regulatory compliance and data governance concerns."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-co/blog/cyberattacks-never-cross-your-firewall": {
    "site": "Rackspace Technology",
@@ -267026,13 +267891,22 @@
    "date": "2026-10-28T14:19:01+00:00",
    "lastmod": "2026-10-28T14:19:01+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Connected healthcare cloud infrastructure",
+    "search": "healthcare cloud epic data AI design",
+    "why": "Educates healthcare IT decision-makers on cloud-native approaches to Epic integration."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "URL not found (404)",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-co/blog/governing-ai-agents-starts-infrastructure-beneath-them": {
    "site": "Rackspace Technology",
@@ -267091,17 +267965,28 @@
   "rackspace.com/es-co/blog/sovereignty-and-governance-you-can-prove": {
    "site": "Rackspace Technology",
    "url": "https://www.rackspace.com/es-co/blog/sovereignty-and-governance-you-can-prove",
-   "title": "Sovereignty and governance you can prove",
+   "title": "Sovereignty and Governance You Can Prove",
    "date": "2026-10-26T18:58:16+00:00",
    "lastmod": "2026-10-26T18:58:16+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Sovereignty governance compliance controls",
+    "search": "prove sovereignty governance compliance controls",
+    "why": "Establishes thought leadership on regulatory compliance and infrastructure control validation for regulated industries."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-10-26T00:00:00+00:00",
+   "mod": null,
+   "fp": "77f1b2a1e64c67ce",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-pe/blog/cyberattacks-never-cross-your-firewall": {
    "site": "Rackspace Technology",
@@ -267136,13 +268021,22 @@
    "date": "2026-10-28T14:19:01+00:00",
    "lastmod": "2026-10-28T14:19:01+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Connected healthcare cloud Epic data AI",
+    "search": "design connected healthcare cloud Epic",
+    "why": "Educates healthcare buyers on integrating Epic with cloud infrastructure and AI capabilities."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-pe/blog/governing-ai-agents-starts-infrastructure-beneath-them": {
    "site": "Rackspace Technology",
@@ -267201,17 +268095,28 @@
   "rackspace.com/es-pe/blog/sovereignty-and-governance-you-can-prove": {
    "site": "Rackspace Technology",
    "url": "https://www.rackspace.com/es-pe/blog/sovereignty-and-governance-you-can-prove",
-   "title": "Sovereignty and governance you can prove",
+   "title": "Sovereignty and Governance You Can Prove",
    "date": "2026-10-26T18:58:16+00:00",
    "lastmod": "2026-10-26T18:58:16+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Sovereignty, governance and compliance controls",
+    "search": "how to prove compliance controls and governance",
+    "why": "Establishes Rackspace as trusted advisor for regulated organizations needing control frameworks."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "pub": "2026-10-26T00:00:00+00:00",
+   "mod": null,
+   "fp": "77f1b2a1e64c67ce",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-us/blog/cyberattacks-never-cross-your-firewall": {
    "site": "Rackspace Technology",
@@ -267220,13 +268125,22 @@
    "date": "2026-10-28T16:33:40+00:00",
    "lastmod": "2026-10-28T16:33:40+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Firewall security cyberattacks protection",
+    "search": "cyberattacks firewall security protection",
+    "why": "Establishes thought leadership on firewall security for early-stage security researchers."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-us/blog/design-connected-healthcare-cloud-epic-data-ai": {
    "site": "Rackspace Technology",
@@ -267235,13 +268149,22 @@
    "date": "2026-10-28T14:19:01+00:00",
    "lastmod": "2026-10-28T14:19:01+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Connected healthcare cloud Epic data AI",
+    "search": "healthcare cloud Epic data AI design",
+    "why": "Educates healthcare IT decision-makers on cloud infrastructure for Epic systems."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-us/blog/governing-ai-agents-starts-infrastructure-beneath-them": {
    "site": "Rackspace Technology",
@@ -267304,13 +268227,22 @@
    "date": "2026-10-26T18:58:16+00:00",
    "lastmod": "2026-10-26T18:58:16+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Data sovereignty governance compliance",
+    "search": "data sovereignty governance compliance requirements",
+    "why": "Positions Rackspace as expert on regulated data residency and compliance concerns."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-ve/blog/cyberattacks-never-cross-your-firewall": {
    "site": "Rackspace Technology",
@@ -267319,13 +268251,22 @@
    "date": "2026-10-28T16:33:40+00:00",
    "lastmod": "2026-10-28T16:33:40+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "firewall security cyberattack protection",
+    "search": "how to prevent cyberattacks firewall",
+    "why": "Establishes Rackspace security expertise to attract companies researching threat prevention."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-ve/blog/design-connected-healthcare-cloud-epic-data-ai": {
    "site": "Rackspace Technology",
@@ -267334,13 +268275,22 @@
    "date": "2026-10-28T14:19:01+00:00",
    "lastmod": "2026-10-28T14:19:01+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "learning",
+    "topic": "Connected healthcare cloud Epic AI",
+    "search": "design healthcare cloud Epic data AI",
+    "why": "Educates healthcare prospects on cloud architecture for Epic systems and AI integration."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/es-ve/blog/governing-ai-agents-starts-infrastructure-beneath-them": {
    "site": "Rackspace Technology",
@@ -267403,13 +268353,22 @@
    "date": "2026-10-26T18:58:16+00:00",
    "lastmod": "2026-10-26T18:58:16+00:00",
    "first_seen": "2026-11-02T16:02:33+00:00",
-   "cls": null,
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "data sovereignty and governance",
+    "search": "data sovereignty compliance governance",
+    "why": "Establishes Rackspace expertise in data sovereignty and compliance for regulated industries."
+   },
    "baseline": false,
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": null,
    "bulk_pub": false,
-   "bulk_mod": false
+   "bulk_mod": false,
+   "read_error": "HTTP 503",
+   "dates_checked": "2026-11-09T16:28:00+00:00"
   },
   "rackspace.com/newsroom/hgs-rackspace-private-ai-infrastructure-powered-amd": {
    "site": "Rackspace Technology",
@@ -267566,32 +268525,606 @@
    "kind": "new",
    "event": "2026-11-02T16:02:33+00:00",
    "prog": "collection"
+  },
+  "tierpoint.com/capezx-vs-opex-infographic": {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/capezx-vs-opex-infographic/",
+   "title": "CapEx vs OpEx in the Cloud | TierPoint, LLC",
+   "date": "2026-11-06T13:54:51+00:00",
+   "lastmod": "2026-11-06T13:54:51+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "landing",
+    "stage": "learning",
+    "topic": "CapEx vs OpEx cloud computing",
+    "search": "capex vs opex cloud",
+    "why": "Educates prospects on cost models when evaluating infrastructure options."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": null,
+   "pub": "2026-11-06T13:54:49+00:00",
+   "mod": "2026-11-06T13:54:51+00:00",
+   "fp": "0e02f798b07b0180",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "digitalrealty.com/resources/blog/flex": {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/flex",
+   "title": "Flex Drives 25% Partner Growth with Digital Realty",
+   "date": "2026-11-04T14:47:00+00:00",
+   "lastmod": "2026-11-04T14:47:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "case",
+    "stage": "buying",
+    "topic": "French telecom aggregator data center scaling",
+    "search": "data center colocation resilience scalability",
+    "why": "Demonstrates infrastructure value through real customer growth metrics and multi-site architecture benefits."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": null,
+   "pub": "2026-10-30T00:00:00+00:00",
+   "mod": null,
+   "fp": "229e206cd78b1712",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "digitalrealty.com/resources/blog/ai-is-leaving-the-lab-heres-what-it-needs": {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/ai-is-leaving-the-lab-heres-what-it-needs",
+   "title": "AI infrastructure: A CTO’s view | Digital Realty",
+   "date": "2026-11-04T18:36:00+00:00",
+   "lastmod": "2026-11-04T18:36:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "AI infrastructure power cooling connectivity",
+    "search": "AI infrastructure power cooling production",
+    "why": "Establishes CTO thought leadership on enterprise AI infrastructure requirements and Digital Realty's readiness."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": null,
+   "pub": "2026-11-04T00:00:00+00:00",
+   "mod": null,
+   "fp": "f23d65d08e65b02b",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "digitalrealty.com/about/newsroom/press-releases/3396675/digital-realty-innovation-lab-s-o-paulo-expands-ai-infrastructure-testing-in-latin-america": {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/about/newsroom/press-releases/3396675/digital-realty-innovation-lab-s-o-paulo-expands-ai-infrastructure-testing-in-latin-america",
+   "title": "Digital realty innovation lab s o paulo expands ai infrastructure testing in latin america",
+   "date": "2026-11-05T15:06:00+00:00",
+   "lastmod": "2026-11-05T15:06:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "about"
+  },
+  "digitalrealty.com/resources/videos/leadership-lounge-eplus": {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/leadership-lounge-eplus",
+   "title": "Leadership Lounge | Digital Realty & ePlus",
+   "date": "2026-11-06T18:33:00+00:00",
+   "lastmod": "2026-11-06T18:33:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "learning",
+    "topic": "Enterprise AI infrastructure readiness",
+    "search": "enterprise AI infrastructure governance adoption",
+    "why": "Positions Digital Realty as thought leader on AI infrastructure needs for enterprise buyers."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": null,
+   "pub": "2026-11-06T00:00:00+00:00",
+   "mod": null,
+   "fp": "6e2c4e88cc918d1f",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "flexential.com/resources/ebook/get-more-your-vmware-investment": {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/ebook/get-more-your-vmware-investment",
+   "title": "Get more from your VMware investment",
+   "date": "2026-11-03T22:51:56+00:00",
+   "lastmod": "2026-11-03T22:51:56+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "landing",
+    "stage": "comparing",
+    "topic": "VMware investment options and strategy",
+    "search": "VMware migration options 2027",
+    "why": "Attracts IT leaders evaluating VMware strategies and managed private cloud alternatives."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "dd711445916966c3",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "flexential.com/resources/media-coverage/zdnet-companies-are-ditching-cloud-save-millions-should-you-one-factor": {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/media-coverage/zdnet-companies-are-ditching-cloud-save-millions-should-you-one-factor",
+   "title": "ZDNet: Companies are ditching the cloud to save millions – should you? One factor matters most",
+   "date": "2026-11-06T17:22:40+00:00",
+   "lastmod": "2026-11-06T17:22:40+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "news",
+    "stage": "learning",
+    "topic": "Cloud repatriation cost savings hybrid IT",
+    "search": "why companies ditching cloud cost savings",
+    "why": "Positions Flexential as expert on cost-efficient hybrid IT alternative to public cloud."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "c749fbb97fa2fd1c",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "flexential.com/resources/media-coverage/data-centre-magazine-top-250-data-centre-companies-2026": {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/media-coverage/data-centre-magazine-top-250-data-centre-companies-2026",
+   "title": "Data Centre Magazine: Top 250 Data Centre Companies 2026",
+   "date": "2026-11-06T17:26:40+00:00",
+   "lastmod": "2026-11-06T17:26:40+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "news",
+    "stage": "customers",
+    "topic": "Data Centre Magazine Top 250 ranking",
+    "search": "top 250 data centre companies 2026",
+    "why": "Showcases third-party recognition of industry leadership to build credibility with prospects."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "72f42511e44b5e31",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "flexential.com/resources/media-coverage/wccb-charlotte-wccb-exclusive-inside-look-flexential-data-center-north": {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/media-coverage/wccb-charlotte-wccb-exclusive-inside-look-flexential-data-center-north",
+   "title": "WCCB Charlotte: WCCB Exclusive: Inside look at Flexential data center in north Charlotte",
+   "date": "2026-11-06T17:30:44+00:00",
+   "lastmod": "2026-11-06T17:30:44+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "news",
+    "stage": "learning",
+    "topic": "Flexential data center Charlotte",
+    "search": "Flexential data center Charlotte",
+    "why": "Builds brand credibility through third-party media coverage of facilities and leadership."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "9762cbb526dfc9a9",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "flexential.com/resources/media-coverage/drj-96-enterprises-say-their-networks-are-slowing-down-ai": {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/media-coverage/drj-96-enterprises-say-their-networks-are-slowing-down-ai",
+   "title": "DRJ: 96% of Enterprises Say Their Networks Are Slowing Down AI",
+   "date": "2026-11-06T17:31:35+00:00",
+   "lastmod": "2026-11-06T17:31:35+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "research",
+    "stage": "learning",
+    "topic": "AI infrastructure network latency issues",
+    "search": "enterprise networks slowing down AI",
+    "why": "Establishes thought leadership on AI infrastructure challenges, demonstrates research authority."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "a5cd9357d7174549",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "flexential.com/resources/media-coverage/vmblog-96-enterprises-say-their-networks-are-slowing-down-ai": {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/media-coverage/vmblog-96-enterprises-say-their-networks-are-slowing-down-ai",
+   "title": "VMBlog: 96% of Enterprises Say Their Networks Are Slowing Down AI",
+   "date": "2026-11-06T17:32:40+00:00",
+   "lastmod": "2026-11-06T17:32:40+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "news",
+    "stage": "learning",
+    "topic": "AI network latency infrastructure research",
+    "search": "enterprises networks slowing down AI latency",
+    "why": "Establishes thought leadership on AI infrastructure challenges and Flexential's expertise."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "d7d8026476f7920e",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "flexential.com/resources/blog/vmware-cloud-foundation-pricing-tco": {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/blog/vmware-cloud-foundation-pricing-tco",
+   "title": "VMware licensing and VCF pricing: How to model three-year TCO",
+   "date": "2026-11-06T21:21:11+00:00",
+   "lastmod": "2026-11-06T21:21:11+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "comparing",
+    "topic": "VMware Cloud Foundation pricing TCO",
+    "search": "VMware Cloud Foundation pricing three year TCO",
+    "why": "Helps buyers model and compare VCF deployment options to evaluate total cost of ownership."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "aef0c3ace1a269f6",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "flexential.com/resources/blog/vcf-9-upgrade-readiness": {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/blog/vcf-9-upgrade-readiness",
+   "title": "VCF 9 upgrade readiness: Plan architecture, hardware, and execution",
+   "date": "2026-11-06T21:42:42+00:00",
+   "lastmod": "2026-11-06T21:42:42+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "howto",
+    "stage": "comparing",
+    "topic": "VCF 9 upgrade readiness planning",
+    "search": "how to plan VCF 9 upgrade readiness",
+    "why": "Helps infrastructure teams plan VMware Cloud Foundation upgrades methodically."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": null,
+   "pub": null,
+   "mod": null,
+   "fp": "d56c917f7f48df71",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "rackspace.com/2026/03/10/bricks-1859": {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/2026/03/10/bricks-1859/",
+   "title": "Bricks #1859",
+   "date": "2026-03-10T14:41:27+00:00",
+   "lastmod": "2026-03-10T14:41:27+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": null,
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "coresite.com/blog/coresites-qualification-program-driving-career-opportunities-and-operational-excellence-1": {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/blog/coresites-qualification-program-driving-career-opportunities-and-operational-excellence-1",
+   "title": "CoreSite’s Qualification Program: Driving Career Opportunities and Operational Excellence",
+   "date": "2026-11-06T00:00:00+00:00",
+   "lastmod": "2026-11-06T00:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": {
+    "is_content": true,
+    "type": "opinion",
+    "stage": "customers",
+    "topic": "CoreSite qualification program for technicians",
+    "search": "data center technician training programs",
+    "why": "Showcases internal talent development program to build brand credibility and differentiate operational excellence capabilities."
+   },
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": null,
+   "pub": "2026-11-05T16:00:02+00:00",
+   "mod": "2026-11-06T21:00:07+00:00",
+   "fp": "e5e008c73d1b0e41",
+   "dates_checked": "2026-11-09T16:28:00+00:00",
+   "bulk_pub": false,
+   "bulk_mod": false
+  },
+  "expedient.com/about/press/2026-11-03-expedient-acquires-phoenixnaps-us-managed-vmware-cloud-business": {
+   "site": "Expedient",
+   "url": "https://expedient.com/about/press/2026-11-03-expedient-acquires-phoenixnaps-us-managed-vmware-cloud-business/",
+   "title": "2026 11 03 expedient acquires phoenixnaps us managed vmware cloud business",
+   "date": "2026-11-03T08:00:00+00:00",
+   "lastmod": "2026-11-03T08:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "about"
+  },
+  "expedient.com/about/press/2026-11-05-expedient-and-nutanix-expand-partnership-with-multi-tenant-cloud": {
+   "site": "Expedient",
+   "url": "https://expedient.com/about/press/2026-11-05-expedient-and-nutanix-expand-partnership-with-multi-tenant-cloud/",
+   "title": "2026 11 05 expedient and nutanix expand partnership with multi tenant cloud",
+   "date": "2026-11-05T08:00:00+00:00",
+   "lastmod": "2026-11-05T08:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "about"
+  },
+  "expedient.com/knowledgebase/resources/case-study/closing-critical-ai-governance-gaps-for-biotech-company-with-enterprise-ai": {
+   "site": "Expedient",
+   "url": "https://expedient.com/knowledgebase/resources/case-study/closing-critical-ai-governance-gaps-for-biotech-company-with-enterprise-ai/",
+   "title": "Closing critical ai governance gaps for biotech company with enterprise ai",
+   "date": "2026-10-27T09:00:00+00:00",
+   "lastmod": "2026-10-27T09:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "knowledgebase"
+  },
+  "expedient.com/knowledgebase/resources/case-study/modernizing-it-infrastructure-while-maintaining-control": {
+   "site": "Expedient",
+   "url": "https://expedient.com/knowledgebase/resources/case-study/modernizing-it-infrastructure-while-maintaining-control/",
+   "title": "Modernizing it infrastructure while maintaining control",
+   "date": "2026-10-27T10:00:00+00:00",
+   "lastmod": "2026-10-27T10:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "knowledgebase"
+  },
+  "expedient.com/knowledgebase/resources/case-study/moving-from-ai-experimentation-to-a-governed-ai-foundation": {
+   "site": "Expedient",
+   "url": "https://expedient.com/knowledgebase/resources/case-study/moving-from-ai-experimentation-to-a-governed-ai-foundation/",
+   "title": "Moving from ai experimentation to a governed ai foundation",
+   "date": "2026-10-27T11:00:00+00:00",
+   "lastmod": "2026-10-27T11:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "knowledgebase"
+  },
+  "expedient.com/knowledgebase/resources/case-study/solving-ai-challenges-from-office-to-field-for-construction-business": {
+   "site": "Expedient",
+   "url": "https://expedient.com/knowledgebase/resources/case-study/solving-ai-challenges-from-office-to-field-for-construction-business/",
+   "title": "Solving ai challenges from office to field for construction business",
+   "date": "2026-10-27T12:00:00+00:00",
+   "lastmod": "2026-10-27T12:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "knowledgebase"
+  },
+  "expedient.com/knowledgebase/resources/case-study/modernizing-healthcare-it-for-rapid-growth-with-expedient-cloud": {
+   "site": "Expedient",
+   "url": "https://expedient.com/knowledgebase/resources/case-study/modernizing-healthcare-it-for-rapid-growth-with-expedient-cloud/",
+   "title": "Modernizing healthcare it for rapid growth with expedient cloud",
+   "date": "2026-10-27T13:00:00+00:00",
+   "lastmod": "2026-10-27T13:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "knowledgebase"
+  },
+  "expedient.com/knowledgebase/resources/case-study/getting-ahead-of-it-risk-with-expedient-private-cloud-draas-and-backup": {
+   "site": "Expedient",
+   "url": "https://expedient.com/knowledgebase/resources/case-study/getting-ahead-of-it-risk-with-expedient-private-cloud-draas-and-backup/",
+   "title": "Getting ahead of it risk with expedient private cloud draas and backup",
+   "date": "2026-10-27T14:00:00+00:00",
+   "lastmod": "2026-10-27T14:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "knowledgebase"
+  },
+  "expedient.com/knowledgebase/resources/case-study/expanding-ai-workflows-for-retail-with-predictable-ai-usage-and-costs": {
+   "site": "Expedient",
+   "url": "https://expedient.com/knowledgebase/resources/case-study/expanding-ai-workflows-for-retail-with-predictable-ai-usage-and-costs/",
+   "title": "Expanding ai workflows for retail with predictable ai usage and costs",
+   "date": "2026-10-27T15:00:00+00:00",
+   "lastmod": "2026-10-27T15:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "knowledgebase"
+  },
+  "expedient.com/knowledgebase/resources/case-study/bringing-ai-access-under-one-governed-platform-for-a-nonprofit-organization": {
+   "site": "Expedient",
+   "url": "https://expedient.com/knowledgebase/resources/case-study/bringing-ai-access-under-one-governed-platform-for-a-nonprofit-organization/",
+   "title": "Bringing ai access under one governed platform for a nonprofit organization",
+   "date": "2026-10-27T16:00:00+00:00",
+   "lastmod": "2026-10-27T16:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "knowledgebase"
+  },
+  "expedient.com/knowledgebase/resources/case-study/enhancing-resilience-while-protecting-it-investments": {
+   "site": "Expedient",
+   "url": "https://expedient.com/knowledgebase/resources/case-study/enhancing-resilience-while-protecting-it-investments/",
+   "title": "Enhancing resilience while protecting it investments",
+   "date": "2026-10-27T17:00:00+00:00",
+   "lastmod": "2026-10-27T17:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "knowledgebase"
+  },
+  "expedient.com/knowledgebase/resources/case-study/protecting-revenue-and-reputation-with-expedient-draas-and-colocation": {
+   "site": "Expedient",
+   "url": "https://expedient.com/knowledgebase/resources/case-study/protecting-revenue-and-reputation-with-expedient-draas-and-colocation/",
+   "title": "Protecting revenue and reputation with expedient draas and colocation",
+   "date": "2026-10-27T18:00:00+00:00",
+   "lastmod": "2026-10-27T18:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "knowledgebase"
+  },
+  "expedient.com/about/press/30": {
+   "site": "Expedient",
+   "url": "https://expedient.com/about/press/30/",
+   "title": "30",
+   "date": "2026-11-09T16:28:00+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "about"
+  },
+  "expedient.com/knowledgebase/resources/52": {
+   "site": "Expedient",
+   "url": "https://expedient.com/knowledgebase/resources/52/",
+   "title": "52",
+   "date": "2026-11-09T16:28:00+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "knowledgebase"
+  },
+  "expedient.com/knowledgebase/resources/53": {
+   "site": "Expedient",
+   "url": "https://expedient.com/knowledgebase/resources/53/",
+   "title": "53",
+   "date": "2026-11-09T16:28:00+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "knowledgebase"
+  },
+  "expedient.com/collection/resources/29": {
+   "site": "Expedient",
+   "url": "https://expedient.com/collection/resources/29/",
+   "title": "29",
+   "date": "2026-11-09T16:28:00+00:00",
+   "lastmod": null,
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "cls": null,
+   "baseline": false,
+   "kind": "new",
+   "event": "2026-11-09T16:28:00+00:00",
+   "prog": "collection"
   }
  },
  "sites": {
   "TierPoint": {
    "initialized": true,
-   "count": 787
+   "count": 788
   },
   "Digital Realty": {
    "initialized": true,
-   "count": 1820
+   "count": 1823
   },
   "Flexential": {
    "initialized": true,
-   "count": 828
+   "count": 819
   },
   "Rackspace Technology": {
    "initialized": true,
-   "count": 12627
+   "count": 1
   },
   "CoreSite": {
    "initialized": true,
-   "count": 762
+   "count": 763
   },
   "Expedient": {
    "initialized": true,
-   "count": 1771
+   "count": 1787
   }
  },
  "repo": "nico497/TierPoint",

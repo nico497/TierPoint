@@ -2,16 +2,16 @@
  "meta": {
   "title": "Competitor Radar",
   "niche": "Data center colocation, hybrid IT infrastructure, cloud and managed services",
-  "updated": "2026-11-02T16:02:33+00:00",
+  "updated": "2026-11-09T16:28:00+00:00",
   "window_days": 30,
   "repo": "nico497/TierPoint",
   "first_run": false,
   "errors": [],
-  "pending": 668,
+  "pending": 578,
   "analysis_stale": false,
   "per_run": 200,
   "tracking_since": "2026-10-20T00:50:15+00:00",
-  "tracking_days": 13
+  "tracking_days": 20
  },
  "types": [
   [
@@ -48,59 +48,57 @@
   ]
  ],
  "analysis": {
-  "summary": "Rivals publish AI and learning content. TierPoint mostly refreshed service pages and added few new articles. Rackspace's huge page count looks like duplicate bulk output, not a real publishing surge.",
+  "summary": "Rivals lean on AI infrastructure and cost-of-cloud content. TierPoint is mostly refreshing service pages, with few new pieces and little research or customer proof.",
   "points": [
    {
-    "text": "Digital Realty published 13 new pages, mostly AI-themed learning content, while TierPoint added 4 new pages and updated 13 service pages.",
+    "text": "Digital Realty publishes the most AI-focused content, 11 new pages and 19 aimed at learners. TierPoint has one AI piece.",
     "names": [
-     "TierPoint",
      "Digital Realty"
     ]
    },
    {
-    "text": "TierPoint's content is built for buyers: 8 buying and 7 comparing pages, against 1 learning page. Digital Realty has 11 learning pages.",
+    "text": "Flexential turns one survey ('96% say networks slow AI') into three pages, including press pickups, and adds VMware cost guides.",
     "names": [
-     "TierPoint",
-     "Digital Realty"
+     "Flexential"
     ]
    },
    {
-    "text": "Rackspace's 12195 new pages repeat about four titles, with 28 pages launched on one date. Treat it as a bulk or site-wide event, not a strategy.",
+    "text": "TierPoint's 13 updates are mostly service pages, a refresh push. Its 4 new pages cover cost, security, Microsoft deals and AI.",
     "names": [
-     "Rackspace Technology"
+     "TierPoint"
     ]
    }
   ],
   "plays": {
    "TierPoint": {
-    "play": "Refreshes cloud, DR and VMware service pages. Adds a few guides on VCF 9, security and AI.",
+    "play": "Refreshing AWS, Azure, VMware, Nutanix and disaster recovery pages, plus a few new cost, security and AI pieces.",
     "aimed": "Buyers comparing managed cloud providers"
    },
    "Digital Realty": {
-    "play": "Pushes AI-ready colocation with research, case studies and city pages, tied to sovereignty and power.",
-    "aimed": "Enterprise AI infrastructure planners worldwide"
+    "play": "Heavy AI infrastructure thought leadership, research, sovereignty content and new city pages, with a few case studies.",
+    "aimed": "Enterprise leaders planning AI infrastructure"
    },
    "Flexential": {
-    "play": "Small output on AI network problems, cloud migration planning, resilience and sustainability.",
-    "aimed": "IT leaders early in research"
+    "play": "VMware and VCF migration guides, cloud cost and data protection explainers, and one AI network survey.",
+    "aimed": "IT teams weighing VMware, cloud and colocation"
    },
    "Rackspace Technology": {
-    "play": "Bulk-published repeated pieces on healthcare IT reliability, AI data control and hidden cyber threats.",
-    "aimed": "Healthcare and risk-focused IT leaders"
+    "play": "Bulk launch of 12194 pages, mostly repeats of three titles: healthcare, sovereignty and cyber risk.",
+    "aimed": "Healthcare and regulated-industry IT leaders"
    },
    "CoreSite": {
-    "play": "Plain explainers on colocation, cloud direct connect costs, satellite links and support operations.",
-    "aimed": "Colocation and connectivity researchers"
+    "play": "Small output: community, careers, satellite connectivity and cloud direct connect cost. Too little to call a strategy.",
+    "aimed": "Network and interconnection buyers, job seekers"
    },
    "Expedient": {
-    "play": "Webinar-led launches for its AI CTRL platform and Nutanix multi-tenant cloud.",
-    "aimed": "Existing and prospective Nutanix cloud customers"
+    "play": "Two webinar pages on Nutanix multi-tenant cloud and its AI CTRL platform. Very thin.",
+    "aimed": "Existing customers and Nutanix prospects"
    }
   },
   "shared": [
    {
-    "title": "AI infrastructure messaging",
-    "text": "Digital Realty, Flexential and Expedient all publish AI content, and TierPoint has one AI architecture piece. AI is the common hook, so TierPoint needs a sharper angle.",
+    "title": "AI infrastructure",
+    "text": "Digital Realty, Flexential and Expedient all publish AI infrastructure content. Digital Realty goes widest. TierPoint has only one AI piece, so it risks looking late.",
     "names": [
      "Digital Realty",
      "Flexential",
@@ -108,35 +106,45 @@
     ]
    },
    {
-    "title": "Early-stage explainers",
-    "text": "CoreSite, Flexential, Digital Realty and Rackspace publish how-to or explainer pieces for people still learning. This builds awareness before buying talk starts.",
+    "title": "Cloud cost and CapEx vs OpEx",
+    "text": "Cost framing is common. TierPoint and Digital Realty both cover CapEx vs OpEx. Flexential models cloud TCO (total cost). CoreSite covers direct connect savings.",
     "names": [
+     "TierPoint",
      "Digital Realty",
      "Flexential",
      "CoreSite"
+    ]
+   },
+   {
+    "title": "VMware and Nutanix private cloud",
+    "text": "Providers court teams rethinking their private cloud platform. TierPoint has managed service pages for both. Flexential covers VCF 9, Expedient covers Nutanix.",
+    "names": [
+     "TierPoint",
+     "Flexential",
+     "Expedient"
     ]
    }
   ],
   "gaps": [
    {
-    "title": "Customer case studies",
-    "text": "Only Digital Realty published case studies (3). TierPoint has none this period, so proof stories on DR or managed cloud are open."
+    "title": "VMware pricing and TCO guides",
+    "text": "Only Flexential models VCF licensing costs over three years. TierPoint has VMware service pages but no cost guide."
    },
    {
-    "title": "Original research",
-    "text": "Digital Realty has 3 research pieces and Flexential 1. TierPoint has none. A survey on hybrid IT or DR readiness could stand out."
+    "title": "Healthcare cloud and recovery",
+    "text": "Flexential has one healthcare data protection page. Rackspace's healthcare pages are bulk repeats. TierPoint shows no healthcare content to own."
    },
    {
-    "title": "VMware migration guidance",
-    "text": "Only TierPoint covers VCF 9 among these companies, with one page. A deeper guide series could own this topic."
+    "title": "Cloud repatriation guidance",
+    "text": "Only Flexential covers moving from cloud back to colocation, via one news piece and one how-to. TierPoint's colocation page could anchor a deeper series."
    }
   ],
   "versus": {
-   "Digital Realty": "Publishes much more new, learning-stage content with research and case studies. TierPoint leans on updating buyer-stage service pages.",
-   "Flexential": "Similar low volume, but Flexential's mix is explainers and research. TierPoint's mix is mainly service pages.",
-   "Rackspace Technology": "Huge duplicated bulk output on healthcare, AI and cyber topics. TierPoint publishes few, distinct pages aimed at buying.",
-   "CoreSite": "Publishes plain explainers on colocation and connectivity. TierPoint has little beginner content and focuses on managed cloud services.",
-   "Expedient": "Very light new output, led by webinars. TierPoint publishes more pages and covers Nutanix through service pages rather than webinars."
+   "Digital Realty": "Publishes far more thought leadership and research on AI. TierPoint leans on service pages, with fewer pieces for early-stage learners.",
+   "Flexential": "Similar size site. Flexential makes more how-to guides and research. TierPoint has more refreshed service pages for buyers.",
+   "Rackspace Technology": "Its 12194 new pages are a bulk launch of repeated titles. TierPoint's 4 new pages and 13 updates are slower and more deliberate.",
+   "CoreSite": "Similar page count but quieter, with 3 new pages. TierPoint publishes more buying-stage content. CoreSite favors community and connectivity topics.",
+   "Expedient": "Almost no fresh content, just two webinar pages. TierPoint is far more active, especially on managed cloud and Nutanix service pages."
   }
  },
  "sites": [
@@ -145,33 +153,33 @@
    "site": "https://www.tierpoint.com",
    "you": true,
    "n": 17,
-   "site_pages": 787,
-   "n_prev": 13,
+   "site_pages": 788,
+   "n_prev": 12,
    "refreshed": 14,
    "mix": {
     "compare": 0,
-    "howto": 2,
+    "howto": 1,
     "list": 0,
     "research": 0,
     "case": 0,
-    "opinion": 1,
+    "opinion": 2,
     "news": 0,
-    "landing": 13
+    "landing": 14
    },
    "stages": {
-    "learning": 1,
+    "learning": 2,
     "comparing": 7,
     "buying": 8,
     "customers": 0
    },
    "topics": [
-    "modernize vmware with vcf 9",
     "disaster recovery as a service",
     "aws consulting services",
     "azure consulting services",
-    "managed public cloud services"
+    "managed public cloud services",
+    "aws managed services provider"
    ],
-   "unclassified": 1,
+   "unclassified": 0,
    "removed": 1,
    "removed_titles": [
     "Private cloud"
@@ -190,10 +198,10 @@
    "error": null,
    "method": "sitemap",
    "url": "https://www.tierpoint.com/sitemap.xml",
-   "pages": 787,
+   "pages": 788,
    "undated": 0,
    "new_urls": 1,
-   "play": "Refreshes cloud, DR and VMware service pages. Adds a few guides on VCF 9, security and AI.",
+   "play": "Refreshing AWS, Azure, VMware, Nutanix and disaster recovery pages, plus a few new cost, security and AI pieces.",
    "aimed": "Buyers comparing managed cloud providers"
   },
   {
@@ -239,34 +247,34 @@
    "name": "Digital Realty",
    "site": "https://www.digitalrealty.com",
    "you": false,
-   "n": 15,
-   "site_pages": 1820,
-   "n_prev": 692,
-   "refreshed": 4,
+   "n": 26,
+   "site_pages": 1824,
+   "n_prev": 696,
+   "refreshed": 17,
    "mix": {
     "compare": 0,
-    "howto": 3,
+    "howto": 5,
     "list": 0,
     "research": 3,
     "case": 3,
-    "opinion": 3,
+    "opinion": 9,
     "news": 1,
-    "landing": 2
+    "landing": 5
    },
    "stages": {
-    "learning": 11,
-    "comparing": 2,
-    "buying": 1,
-    "customers": 1
+    "learning": 19,
+    "comparing": 4,
+    "buying": 3,
+    "customers": 0
    },
    "topics": [
     "high-density colocation for ai infrastructure",
-    "ai power cooling financial services",
-    "toronto data center market ai sovereignty",
-    "ai infrastructure deployment at scale",
-    "hong kong data center connectivity hub"
+    "it modernization capex opex hybrid cloud",
+    "private ai exchange infrastructure",
+    "africa renewable energy digital transformation",
+    "ai infrastructure strategies for enterprises"
    ],
-   "unclassified": 1,
+   "unclassified": 0,
    "removed": 4,
    "removed_titles": [
     "102446",
@@ -274,14 +282,14 @@
     "102445",
     "102444"
    ],
-   "new": 13,
-   "updated": 2,
+   "new": 11,
+   "updated": 15,
    "bulk": [],
    "programmatic": [
     {
      "section": "about",
-     "pages": 539,
-     "new": 1
+     "pages": 540,
+     "new": 2
     },
     {
      "section": "data-centers",
@@ -298,94 +306,95 @@
    "error": null,
    "method": "sitemap",
    "url": "https://www.digitalrealty.com/sitemap.xml",
-   "pages": 1820,
+   "pages": 1823,
    "undated": 0,
-   "new_urls": 5,
-   "play": "Pushes AI-ready colocation with research, case studies and city pages, tied to sovereignty and power.",
-   "aimed": "Enterprise AI infrastructure planners worldwide"
+   "new_urls": 4,
+   "play": "Heavy AI infrastructure thought leadership, research, sovereignty content and new city pages, with a few case studies.",
+   "aimed": "Enterprise leaders planning AI infrastructure"
   },
   {
    "name": "Flexential",
    "site": "https://www.flexential.com",
    "you": false,
-   "n": 4,
-   "site_pages": 828,
-   "n_prev": 50,
-   "refreshed": 2,
+   "n": 19,
+   "site_pages": 836,
+   "n_prev": 61,
+   "refreshed": 9,
    "mix": {
     "compare": 0,
-    "howto": 2,
+    "howto": 8,
     "list": 0,
-    "research": 1,
+    "research": 2,
     "case": 0,
     "opinion": 1,
-    "news": 0,
-    "landing": 0
+    "news": 6,
+    "landing": 2
    },
    "stages": {
-    "learning": 3,
-    "comparing": 1,
-    "buying": 0,
-    "customers": 0
+    "learning": 11,
+    "comparing": 6,
+    "buying": 1,
+    "customers": 1
    },
    "topics": [
+    "hybrid it infrastructure platform",
+    "cloud data protection best practices",
     "business continuity digital resiliency",
-    "responsible data center growth sustainability",
-    "enterprise ai network infrastructure challenges",
-    "colocation cloud migration planning"
+    "cloud data protection healthcare",
+    "vmware ai factory private ai infrastructure"
    ],
-   "unclassified": 0,
+   "unclassified": 2,
    "removed": 0,
    "removed_titles": [],
-   "new": 2,
-   "updated": 2,
+   "new": 10,
+   "updated": 9,
    "bulk": [],
    "programmatic": [],
    "ok": true,
    "error": null,
    "method": "sitemap",
    "url": "https://www.flexential.com/sitemap.xml",
-   "pages": 828,
+   "pages": 819,
    "undated": 0,
-   "new_urls": 2,
-   "play": "Small output on AI network problems, cloud migration planning, resilience and sustainability.",
-   "aimed": "IT leaders early in research"
+   "new_urls": 8,
+   "play": "VMware and VCF migration guides, cloud cost and data protection explainers, and one AI network survey.",
+   "aimed": "IT teams weighing VMware, cloud and colocation"
   },
   {
    "name": "Rackspace Technology",
    "site": "https://www.rackspace.com",
    "you": false,
-   "n": 12195,
-   "site_pages": 12627,
-   "n_prev": 41,
+   "n": 12194,
+   "site_pages": 12628,
+   "n_prev": 43,
    "refreshed": 0,
    "mix": {
     "compare": 0,
-    "howto": 22,
+    "howto": 33,
     "list": 0,
     "research": 0,
-    "case": 0,
-    "opinion": 18,
-    "news": 1,
+    "case": 11,
+    "opinion": 35,
+    "news": 0,
     "landing": 0
    },
    "stages": {
-    "learning": 39,
-    "comparing": 1,
-    "buying": 1,
+    "learning": 66,
+    "comparing": 2,
+    "buying": 11,
     "customers": 0
    },
    "topics": [
     "healthcare it reliability measurement",
+    "connected healthcare cloud epic data ai",
     "ai sovereignty and data control",
-    "healthcare it reliability beyond uptime",
-    "managed digital risk monitoring cybersecurity",
-    "managed digital risk monitoring threats"
+    "data sovereignty governance compliance",
+    "healthcare it reliability beyond uptime"
    ],
-   "unclassified": 12154,
+   "unclassified": 12115,
    "removed": 0,
    "removed_titles": [],
-   "new": 12195,
+   "new": 12194,
    "updated": 0,
    "bulk": [
     {
@@ -394,55 +403,49 @@
      "pages": 28
     }
    ],
-   "programmatic": [
-    {
-     "section": "newsroom",
-     "pages": 381,
-     "new": 381
-    }
-   ],
+   "programmatic": [],
    "ok": true,
    "error": null,
-   "method": "sitemap",
-   "url": "https://www.rackspace.com/sitemap.xml",
-   "pages": 12627,
+   "method": "feed",
+   "url": "https://www.rackspace.com/feed",
+   "pages": 1,
    "undated": 0,
-   "new_urls": 71,
-   "play": "Bulk-published repeated pieces on healthcare IT reliability, AI data control and hidden cyber threats.",
-   "aimed": "Healthcare and risk-focused IT leaders"
+   "new_urls": 1,
+   "play": "Bulk launch of 12194 pages, mostly repeats of three titles: healthcare, sovereignty and cyber risk.",
+   "aimed": "Healthcare and regulated-industry IT leaders"
   },
   {
    "name": "CoreSite",
    "site": "https://www.coresite.com",
    "you": false,
    "n": 5,
-   "site_pages": 762,
-   "n_prev": 58,
+   "site_pages": 763,
+   "n_prev": 52,
    "refreshed": 2,
    "mix": {
     "compare": 0,
-    "howto": 4,
+    "howto": 2,
     "list": 0,
     "research": 0,
     "case": 0,
-    "opinion": 0,
+    "opinion": 2,
     "news": 1,
     "landing": 0
    },
    "stages": {
-    "learning": 4,
+    "learning": 3,
     "comparing": 1,
     "buying": 0,
-    "customers": 0
+    "customers": 1
    },
    "topics": [
-    "operations support center monitoring services",
+    "community engagement and corporate responsibility",
     "satellite internet data centers connectivity",
-    "colocation data center benefits",
     "coresite data centers and infrastructure",
-    "cloud direct connect cost optimization"
+    "cloud direct connect cost optimization",
+    "coresite qualification program for technicians"
    ],
-   "unclassified": 4,
+   "unclassified": 2,
    "removed": 0,
    "removed_titles": [],
    "new": 3,
@@ -459,20 +462,20 @@
    "error": null,
    "method": "sitemap",
    "url": "https://www.coresite.com/sitemap.xml",
-   "pages": 762,
+   "pages": 763,
    "undated": 0,
-   "new_urls": 2,
-   "play": "Plain explainers on colocation, cloud direct connect costs, satellite links and support operations.",
-   "aimed": "Colocation and connectivity researchers"
+   "new_urls": 1,
+   "play": "Small output: community, careers, satellite connectivity and cloud direct connect cost. Too little to call a strategy.",
+   "aimed": "Network and interconnection buyers, job seekers"
   },
   {
    "name": "Expedient",
    "site": "https://www.expedient.com",
    "you": false,
    "n": 2,
-   "site_pages": 1771,
+   "site_pages": 1787,
    "n_prev": 0,
-   "refreshed": 0,
+   "refreshed": 1,
    "mix": {
     "compare": 0,
     "howto": 1,
@@ -496,38 +499,514 @@
    "unclassified": 0,
    "removed": 0,
    "removed_titles": [],
-   "new": 2,
-   "updated": 0,
+   "new": 1,
+   "updated": 1,
    "bulk": [],
    "programmatic": [
     {
      "section": "knowledgebase",
-     "pages": 786,
-     "new": 2
+     "pages": 798,
+     "new": 14
     },
     {
      "section": "about",
-     "pages": 210,
-     "new": 0
+     "pages": 213,
+     "new": 3
     },
     {
      "section": "collection",
-     "pages": 108,
-     "new": 1
+     "pages": 109,
+     "new": 2
     }
    ],
    "ok": true,
    "error": null,
    "method": "sitemap",
    "url": "https://expedient.com/sitemap.xml",
-   "pages": 1771,
-   "undated": 887,
-   "new_urls": 5,
-   "play": "Webinar-led launches for its AI CTRL platform and Nutanix multi-tenant cloud.",
-   "aimed": "Existing and prospective Nutanix cloud customers"
+   "pages": 1787,
+   "undated": 891,
+   "new_urls": 16,
+   "play": "Two webinar pages on Nutanix multi-tenant cloud and its AI CTRL platform. Very thin.",
+   "aimed": "Existing customers and Nutanix prospects"
   }
  ],
  "pages": [
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/services/data-center-services/colocation-services/",
+   "title": "Colocation | TierPoint, LLC",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": "2024-05-10T21:16:10+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Colocation data center services",
+   "search": "colocation services data centers",
+   "why": "Showcases TierPoint's colocation offerings to prospects evaluating hosting solutions."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/it-modernization-opex-capex",
+   "title": "IT Modernization: CapEx, OpEx, Hybrid Cloud & Data centers",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": "2024-01-17T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "IT modernization CapEx OpEx hybrid cloud",
+   "search": "CapEx vs OpEx IT modernization hybrid cloud",
+   "why": "Educates prospects on infrastructure cost models and modernization approaches."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/private-ai-exchange",
+   "title": "We've Seen this Before... Introduction of a Private AI Exchange",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": "2024-04-24T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Private AI Exchange infrastructure",
+   "search": "private AI exchange data centers",
+   "why": "Positions Digital Realty as thought leader in private AI infrastructure trends."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/africas-renewable-energy-race-digital-transformation",
+   "title": "The budding enterprise opportunity: Africa’s renewable energy race towards a sustainable future",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": "2025-05-13T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Africa renewable energy digital transformation",
+   "search": "Africa renewable energy digital transformation",
+   "why": "Establishes thought leadership on sustainability and infrastructure trends in emerging markets."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/webinars/cio-strategies-for-a-production-ready-scalable-ai-infrastructure",
+   "title": "CIO Strategies for a Production-Ready, Scalable AI Infrastructure | Digital Realty",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": "2026-09-21T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "AI infrastructure strategies for enterprises",
+   "search": "production ready scalable AI infrastructure",
+   "why": "Establishes thought leadership on AI infrastructure planning with data center expertise."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/zurich-is-growing-meet-zur4",
+   "title": "ZUR4 Zurich Data Center Expansion for AI | Digital Realty",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": "2026-10-14T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "ZUR4 Zurich data center expansion AI",
+   "search": "Zurich data center AI capacity expansion",
+   "why": "Announces new AI-ready data center capacity in Switzerland to attract prospects researching EMEA expansion options."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/atlanta-fintech-innovation-ai",
+   "title": "Atlanta’s Fintech Hub Meets AI Infrastructure | Digital Realty",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": "2026-10-14T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Atlanta fintech AI infrastructure hub",
+   "search": "Atlanta fintech AI infrastructure",
+   "why": "Positions Digital Realty as thought leader in regional AI and fintech growth."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/emeas-ai-imperative-what-the-2026-global-data-insights-survey-reveals",
+   "title": "EMEA AI Imperative: GDIS 2026 Reveals Seven Routes to AI Execution | Digital Realty",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": "2026-10-14T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "EMEA AI execution infrastructure requirements",
+   "search": "EMEA AI infrastructure trends 2026",
+   "why": "Positions Digital Realty as authority on regional AI infrastructure needs and solutions."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/emea-ai-imperative-gdis-2026-data-insights",
+   "title": "EMEA AI Imperative: GDIS 2026 Data Insights | Digital Realty",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": "2026-10-16T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "EMEA AI infrastructure data insights",
+   "search": "EMEA AI strategy data center infrastructure",
+   "why": "Establishes thought leadership on AI infrastructure needs in European market."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/why-multi-tenant-data-centers-benefit-enterprises",
+   "title": "Benefits of Multi-Tenant Data Centers | Digital Realty",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": "2023-02-10T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "multi-tenant data center benefits",
+   "search": "multi-tenant data centers enterprises",
+   "why": "Educates prospects researching data center solutions and architecture options."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/platform-digital/connectivity/cross-connect",
+   "title": "Cross Connect | Digital Realty",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "landing",
+   "stage": "buying",
+   "topic": "Cross connect data center connectivity",
+   "search": "cross connect data center Europe",
+   "why": "Explains core service for customers evaluating dedicated connectivity solutions and ordering options."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/platform-digital/connectivity",
+   "title": "Data Center Connectivity | Digital Realty",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Data center connectivity solutions",
+   "search": "data center connectivity providers",
+   "why": "Showcases connectivity platform to buyers evaluating colocation and interconnection options."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/platform-digital/connectivity/internet-exchange",
+   "title": "Internet Exchange | Digital Realty",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Internet Exchange peering solutions",
+   "search": "internet exchange peering connectivity",
+   "why": "Showcases DRIX and peering capabilities to enterprises evaluating connectivity options."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/harness-ai-s-potential-and-navigate-disruption",
+   "title": "Harness AI’s Potential and Navigate Disruption with Digital Realty",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": "2023-07-08T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "AI infrastructure and strategy",
+   "search": "AI infrastructure for enterprises",
+   "why": "Positions Digital Realty as thought leader on AI adoption and infrastructure needs."
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/platform",
+   "title": "Platform",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "landing",
+   "stage": "learning",
+   "topic": "Hybrid IT infrastructure platform",
+   "search": "hybrid IT infrastructure colocation cloud",
+   "why": "Introduces FlexAnywhere platform as integrated solution for hybrid infrastructure needs."
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/blog/how-to-protect-cloud-data",
+   "title": "How To Protect Cloud Data: Best Practices & More | Flexential",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Cloud data protection best practices",
+   "search": "how to protect cloud data security",
+   "why": "Educates prospects on security risks and positions Flexential as a trusted data protection partner."
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/press-release/flexential-advances-private-cloud-modernization-vmware-cloud-foundation-9",
+   "title": "Flexential Advances Private Cloud Modernization with VMware Cloud Foundation 9",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": "2026-09-22T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "news",
+   "stage": "buying",
+   "topic": "VMware Cloud Foundation 9 private cloud",
+   "search": "VMware Cloud Foundation 9 managed services",
+   "why": "Announces new service capability to attract organizations modernizing private cloud infrastructure."
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/blog/cloud-tco-nobody-puts-spreadsheet",
+   "title": "The cloud TCO nobody puts in the spreadsheet",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "howto",
+   "stage": "comparing",
+   "topic": "Cloud total cost of ownership",
+   "search": "cloud TCO total cost of ownership",
+   "why": "Helps buyers understand hidden cloud costs beyond infrastructure to justify managed services."
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/blog/cloud-disaster-recovery-plan-before-migration",
+   "title": "Cloud disaster recovery planning: What to finalize before migration starts",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "howto",
+   "stage": "comparing",
+   "topic": "cloud disaster recovery planning",
+   "search": "cloud disaster recovery planning migration",
+   "why": "Educates infrastructure leaders on DR best practices to establish thought leadership in hybrid IT."
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/community-engagement",
+   "title": "Discover How CoreSite Gives Back Through People and Partnerships",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Community engagement and corporate responsibility",
+   "search": "data center company community involvement",
+   "why": "Builds brand trust and differentiates CoreSite as socially responsible infrastructure provider."
+  },
+  {
+   "site": "Expedient",
+   "url": "https://expedient.com/events/2026-11-05-what-nutanix-multi-tenant-can-mean-for-your-business/",
+   "title": "What Nutanix Multi-Tenant Can Mean for Your Business | Expedient Webinar - Expedient",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "updated",
+   "published": "2026-10-13T13:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "howto",
+   "stage": "comparing",
+   "topic": "Nutanix multi-tenant cloud model",
+   "search": "Nutanix multi-tenant cloud explained",
+   "why": "Educates prospects comparing Nutanix multi-tenant against hyperscalers and traditional private cloud options."
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/capezx-vs-opex-infographic/",
+   "title": "CapEx vs OpEx in the Cloud | TierPoint, LLC",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "new",
+   "published": "2026-11-06T13:54:49+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "type": "landing",
+   "stage": "learning",
+   "topic": "CapEx vs OpEx cloud computing",
+   "search": "capex vs opex cloud",
+   "why": "Educates prospects on cost models when evaluating infrastructure options."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/flex",
+   "title": "Flex Drives 25% Partner Growth with Digital Realty",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "new",
+   "published": "2026-10-30T00:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "French telecom aggregator data center scaling",
+   "search": "data center colocation resilience scalability",
+   "why": "Demonstrates infrastructure value through real customer growth metrics and multi-site architecture benefits."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/ai-is-leaving-the-lab-heres-what-it-needs",
+   "title": "AI infrastructure: A CTO’s view | Digital Realty",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "new",
+   "published": "2026-11-04T00:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "AI infrastructure power cooling connectivity",
+   "search": "AI infrastructure power cooling production",
+   "why": "Establishes CTO thought leadership on enterprise AI infrastructure requirements and Digital Realty's readiness."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/leadership-lounge-eplus",
+   "title": "Leadership Lounge | Digital Realty & ePlus",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "new",
+   "published": "2026-11-06T00:00:00+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Enterprise AI infrastructure readiness",
+   "search": "enterprise AI infrastructure governance adoption",
+   "why": "Positions Digital Realty as thought leader on AI infrastructure needs for enterprise buyers."
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/ebook/get-more-your-vmware-investment",
+   "title": "Get more from your VMware investment",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "VMware investment options and strategy",
+   "search": "VMware migration options 2027",
+   "why": "Attracts IT leaders evaluating VMware strategies and managed private cloud alternatives."
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/media-coverage/zdnet-companies-are-ditching-cloud-save-millions-should-you-one-factor",
+   "title": "ZDNet: Companies are ditching the cloud to save millions – should you? One factor matters most",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "Cloud repatriation cost savings hybrid IT",
+   "search": "why companies ditching cloud cost savings",
+   "why": "Positions Flexential as expert on cost-efficient hybrid IT alternative to public cloud."
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/media-coverage/data-centre-magazine-top-250-data-centre-companies-2026",
+   "title": "Data Centre Magazine: Top 250 Data Centre Companies 2026",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "type": "news",
+   "stage": "customers",
+   "topic": "Data Centre Magazine Top 250 ranking",
+   "search": "top 250 data centre companies 2026",
+   "why": "Showcases third-party recognition of industry leadership to build credibility with prospects."
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/media-coverage/wccb-charlotte-wccb-exclusive-inside-look-flexential-data-center-north",
+   "title": "WCCB Charlotte: WCCB Exclusive: Inside look at Flexential data center in north Charlotte",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "Flexential data center Charlotte",
+   "search": "Flexential data center Charlotte",
+   "why": "Builds brand credibility through third-party media coverage of facilities and leadership."
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/media-coverage/drj-96-enterprises-say-their-networks-are-slowing-down-ai",
+   "title": "DRJ: 96% of Enterprises Say Their Networks Are Slowing Down AI",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "AI infrastructure network latency issues",
+   "search": "enterprise networks slowing down AI",
+   "why": "Establishes thought leadership on AI infrastructure challenges, demonstrates research authority."
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/media-coverage/vmblog-96-enterprises-say-their-networks-are-slowing-down-ai",
+   "title": "VMBlog: 96% of Enterprises Say Their Networks Are Slowing Down AI",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "AI network latency infrastructure research",
+   "search": "enterprises networks slowing down AI latency",
+   "why": "Establishes thought leadership on AI infrastructure challenges and Flexential's expertise."
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/blog/vmware-cloud-foundation-pricing-tco",
+   "title": "VMware licensing and VCF pricing: How to model three-year TCO",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "type": "howto",
+   "stage": "comparing",
+   "topic": "VMware Cloud Foundation pricing TCO",
+   "search": "VMware Cloud Foundation pricing three year TCO",
+   "why": "Helps buyers model and compare VCF deployment options to evaluate total cost of ownership."
+  },
+  {
+   "site": "Flexential",
+   "url": "https://www.flexential.com/resources/blog/vcf-9-upgrade-readiness",
+   "title": "VCF 9 upgrade readiness: Plan architecture, hardware, and execution",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "type": "howto",
+   "stage": "comparing",
+   "topic": "VCF 9 upgrade readiness planning",
+   "search": "how to plan VCF 9 upgrade readiness",
+   "why": "Helps infrastructure teams plan VMware Cloud Foundation upgrades methodically."
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/blog/coresites-qualification-program-driving-career-opportunities-and-operational-excellence-1",
+   "title": "CoreSite’s Qualification Program: Driving Career Opportunities and Operational Excellence",
+   "date": "2026-11-09T16:28:00+00:00",
+   "kind": "new",
+   "published": "2026-11-05T16:00:02+00:00",
+   "first_seen": "2026-11-09T16:28:00+00:00",
+   "type": "opinion",
+   "stage": "customers",
+   "topic": "CoreSite qualification program for technicians",
+   "search": "data center technician training programs",
+   "why": "Showcases internal talent development program to build brand credibility and differentiate operational excellence capabilities."
+  },
   {
    "site": "TierPoint",
    "url": "https://www.tierpoint.com/services/cloud-services-solutions/public-cloud/",
@@ -670,6 +1149,34 @@
   },
   {
    "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/blog/design-connected-healthcare-cloud-epic-data-ai",
+   "title": "Design connected healthcare cloud epic data ai",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "case",
+   "stage": "comparing",
+   "topic": "Connected healthcare cloud Epic AI",
+   "search": "healthcare cloud Epic AI infrastructure",
+   "why": "Demonstrates Rackspace capability to healthcare buyers evaluating cloud partners."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/blog/sovereignty-and-governance-you-can-prove",
+   "title": "Sovereignty and governance you can prove",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Data sovereignty and governance in cloud",
+   "search": "data sovereignty governance cloud compliance",
+   "why": "Educates prospects on sovereignty benefits as a differentiator against hyperscalers."
+  },
+  {
+   "site": "Rackspace Technology",
    "url": "https://www.rackspace.com/de-at/blog/cyberattacks-never-cross-your-firewall",
    "title": "The Cyberattacks That Never Cross Your Firewall",
    "date": "2026-11-02T16:02:33+00:00",
@@ -681,6 +1188,34 @@
    "topic": "Managed digital risk monitoring cybersecurity",
    "search": "threats outside network perimeter monitoring",
    "why": "Educates early-stage buyers on external threat types Rackspace MDRM service addresses."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/de-at/blog/design-connected-healthcare-cloud-epic-data-ai",
+   "title": "Design connected healthcare cloud epic data ai",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Connected healthcare cloud Epic data AI",
+   "search": "healthcare cloud Epic data AI integration",
+   "why": "Educates healthcare IT leaders on modern cloud architectures for connected systems."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/de-at/blog/sovereignty-and-governance-you-can-prove",
+   "title": "Sovereignty and governance you can prove",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Data sovereignty governance compliance",
+   "search": "data sovereignty compliance governance",
+   "why": "Establishes thought leadership on regulated industries' data control concerns."
   },
   {
    "site": "Rackspace Technology",
@@ -698,6 +1233,34 @@
   },
   {
    "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/de-ch/blog/design-connected-healthcare-cloud-epic-data-ai",
+   "title": "Design connected healthcare cloud epic data ai",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Connected healthcare cloud Epic data AI",
+   "search": "design connected healthcare cloud Epic data",
+   "why": "Educates healthcare buyers on building Epic-integrated cloud infrastructure with AI capabilities."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/de-ch/blog/sovereignty-and-governance-you-can-prove",
+   "title": "Sovereignty and governance you can prove",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Data sovereignty and governance",
+   "search": "data sovereignty governance compliance",
+   "why": "Establishes thought leadership on regulatory compliance and data residency concerns."
+  },
+  {
+   "site": "Rackspace Technology",
    "url": "https://www.rackspace.com/en-hk/blog/cyberattacks-never-cross-your-firewall",
    "title": "The Cyberattacks That Never Cross Your Firewall",
    "date": "2026-11-02T16:02:33+00:00",
@@ -709,6 +1272,34 @@
    "topic": "Managed digital risk monitoring threats",
    "search": "managed digital risk monitoring threats detection",
    "why": "Educates prospects on external threats their existing tools miss to justify MDRM service."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-hk/blog/design-connected-healthcare-cloud-epic-data-ai",
+   "title": "Design connected healthcare cloud epic data ai",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Healthcare cloud Epic AI data",
+   "search": "build connected healthcare cloud Epic",
+   "why": "Educates healthcare IT decision-makers on cloud architecture patterns for EHR systems."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-hk/blog/sovereignty-and-governance-you-can-prove",
+   "title": "Sovereignty and governance you can prove",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Data sovereignty governance compliance",
+   "search": "data sovereignty compliance requirements",
+   "why": "Positions Rackspace as trusted advisor on critical compliance and governance challenges."
   },
   {
    "site": "Rackspace Technology",
@@ -726,6 +1317,34 @@
   },
   {
    "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-in/blog/design-connected-healthcare-cloud-epic-data-ai",
+   "title": "Design connected healthcare cloud epic data ai",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Connected healthcare cloud Epic data AI",
+   "search": "design connected healthcare cloud Epic",
+   "why": "Educates healthcare organizations on building cloud infrastructure for Epic systems."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-in/blog/sovereignty-and-governance-you-can-prove",
+   "title": "Sovereignty and governance you can prove",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": "2026-10-26T00:00:00+00:00",
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Data sovereignty governance compliance",
+   "search": "data sovereignty governance compliance",
+   "why": "Establishes thought leadership on compliance and sovereignty concerns in cloud infrastructure."
+  },
+  {
+   "site": "Rackspace Technology",
    "url": "https://www.rackspace.com/en-nl/blog/cyberattacks-never-cross-your-firewall",
    "title": "The Cyberattacks That Never Cross Your Firewall",
    "date": "2026-11-02T16:02:33+00:00",
@@ -737,6 +1356,34 @@
    "topic": "External threat monitoring cyber security",
    "search": "threats outside firewall detection monitoring",
    "why": "Educates prospects on blind spots in security posture beyond network perimeter."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-nl/blog/design-connected-healthcare-cloud-epic-data-ai",
+   "title": "Design connected healthcare cloud epic data ai",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Healthcare cloud infrastructure Epic data",
+   "search": "how to design connected healthcare cloud",
+   "why": "Educates healthcare IT teams on cloud architecture for Epic systems."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-nl/blog/sovereignty-and-governance-you-can-prove",
+   "title": "Sovereignty and governance you can prove",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Data sovereignty governance infrastructure",
+   "search": "data sovereignty compliance managed services",
+   "why": "Establishes thought leadership on data governance for compliance-conscious prospects evaluating infrastructure."
   },
   {
    "site": "Rackspace Technology",
@@ -754,6 +1401,34 @@
   },
   {
    "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-sg/blog/design-connected-healthcare-cloud-epic-data-ai",
+   "title": "Design connected healthcare cloud epic data ai",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Connected healthcare cloud Epic data AI",
+   "search": "healthcare cloud Epic data AI architecture",
+   "why": "Establishes thought leadership on healthcare cloud infrastructure and AI integration."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-sg/blog/sovereignty-and-governance-you-can-prove",
+   "title": "Sovereignty and Governance You Can Prove",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": "2026-10-26T00:00:00+00:00",
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Proving sovereignty and governance controls",
+   "search": "how to prove governance controls work",
+   "why": "Educates prospects on regulatory compliance and positions Rackspace as governance expert."
+  },
+  {
+   "site": "Rackspace Technology",
    "url": "https://www.rackspace.com/en-ph/blog/cyberattacks-never-cross-your-firewall",
    "title": "The Cyberattacks That Never Cross Your Firewall",
    "date": "2026-11-02T16:02:33+00:00",
@@ -765,6 +1440,34 @@
    "topic": "Threats beyond network perimeter",
    "search": "managed digital risk monitoring threats",
    "why": "Educates prospects on external threats their existing security misses."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-ph/blog/design-connected-healthcare-cloud-epic-data-ai",
+   "title": "Design connected healthcare cloud epic data ai",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "connected healthcare cloud Epic data AI",
+   "search": "design connected healthcare cloud Epic",
+   "why": "Educates healthcare IT teams on architecting modern cloud solutions for Epic systems."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-ph/blog/sovereignty-and-governance-you-can-prove",
+   "title": "Sovereignty and governance you can prove",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Data sovereignty governance compliance",
+   "search": "data sovereignty governance compliance",
+   "why": "Establishes thought leadership on compliance and sovereignty for prospects in early research."
   },
   {
    "site": "Rackspace Technology",
@@ -782,6 +1485,34 @@
   },
   {
    "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-ar/blog/design-connected-healthcare-cloud-epic-data-ai",
+   "title": "Design connected healthcare cloud epic data ai",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Connected healthcare cloud Epic data AI",
+   "search": "design connected healthcare cloud Epic",
+   "why": "Attracts healthcare IT teams exploring cloud solutions for Epic systems."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-ar/blog/sovereignty-and-governance-you-can-prove",
+   "title": "Sovereignty and governance you can prove",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": "2026-10-26T00:00:00+00:00",
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Data sovereignty governance cloud",
+   "search": "data sovereignty cloud governance compliance",
+   "why": "Establishes thought leadership on regulatory compliance and data residency concerns."
+  },
+  {
+   "site": "Rackspace Technology",
    "url": "https://www.rackspace.com/es-cl/blog/cyberattacks-never-cross-your-firewall",
    "title": "The Cyberattacks That Never Cross Your Firewall",
    "date": "2026-11-02T16:02:33+00:00",
@@ -793,6 +1524,34 @@
    "topic": "Managed digital risk monitoring cybersecurity",
    "search": "how to detect cyberattacks beyond firewall",
    "why": "Educates prospects on threats outside perimeter defenses, positioning Rackspace MDRM as solution."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-cl/blog/design-connected-healthcare-cloud-epic-data-ai",
+   "title": "Design connected healthcare cloud epic data ai",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "healthcare cloud Epic data AI",
+   "search": "connected healthcare cloud Epic AI",
+   "why": "Positions Rackspace as thought leader for healthcare IT infrastructure and cloud solutions."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-cl/blog/sovereignty-and-governance-you-can-prove",
+   "title": "Sovereignty and governance you can prove",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "data sovereignty and governance",
+   "search": "data sovereignty governance compliance",
+   "why": "Establishes thought leadership on regulatory compliance and data governance concerns."
   },
   {
    "site": "Rackspace Technology",
@@ -810,6 +1569,34 @@
   },
   {
    "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-co/blog/design-connected-healthcare-cloud-epic-data-ai",
+   "title": "Design connected healthcare cloud epic data ai",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Connected healthcare cloud infrastructure",
+   "search": "healthcare cloud epic data AI design",
+   "why": "Educates healthcare IT decision-makers on cloud-native approaches to Epic integration."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-co/blog/sovereignty-and-governance-you-can-prove",
+   "title": "Sovereignty and Governance You Can Prove",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": "2026-10-26T00:00:00+00:00",
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Sovereignty governance compliance controls",
+   "search": "prove sovereignty governance compliance controls",
+   "why": "Establishes thought leadership on regulatory compliance and infrastructure control validation for regulated industries."
+  },
+  {
+   "site": "Rackspace Technology",
    "url": "https://www.rackspace.com/es-pe/blog/cyberattacks-never-cross-your-firewall",
    "title": "The Cyberattacks That Never Cross Your Firewall",
    "date": "2026-11-02T16:02:33+00:00",
@@ -821,6 +1608,118 @@
    "topic": "Managed digital risk monitoring security threats",
    "search": "managed digital risk monitoring threats",
    "why": "Establishes thought leadership on threats outside traditional firewalls, positioning Rackspace's monitoring solution."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-pe/blog/design-connected-healthcare-cloud-epic-data-ai",
+   "title": "Design connected healthcare cloud epic data ai",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Connected healthcare cloud Epic data AI",
+   "search": "design connected healthcare cloud Epic",
+   "why": "Educates healthcare buyers on integrating Epic with cloud infrastructure and AI capabilities."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-pe/blog/sovereignty-and-governance-you-can-prove",
+   "title": "Sovereignty and Governance You Can Prove",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": "2026-10-26T00:00:00+00:00",
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Sovereignty, governance and compliance controls",
+   "search": "how to prove compliance controls and governance",
+   "why": "Establishes Rackspace as trusted advisor for regulated organizations needing control frameworks."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-us/blog/cyberattacks-never-cross-your-firewall",
+   "title": "Cyberattacks never cross your firewall",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Firewall security cyberattacks protection",
+   "search": "cyberattacks firewall security protection",
+   "why": "Establishes thought leadership on firewall security for early-stage security researchers."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-us/blog/design-connected-healthcare-cloud-epic-data-ai",
+   "title": "Design connected healthcare cloud epic data ai",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Connected healthcare cloud Epic data AI",
+   "search": "healthcare cloud Epic data AI design",
+   "why": "Educates healthcare IT decision-makers on cloud infrastructure for Epic systems."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-us/blog/sovereignty-and-governance-you-can-prove",
+   "title": "Sovereignty and governance you can prove",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Data sovereignty governance compliance",
+   "search": "data sovereignty governance compliance requirements",
+   "why": "Positions Rackspace as expert on regulated data residency and compliance concerns."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-ve/blog/cyberattacks-never-cross-your-firewall",
+   "title": "Cyberattacks never cross your firewall",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "firewall security cyberattack protection",
+   "search": "how to prevent cyberattacks firewall",
+   "why": "Establishes Rackspace security expertise to attract companies researching threat prevention."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-ve/blog/design-connected-healthcare-cloud-epic-data-ai",
+   "title": "Design connected healthcare cloud epic data ai",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Connected healthcare cloud Epic AI",
+   "search": "design healthcare cloud Epic data AI",
+   "why": "Educates healthcare prospects on cloud architecture for Epic systems and AI integration."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-ve/blog/sovereignty-and-governance-you-can-prove",
+   "title": "Sovereignty and governance you can prove",
+   "date": "2026-11-02T16:02:33+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-11-02T16:02:33+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "data sovereignty and governance",
+   "search": "data sovereignty compliance governance",
+   "why": "Establishes Rackspace expertise in data sovereignty and compliance for regulated industries."
   },
   {
    "site": "CoreSite",
@@ -863,6 +1762,62 @@
    "topic": "Expedient AI CTRL next generation platform",
    "search": "Expedient AI CTRL webinar November 2026",
    "why": "Showcases new product capabilities to existing customers and prospects interested in AI governance."
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/blog",
+   "title": "Data Center News - CoreSite Connect[ED] Blog",
+   "date": "2026-10-30T00:00:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "landing",
+   "stage": "learning",
+   "topic": "Data center industry news and insights",
+   "search": "data center colocation cloud connectivity news",
+   "why": "Positions CoreSite as thought leader in data center and hybrid IT industry."
+  },
+  {
+   "site": "TierPoint",
+   "url": "https://www.tierpoint.com/about-us/sustainability/",
+   "title": "Sustainability Initiatives",
+   "date": "2026-10-29T15:35:04+00:00",
+   "kind": "updated",
+   "published": "2023-04-14T13:59:32+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "comparing",
+   "topic": "sustainability practices data center",
+   "search": "sustainable data center colocation",
+   "why": "Demonstrates ESG commitment and green credentials to environmentally-conscious enterprise buyers."
+  },
+  {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/video/data-center-explainer",
+   "title": "What is a Data Center?",
+   "date": "2026-10-29T00:00:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "what is a data center",
+   "search": "what is a data center",
+   "why": "Educates prospects on data center basics and positions colocation as solution."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/reports/impact-report",
+   "title": "2025 Impact Report | Digital Realty",
+   "date": "2026-10-28T21:35:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "data center sustainability impact report",
+   "search": "digital realty sustainability 2025 impact",
+   "why": "Demonstrates environmental leadership to attract sustainability-conscious customers and partners."
   },
   {
    "site": "Rackspace Technology",
@@ -1257,6 +2212,20 @@
    "why": "Educates regulated organizations on managing AI agent risk and compliance in production environments."
   },
   {
+   "site": "CoreSite",
+   "url": "https://www.coresite.com/data-center-locations/denver",
+   "title": "Colocation Data Centers in Denver - CoreSite",
+   "date": "2026-10-27T00:00:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Denver colocation data center services",
+   "search": "colocation data centers Denver Colorado",
+   "why": "Showcases Denver facilities to prospects evaluating regional colocation providers."
+  },
+  {
    "site": "TierPoint",
    "url": "https://www.tierpoint.com/services/it-disaster-recovery-services/draas/",
    "title": "Disaster Recovery As A Service (DRaaS) | TierPoint",
@@ -1398,6 +2367,20 @@
   },
   {
    "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/de-ch/blog/upfront-work-makes-healthcare-migration-predictable",
+   "title": "Upfront work makes healthcare migration predictable",
+   "date": "2026-10-26T13:09:43+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:09:43+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "healthcare migration planning",
+   "search": "healthcare IT migration planning",
+   "why": "Demonstrates Rackspace's ability to deliver predictable outcomes for regulated healthcare migrations."
+  },
+  {
+   "site": "Rackspace Technology",
    "url": "https://www.rackspace.com/de-ch/blog/who-controls-intelligence-your-ai-creates",
    "title": "Who Controls the Intelligence your AI Creates?",
    "date": "2026-10-26T13:09:43+00:00",
@@ -1423,6 +2406,20 @@
    "topic": "Healthcare IT reliability beyond uptime",
    "search": "healthcare IT reliability metrics",
    "why": "Helps healthcare IT leaders understand infrastructure dependencies and incident response holistically."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-hk/blog/upfront-work-makes-healthcare-migration-predictable",
+   "title": "Upfront work makes healthcare migration predictable",
+   "date": "2026-10-26T13:09:43+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:09:43+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "healthcare IT migration planning",
+   "search": "healthcare system cloud migration success",
+   "why": "Demonstrates Rackspace's migration expertise to win healthcare buyers in deciding phase."
   },
   {
    "site": "Rackspace Technology",
@@ -1454,6 +2451,20 @@
   },
   {
    "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-in/blog/upfront-work-makes-healthcare-migration-predictable",
+   "title": "Upfront work makes healthcare migration predictable",
+   "date": "2026-10-26T13:09:43+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:09:43+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "healthcare migration planning",
+   "search": "healthcare cloud migration",
+   "why": "Shows healthcare clients predictable migration outcomes with upfront planning and expertise."
+  },
+  {
+   "site": "Rackspace Technology",
    "url": "https://www.rackspace.com/en-in/blog/who-controls-intelligence-your-ai-creates",
    "title": "Who Controls the Intelligence your AI Creates?",
    "date": "2026-10-26T13:09:43+00:00",
@@ -1479,6 +2490,20 @@
    "topic": "Healthcare IT reliability metrics",
    "search": "how to measure healthcare IT reliability",
    "why": "Educates healthcare IT teams on monitoring beyond uptime to ensure clinical system performance."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-nl/blog/upfront-work-makes-healthcare-migration-predictable",
+   "title": "Upfront work makes healthcare migration predictable",
+   "date": "2026-10-26T13:09:43+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:09:43+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "Healthcare migration planning",
+   "search": "healthcare cloud migration strategy",
+   "why": "Shows buyers how Rackspace delivers predictable migrations for complex healthcare workloads."
   },
   {
    "site": "Rackspace Technology",
@@ -1510,6 +2535,20 @@
   },
   {
    "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-sg/blog/upfront-work-makes-healthcare-migration-predictable",
+   "title": "Upfront work makes healthcare migration predictable",
+   "date": "2026-10-26T13:09:43+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:09:43+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "Healthcare cloud migration planning",
+   "search": "healthcare IT infrastructure migration strategy",
+   "why": "Shows healthcare industry expertise through detailed migration planning methodology and outcomes."
+  },
+  {
+   "site": "Rackspace Technology",
    "url": "https://www.rackspace.com/en-sg/blog/who-controls-intelligence-your-ai-creates",
    "title": "Who Controls the Intelligence your AI Creates?",
    "date": "2026-10-26T13:09:43+00:00",
@@ -1535,6 +2574,20 @@
    "topic": "Healthcare IT reliability beyond uptime",
    "search": "healthcare IT reliability metrics",
    "why": "Educates healthcare IT teams on comprehensive reliability measurement beyond basic uptime monitoring."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/en-ph/blog/upfront-work-makes-healthcare-migration-predictable",
+   "title": "Upfront work makes healthcare migration predictable",
+   "date": "2026-10-26T13:09:43+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:09:43+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "Healthcare migration planning",
+   "search": "healthcare cloud migration planning",
+   "why": "Demonstrates predictable outcomes for healthcare organizations planning complex infrastructure moves."
   },
   {
    "site": "Rackspace Technology",
@@ -1566,6 +2619,20 @@
   },
   {
    "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-ar/blog/upfront-work-makes-healthcare-migration-predictable",
+   "title": "Upfront work makes healthcare migration predictable",
+   "date": "2026-10-26T13:09:43+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:09:43+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "Healthcare migration planning strategy",
+   "search": "healthcare cloud migration best practices",
+   "why": "Shows healthcare buyers how upfront planning reduces migration risk and complexity."
+  },
+  {
+   "site": "Rackspace Technology",
    "url": "https://www.rackspace.com/es-ar/blog/who-controls-intelligence-your-ai-creates",
    "title": "Who controls intelligence your ai creates",
    "date": "2026-10-26T13:09:43+00:00",
@@ -1591,6 +2658,20 @@
    "topic": "Healthcare IT reliability measurement",
    "search": "how to measure healthcare IT reliability",
    "why": "Educates healthcare IT teams on comprehensive reliability beyond uptime metrics."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-cl/blog/upfront-work-makes-healthcare-migration-predictable",
+   "title": "Upfront work makes healthcare migration predictable",
+   "date": "2026-10-26T13:09:43+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:09:43+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "Healthcare migration planning approach",
+   "search": "healthcare cloud migration strategy",
+   "why": "Demonstrates proven methodology to overcome buyer concerns about migration complexity and risk."
   },
   {
    "site": "Rackspace Technology",
@@ -1622,6 +2703,20 @@
   },
   {
    "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-co/blog/upfront-work-makes-healthcare-migration-predictable",
+   "title": "Upfront work makes healthcare migration predictable",
+   "date": "2026-10-26T13:09:43+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:09:43+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "healthcare migration planning predictability",
+   "search": "healthcare cloud migration planning process",
+   "why": "Demonstrates Rackspace's methodology to healthcare buyers planning complex migrations."
+  },
+  {
+   "site": "Rackspace Technology",
    "url": "https://www.rackspace.com/es-co/blog/who-controls-intelligence-your-ai-creates",
    "title": "Who Controls the Intelligence your AI Creates?",
    "date": "2026-10-26T13:09:43+00:00",
@@ -1647,6 +2742,20 @@
    "topic": "Healthcare IT reliability measurement",
    "search": "healthcare IT reliability uptime monitoring",
    "why": "Educates healthcare IT teams on comprehensive reliability metrics beyond uptime."
+  },
+  {
+   "site": "Rackspace Technology",
+   "url": "https://www.rackspace.com/es-pe/blog/upfront-work-makes-healthcare-migration-predictable",
+   "title": "Upfront work makes healthcare migration predictable",
+   "date": "2026-10-26T13:09:43+00:00",
+   "kind": "new",
+   "published": null,
+   "first_seen": "2026-10-26T13:09:43+00:00",
+   "type": "case",
+   "stage": "buying",
+   "topic": "Healthcare migration planning infrastructure",
+   "search": "healthcare migration to cloud planning",
+   "why": "Demonstrates migration planning expertise to healthcare buyers evaluating infrastructure moves."
   },
   {
    "site": "Rackspace Technology",
@@ -2154,20 +3263,6 @@
   },
   {
    "site": "Digital Realty",
-   "url": "https://www.digitalrealty.com/resources/blog/emea-ai-imperative-gdis-2026-data-insights",
-   "title": "EMEA AI Imperative: GDIS 2026 Data Insights | Digital Realty",
-   "date": "2026-10-16T00:00:00+00:00",
-   "kind": "new",
-   "published": "2026-10-16T00:00:00+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "research",
-   "stage": "learning",
-   "topic": "EMEA AI infrastructure data insights",
-   "search": "EMEA AI strategy data center infrastructure",
-   "why": "Establishes thought leadership on AI infrastructure needs in European market."
-  },
-  {
-   "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/white-papers/gateway-to-apac",
    "title": "Ebook: The Enterprise Gateway To APAC",
    "date": "2026-10-16T00:00:00+00:00",
@@ -2196,20 +3291,6 @@
   },
   {
    "site": "Digital Realty",
-   "url": "https://www.digitalrealty.com/resources/videos/zurich-is-growing-meet-zur4",
-   "title": "ZUR4 Zurich Data Center Expansion for AI | Digital Realty",
-   "date": "2026-10-14T00:00:00+00:00",
-   "kind": "new",
-   "published": "2026-10-14T00:00:00+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "news",
-   "stage": "learning",
-   "topic": "ZUR4 Zurich data center expansion AI",
-   "search": "Zurich data center AI capacity expansion",
-   "why": "Announces new AI-ready data center capacity in Switzerland to attract prospects researching EMEA expansion options."
-  },
-  {
-   "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/solution-briefs/quantum-accelerated-ai-from-exploration-to-real-world-validation",
    "title": "Quantum-accelerated AI: From exploration to real-world validation | Digital Realty",
    "date": "2026-10-14T00:00:00+00:00",
@@ -2221,48 +3302,6 @@
    "topic": "Quantum-accelerated AI infrastructure",
    "search": "quantum computing AI infrastructure",
    "why": "Establishes Digital Realty as quantum-AI innovator, attracts early-stage research teams exploring cutting-edge solutions."
-  },
-  {
-   "site": "Digital Realty",
-   "url": "https://www.digitalrealty.com/resources/blog/atlanta-fintech-innovation-ai",
-   "title": "Atlanta’s Fintech Hub Meets AI Infrastructure | Digital Realty",
-   "date": "2026-10-14T00:00:00+00:00",
-   "kind": "new",
-   "published": "2026-10-14T00:00:00+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "opinion",
-   "stage": "learning",
-   "topic": "Atlanta fintech AI infrastructure hub",
-   "search": "Atlanta fintech AI infrastructure",
-   "why": "Positions Digital Realty as thought leader in regional AI and fintech growth."
-  },
-  {
-   "site": "Digital Realty",
-   "url": "https://www.digitalrealty.com/resources/blog/emeas-ai-imperative-what-the-2026-global-data-insights-survey-reveals",
-   "title": "EMEA AI Imperative: GDIS 2026 Reveals Seven Routes to AI Execution | Digital Realty",
-   "date": "2026-10-14T00:00:00+00:00",
-   "kind": "new",
-   "published": "2026-10-14T00:00:00+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "research",
-   "stage": "learning",
-   "topic": "EMEA AI execution infrastructure requirements",
-   "search": "EMEA AI infrastructure trends 2026",
-   "why": "Positions Digital Realty as authority on regional AI infrastructure needs and solutions."
-  },
-  {
-   "site": "Expedient",
-   "url": "https://expedient.com/events/2026-11-05-what-nutanix-multi-tenant-can-mean-for-your-business/",
-   "title": "What Nutanix Multi-Tenant Can Mean for Your Business | Expedient Webinar - Expedient",
-   "date": "2026-10-13T13:00:00+00:00",
-   "kind": "new",
-   "published": "2026-10-13T13:00:00+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "howto",
-   "stage": "comparing",
-   "topic": "Nutanix multi-tenant cloud model",
-   "search": "Nutanix multi-tenant cloud explained",
-   "why": "Educates prospects comparing Nutanix multi-tenant against hyperscalers and traditional private cloud options."
   },
   {
    "site": "Digital Realty",
@@ -2319,20 +3358,6 @@
    "topic": "What is cloud computing",
    "search": "what is cloud computing",
    "why": "Educates early-stage prospects researching cloud fundamentals and Flexential's solutions."
-  },
-  {
-   "site": "Flexential",
-   "url": "https://www.flexential.com/resources/blog/cloud-disaster-recovery-plan-before-migration",
-   "title": "Cloud disaster recovery planning: What to finalize before migration starts",
-   "date": "2026-10-12T22:39:40+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "howto",
-   "stage": "comparing",
-   "topic": "cloud disaster recovery planning",
-   "search": "cloud disaster recovery planning migration",
-   "why": "Educates infrastructure leaders on DR best practices to establish thought leadership in hybrid IT."
   },
   {
    "site": "Rackspace Technology",
@@ -2700,20 +3725,6 @@
   },
   {
    "site": "Flexential",
-   "url": "https://www.flexential.com/resources/blog/how-to-protect-cloud-data",
-   "title": "How To Protect Cloud Data: Best Practices & More | Flexential",
-   "date": "2026-10-06T17:33:14+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "howto",
-   "stage": "learning",
-   "topic": "Cloud data protection best practices",
-   "search": "how to protect cloud data security",
-   "why": "Educates prospects on security risks and positions Flexential as a trusted data protection partner."
-  },
-  {
-   "site": "Flexential",
    "url": "https://www.flexential.com/resources/blog/disaster-recovery-has-matured-has-your-program",
    "title": "Disaster recovery has matured. Has your program?",
    "date": "2026-10-06T16:37:57+00:00",
@@ -2781,20 +3792,6 @@
    "topic": "Why choose CoreSite data centers",
    "search": "data center colocation provider why choose",
    "why": "Helps prospects understand CoreSite's value proposition versus other data center competitors."
-  },
-  {
-   "site": "Flexential",
-   "url": "https://www.flexential.com/resources/blog/cloud-tco-nobody-puts-spreadsheet",
-   "title": "The cloud TCO nobody puts in the spreadsheet",
-   "date": "2026-10-05T20:53:33+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "howto",
-   "stage": "comparing",
-   "topic": "Cloud total cost of ownership",
-   "search": "cloud TCO total cost of ownership",
-   "why": "Helps buyers understand hidden cloud costs beyond infrastructure to justify managed services."
   },
   {
    "site": "Flexential",
@@ -3022,34 +4019,6 @@
   },
   {
    "site": "Digital Realty",
-   "url": "https://www.digitalrealty.com/platform-digital/connectivity/internet-exchange",
-   "title": "Internet Exchange | Digital Realty",
-   "date": "2026-10-01T17:13:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Internet Exchange peering solutions",
-   "search": "internet exchange peering connectivity",
-   "why": "Showcases DRIX and peering capabilities to enterprises evaluating connectivity options."
-  },
-  {
-   "site": "Digital Realty",
-   "url": "https://www.digitalrealty.com/platform-digital/connectivity/cross-connect",
-   "title": "Cross Connect | Digital Realty",
-   "date": "2026-10-01T17:12:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Cross connect data center connectivity",
-   "search": "cross connect data center Europe",
-   "why": "Explains core service for customers evaluating dedicated connectivity solutions and ordering options."
-  },
-  {
-   "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/platform-digital/connectivity/campus-connect",
    "title": "Campus Connect | Digital Realty",
    "date": "2026-10-01T17:11:00+00:00",
@@ -3061,20 +4030,6 @@
    "topic": "Campus Connect colocation solution",
    "search": "data center colocation connectivity solution",
    "why": "Showcases their Campus Connect product to buyers evaluating colocation and hybrid IT infrastructure options."
-  },
-  {
-   "site": "Digital Realty",
-   "url": "https://www.digitalrealty.com/platform-digital/connectivity",
-   "title": "Data Center Connectivity | Digital Realty",
-   "date": "2026-10-01T17:10:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "landing",
-   "stage": "comparing",
-   "topic": "Data center connectivity solutions",
-   "search": "data center connectivity providers",
-   "why": "Showcases connectivity platform to buyers evaluating colocation and interconnection options."
   },
   {
    "site": "Digital Realty",
@@ -3511,6 +4466,188 @@
    "why": "Establishes thought leadership on Southeast data center growth and hybrid cloud strategies."
   },
   {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/multimedia/apac-expansion-with-india-digital-infrastructure",
+   "title": "Empower Your APAC Expansion with India’s Strategic Digital Infrastructure | Digital Realty",
+   "date": "2026-09-29T21:50:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "India digital infrastructure APAC expansion",
+   "search": "India APAC digital infrastructure data center",
+   "why": "Educates businesses on India's infrastructure advantage for regional expansion strategy."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/increase-the-value-of-your-network",
+   "title": "Increase the value of your network | Digital Realty",
+   "date": "2026-09-29T21:48:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "landing",
+   "stage": "learning",
+   "topic": "Network value optimization data centers",
+   "search": "optimize network costs data centers",
+   "why": "Educates network operators on colocation benefits and cost efficiency strategies."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/webinars/the-sustainable-data-center-the-path-to-business-and-environmental-resilience",
+   "title": "The Sustainable Data Centre: The Path to Business and Environmental Resilience | Digital Realty",
+   "date": "2026-09-29T21:48:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "sustainable data center environmental resilience",
+   "search": "sustainable data center business resilience",
+   "why": "Positions Digital Realty as thought leader in sustainable infrastructure practices."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/amsterdam-data-tower-tour",
+   "title": "Amsterdam Data Tower Tour | Digital Realty",
+   "date": "2026-09-29T21:47:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "Amsterdam data tower facility tour",
+   "search": "amsterdam data center tour",
+   "why": "Shows facility capabilities to prospects evaluating European colocation options."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/modular-design-approach",
+   "title": "The Benefits of Digital Realty’s Modular Design Approach | Digital Realty",
+   "date": "2026-09-29T21:44:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "landing",
+   "stage": "learning",
+   "topic": "Modular data center design infrastructure",
+   "search": "modular data center design benefits",
+   "why": "Educates prospects on how Digital Realty's infrastructure supports AI and future-proof applications."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/chicago-virtual-tour",
+   "title": "Chicago Virtual Tour Video | Digital Realty",
+   "date": "2026-09-29T21:44:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Chicago data center virtual tour",
+   "search": "chicago data center tour video",
+   "why": "Showcases Chicago facility to buyers evaluating location options."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/nvidia-enable-enterprise-ai",
+   "title": "How to Enable Enterprise AI with NVIDIA and Digital Realty | Digital Realty",
+   "date": "2026-09-29T21:39:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Enterprise AI with NVIDIA",
+   "search": "enable enterprise AI infrastructure",
+   "why": "Teaches IT leaders how to implement generative AI securely at scale."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/cultural-approaches-to-cybersecurity",
+   "title": "Cultural Approaches to Cybersecurity: Changing Paradigms for Veterans and Beyond | Digital Realty",
+   "date": "2026-09-29T21:25:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "cybersecurity talent hiring veterans",
+   "search": "how to hire cybersecurity veterans talent",
+   "why": "Establishes thought leadership on military talent retention in cybersecurity."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/grange-castle-business-park-old-nangor-road-ireland-video-tour",
+   "title": "Profile Park, Dublin - Video Tour | Digital Realty",
+   "date": "2026-09-29T21:16:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "Profile Park Dublin data center tour",
+   "search": "Profile Park Dublin data center video tour",
+   "why": "Showcases EMEA facility to prospects exploring data center locations."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/digital-profile-park-ireland-data-center",
+   "title": "Digital Profile Park Ireland Data Center Video | Digital Realty",
+   "date": "2026-09-29T21:01:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "landing",
+   "stage": "comparing",
+   "topic": "Digital Profile Park Ireland data center",
+   "search": "Ireland data center colocation facility",
+   "why": "Showcases specific facility capabilities to help prospects evaluate this location option."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/the-mediterranean-region",
+   "title": "The Mediterranean region | Digital Realty",
+   "date": "2026-09-29T20:52:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "Mediterranean data center presence connectivity",
+   "search": "Digital Realty Mediterranean region data centers",
+   "why": "Showcases geographic footprint and regional connectivity capabilities to prospects researching locations."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/how-platformdigital-enables-private-ai",
+   "title": "How PlatformDIGITAL® Enables Private AI | Digital Realty",
+   "date": "2026-09-29T20:50:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "PlatformDIGITAL private AI deployment",
+   "search": "private AI infrastructure requirements HPC",
+   "why": "Educates prospects on AI deployment challenges and positions PlatformDIGITAL as solution."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/the-connected-campus",
+   "title": "The Connected Campus | Digital Realty",
+   "date": "2026-09-29T20:33:00+00:00",
+   "kind": "unknown",
+   "published": null,
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "Connected Campus integrated data center solution",
+   "search": "connected campus data center infrastructure",
+   "why": "Showcases their integrated platform concept to educate prospects on unified infrastructure benefits."
+  },
+  {
    "site": "TierPoint",
    "url": "https://www.tierpoint.com/services/it-security/adapt-platform/",
    "title": "Adapt Platform | TierPoint, LLC",
@@ -3665,20 +4802,6 @@
    "why": "Positions Silicon Valley locations as innovation hubs for enterprise infrastructure."
   },
   {
-   "site": "TierPoint",
-   "url": "https://www.tierpoint.com/services/data-center-services/colocation-services/",
-   "title": "Colocation | TierPoint, LLC",
-   "date": "2026-09-24T20:31:33+00:00",
-   "kind": "updated",
-   "published": "2024-05-10T21:16:10+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "landing",
-   "stage": "buying",
-   "topic": "Colocation data center services",
-   "search": "colocation services data centers",
-   "why": "Showcases TierPoint's colocation offerings to prospects evaluating hosting solutions."
-  },
-  {
    "site": "Flexential",
    "url": "https://www.flexential.com/resources/customer-story/webtpa",
    "title": "Providing health organizations data and support",
@@ -3792,20 +4915,6 @@
   },
   {
    "site": "Flexential",
-   "url": "https://www.flexential.com/platform",
-   "title": "Platform",
-   "date": "2026-09-24T16:15:01+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "landing",
-   "stage": "learning",
-   "topic": "Hybrid IT infrastructure platform",
-   "search": "hybrid IT infrastructure colocation cloud",
-   "why": "Introduces FlexAnywhere platform as integrated solution for hybrid infrastructure needs."
-  },
-  {
-   "site": "Flexential",
    "url": "https://www.flexential.com/data-centers",
    "title": "Data Centers",
    "date": "2026-09-24T16:02:21+00:00",
@@ -3823,7 +4932,7 @@
    "url": "https://www.coresite.com/blog/optimize-ai-workloads-with-colocation-and-hybrid-it",
    "title": "Optimize AI Workloads with Colocation and Hybrid IT",
    "date": "2026-09-24T15:00:03+00:00",
-   "kind": "new",
+   "kind": "unknown",
    "published": "2026-09-24T15:00:03+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "type": "howto",
@@ -4295,20 +5404,6 @@
    "why": "Establishes CoreSite as thought leader on industry trends and growth strategy."
   },
   {
-   "site": "Flexential",
-   "url": "https://www.flexential.com/resources/press-release/flexential-advances-private-cloud-modernization-vmware-cloud-foundation-9",
-   "title": "Flexential Advances Private Cloud Modernization with VMware Cloud Foundation 9",
-   "date": "2026-09-22T00:00:00+00:00",
-   "kind": "new",
-   "published": "2026-09-22T00:00:00+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "news",
-   "stage": "buying",
-   "topic": "VMware Cloud Foundation 9 private cloud",
-   "search": "VMware Cloud Foundation 9 managed services",
-   "why": "Announces new service capability to attract organizations modernizing private cloud infrastructure."
-  },
-  {
    "site": "CoreSite",
    "url": "https://www.coresite.com/video/coresite-data-center-qualification-program",
    "title": "Coresite's Data Center Qualification Program",
@@ -4433,20 +5528,6 @@
    "topic": "Cloud connectivity reliability hybrid IT",
    "search": "cloud provider connectivity reliability redundancy",
    "why": "Shows how Flexential solves cloud connectivity problems for IT decision-makers evaluating solutions."
-  },
-  {
-   "site": "Digital Realty",
-   "url": "https://www.digitalrealty.com/resources/webinars/cio-strategies-for-a-production-ready-scalable-ai-infrastructure",
-   "title": "CIO Strategies for a Production-Ready, Scalable AI Infrastructure | Digital Realty",
-   "date": "2026-09-21T00:00:00+00:00",
-   "kind": "new",
-   "published": "2026-09-21T00:00:00+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "opinion",
-   "stage": "learning",
-   "topic": "AI infrastructure strategies for enterprises",
-   "search": "production ready scalable AI infrastructure",
-   "why": "Establishes thought leadership on AI infrastructure planning with data center expertise."
   },
   {
    "site": "CoreSite",
@@ -4827,18 +5908,18 @@
    "why": "Showcases core product to enterprises ready to evaluate hosted private cloud options."
   },
   {
-   "site": "CoreSite",
-   "url": "https://www.coresite.com/community-engagement",
-   "title": "Discover How CoreSite Gives Back Through People and Partnerships",
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/agentic-ai-productivity-at-scale",
+   "title": "Agentic AI is here: Is your inference infrastructure ready? | Digital Realty",
    "date": "2026-09-16T00:00:00+00:00",
    "kind": "unknown",
-   "published": null,
+   "published": "2026-09-16T00:00:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "opinion",
+   "type": "howto",
    "stage": "learning",
-   "topic": "Community engagement and corporate responsibility",
-   "search": "data center company community involvement",
-   "why": "Builds brand trust and differentiates CoreSite as socially responsible infrastructure provider."
+   "topic": "Agentic AI inference infrastructure",
+   "search": "agentic AI inference latency data center",
+   "why": "Educates prospects on agentic AI infrastructure needs and Digital Realty's metro-based advantage."
   },
   {
    "site": "Flexential",
@@ -4939,20 +6020,6 @@
    "why": "Showcases specific facility specs to convince prospects to book tours and get quotes."
   },
   {
-   "site": "CoreSite",
-   "url": "https://www.coresite.com/blog/coresite-celebrates-25-years-of-connection-and-the-people-behind-it",
-   "title": "CoreSite Celebrates 25 Years of Connection and the People Behind It",
-   "date": "2026-09-10T15:00:01+00:00",
-   "kind": "unknown",
-   "published": "2026-09-10T15:00:01+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "news",
-   "stage": "customers",
-   "topic": "CoreSite 25 years company milestone",
-   "search": "CoreSite 25 years anniversary",
-   "why": "Builds brand authority and customer loyalty by celebrating company history and values."
-  },
-  {
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/webinars/tech-talk-silicon-valley",
    "title": "Tech Talk: Silicon Valley | The Foundation Behind AI Innovation",
@@ -4965,118 +6032,6 @@
    "topic": "Silicon Valley AI infrastructure foundation",
    "search": "why Silicon Valley center of AI innovation",
    "why": "Establishes thought leadership on AI infrastructure and Digital Realty's strategic positioning in innovation hubs."
-  },
-  {
-   "site": "CoreSite",
-   "url": "https://www.coresite.com/customer-stories/architecting-unified-experiences-from-cloud-migration-to-cybersecurity-for-enterprise-clients",
-   "title": "Architecting Unified Experiences from Cloud Migration to Cybersecurity for Enterprise Clients",
-   "date": "2026-09-10T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "case",
-   "stage": "buying",
-   "topic": "Cloud migration data center colocation",
-   "search": "data center colocation cloud migration",
-   "why": "Proves CoreSite's capability with enterprise client achieving 45% cost savings."
-  },
-  {
-   "site": "CoreSite",
-   "url": "https://www.coresite.com/customer-stories/railway",
-   "title": "A Full-Stack Cloud Computing Platform Delivers Exceptional Outcomes for Developers and Enterprises",
-   "date": "2026-09-10T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "case",
-   "stage": "buying",
-   "topic": "Data center colocation cloud infrastructure",
-   "search": "cloud platform colocation data center solution",
-   "why": "Demonstrates CoreSite's technical capabilities solving real customer scaling challenges."
-  },
-  {
-   "site": "CoreSite",
-   "url": "https://www.coresite.com/customer-stories/media-entertainment-provider",
-   "title": "Media & Entertainment Provider",
-   "date": "2026-09-10T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "case",
-   "stage": "customers",
-   "topic": "CDN colocation low-latency content delivery",
-   "search": "managed CDN colocation low latency",
-   "why": "Demonstrates CoreSite's colocation and connectivity solutions for media customers."
-  },
-  {
-   "site": "CoreSite",
-   "url": "https://www.coresite.com/customer-stories/telco-and-internet-service-provider-accelerates-time-to-market-strengthens-application-performance",
-   "title": "Telco and Internet Service Provider Accelerates Time to Market, Strengthens Application Performance",
-   "date": "2026-09-10T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "case",
-   "stage": "buying",
-   "topic": "Telco cloud connectivity solution partner",
-   "search": "cloud connectivity for telco providers",
-   "why": "Shows how Atlantech solved cloud integration challenges using CoreSite's platform."
-  },
-  {
-   "site": "CoreSite",
-   "url": "https://www.coresite.com/customer-stories/building-winning-it-strategies-for-small-and-medium-sized-businesses",
-   "title": "Building Winning IT Strategies for Small- and Medium-Sized Businesses",
-   "date": "2026-09-10T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "case",
-   "stage": "comparing",
-   "topic": "data center colocation for SMB growth",
-   "search": "data center provider SMB expansion",
-   "why": "Shows how CoreSite enabled an MSP to scale operations across regions and attract customers."
-  },
-  {
-   "site": "CoreSite",
-   "url": "https://www.coresite.com/customer-stories/network-services-company",
-   "title": "Network Services Company",
-   "date": "2026-09-10T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "case",
-   "stage": "buying",
-   "topic": "colocation bandwidth media delivery",
-   "search": "colocation for media companies bandwidth",
-   "why": "Demonstrates colocation and cloud exchange ROI to prospects comparing infrastructure solutions."
-  },
-  {
-   "site": "CoreSite",
-   "url": "https://www.coresite.com/customer-stories/online-gaming-platform",
-   "title": "Online Gaming Platform",
-   "date": "2026-09-10T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "case",
-   "stage": "buying",
-   "topic": "gaming platform colocation networking",
-   "search": "colocation for online gaming platform latency",
-   "why": "Demonstrates CoreSite solutions delivering real results for similar enterprise customers."
-  },
-  {
-   "site": "CoreSite",
-   "url": "https://www.coresite.com/customer-stories/delivering-an-open-cloud-platform-with-full-control",
-   "title": "Delivering an Open Cloud Platform with Full Control",
-   "date": "2026-09-10T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "case",
-   "stage": "customers",
-   "topic": "Cloud infrastructure colocation success story",
-   "search": "CoreSite Chicago data center colocation",
-   "why": "Showcases CoreSite's high-density capabilities and interconnections to existing and prospective customers."
   },
   {
    "site": "TierPoint",
@@ -5094,34 +6049,6 @@
   },
   {
    "site": "TierPoint",
-   "url": "https://www.tierpoint.com/podcast/ep-47-biometrics-sabotage-5-trillion-infrastructure-with-kevin-surace/",
-   "title": "EP. 47 Biometrics, Sabotage & $5 Trillion Infrastructure with Kevin Surace | TierPoint, LLC",
-   "date": "2026-09-09T15:50:26+00:00",
-   "kind": "updated",
-   "published": "2026-05-08T03:18:07+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "opinion",
-   "stage": "learning",
-   "topic": "AI cybersecurity biometrics authentication",
-   "search": "biometric FIDO2 authentication MFA passwordless",
-   "why": "Positions TierPoint as thought leader on emerging cybersecurity and AI infrastructure trends."
-  },
-  {
-   "site": "TierPoint",
-   "url": "https://www.tierpoint.com/podcast/ep-51-building-smarter-logistics-with-ai-with-gary-dowdy/",
-   "title": "EP. 51 Building Smarter Logistics with AI with Gary Dowdy | TierPoint, LLC",
-   "date": "2026-09-09T15:38:51+00:00",
-   "kind": "unknown",
-   "published": "2026-09-09T15:38:51+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "opinion",
-   "stage": "learning",
-   "topic": "AI in freight logistics and cloud infrastructure",
-   "search": "AI freight logistics cloud infrastructure",
-   "why": "Positions TierPoint as thought leader in AI and cloud transformation across industries."
-  },
-  {
-   "site": "TierPoint",
    "url": "https://www.tierpoint.com/adapt-ddos-protection/",
    "title": "Why DDos Protection Matters | TierPoint, LLC",
    "date": "2026-09-08T21:04:36+00:00",
@@ -5133,48 +6060,6 @@
    "topic": "DDoS protection service",
    "search": "DDoS protection for enterprises",
    "why": "Converts security-conscious buyers by showcasing managed DDoS mitigation capabilities."
-  },
-  {
-   "site": "TierPoint",
-   "url": "https://www.tierpoint.com/success-stories/laz-parking/",
-   "title": "LAZ Parking Simplifies Microsoft Security and Governance | TierPoint, LLC",
-   "date": "2026-09-08T17:29:09+00:00",
-   "kind": "updated",
-   "published": "2026-07-22T23:19:18+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "case",
-   "stage": "buying",
-   "topic": "Microsoft security governance managed services",
-   "search": "Microsoft security governance compliance workshop",
-   "why": "Demonstrates TierPoint's expertise helping enterprises secure Microsoft infrastructure and governance before AI adoption."
-  },
-  {
-   "site": "TierPoint",
-   "url": "https://www.tierpoint.com/it-strategic-guides/hybrid-cloud-strategy/",
-   "title": "Hybrid Cloud Strategy: A Complete Guide to Digital Transformation",
-   "date": "2026-09-08T08:43:49+00:00",
-   "kind": "updated",
-   "published": "2023-04-19T13:50:59+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "howto",
-   "stage": "learning",
-   "topic": "Hybrid cloud strategy digital transformation",
-   "search": "hybrid cloud strategy guide",
-   "why": "Educates prospects researching hybrid cloud adoption and strategy implementation."
-  },
-  {
-   "site": "CoreSite",
-   "url": "https://www.coresite.com/customer-stories/oxio",
-   "title": "World’s First Telecom-as-a-Service (TaaS) Platform Enables Businesses to Integrate Telecom Products Directly into Applications",
-   "date": "2026-09-08T00:00:00+00:00",
-   "kind": "unknown",
-   "published": null,
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "case",
-   "stage": "buying",
-   "topic": "Telecom-as-a-Service platform connectivity",
-   "search": "telecom as a service platform connectivity",
-   "why": "Demonstrates CoreSite's carrier infrastructure solving fast deployment needs for telecom businesses."
   },
   {
    "site": "Digital Realty",
@@ -5206,6 +6091,20 @@
   },
   {
    "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/scale-sovereignty-and-ai-readiness",
+   "title": "Scale, Sovereignty & AI Readiness | Digital Realty's Expanding EMEA Footprint",
+   "date": "2026-09-01T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2026-09-01T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "Digital Realty EMEA expansion AI infrastructure",
+   "search": "Digital Realty EMEA data centers AI readiness",
+   "why": "Announces EMEA footprint expansion to help enterprises scale AI workloads and meet data sovereignty needs."
+  },
+  {
+   "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/white-papers/how-to-scale-ai-in-financial-services-infrastructure-ai-inference",
    "title": "How to Scale AI in Financial Services: Infrastructure, AI Inference & Private AI",
    "date": "2026-09-01T00:00:00+00:00",
@@ -5231,6 +6130,20 @@
    "topic": "Digital sovereignty AI financial services",
    "search": "digital sovereignty financial services AI",
    "why": "Establishes thought leadership on AI infrastructure requirements in regulated industries."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/webinars/tech-talk-chicago",
+   "title": "Tech Talk: Inside the Chicago Data Center Market | Digital Realty",
+   "date": "2026-08-26T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2026-08-26T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Chicago data center market AI financial services",
+   "search": "Chicago data center market AI",
+   "why": "Establishes thought leadership on emerging trends in Chicago's financial tech infrastructure."
   },
   {
    "site": "Digital Realty",
@@ -5331,6 +6244,20 @@
    "why": "Educates prospects on OSC value to build confidence in their colocation services."
   },
   {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/webinars/tech-talk-ashburn",
+   "title": "Tech Talk: Inside the Ashburn Data Center Market | Digital Realty",
+   "date": "2026-08-13T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2026-08-13T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Ashburn data center market and AI infrastructure",
+   "search": "Ashburn data center market AI power",
+   "why": "Establishes thought leadership on regional data center trends and AI infrastructure demand."
+  },
+  {
    "site": "CoreSite",
    "url": "https://www.coresite.com/resources/video/how-colocation-enables-direct-cloud-connectivity",
    "title": "How Colocation Enables Direct Cloud Connectivity",
@@ -5343,6 +6270,34 @@
    "topic": "colocation direct cloud connectivity",
    "search": "colocation direct cloud connectivity benefits",
    "why": "Educates prospects on how colocation solves cloud connectivity challenges."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/eplus-americas-ai-unfiltered-podcast",
+   "title": "ePlus Americas \"AI Unfiltered\" Podcast",
+   "date": "2026-08-12T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2026-08-12T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "AI infrastructure liquid cooling technology",
+   "search": "AI workloads data center liquid cooling",
+   "why": "Builds thought leadership on emerging AI infrastructure trends and capabilities."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/eplus-emea-ai-unfiltered-podcast",
+   "title": "ePlus EMEA \"AI Unfiltered\" Podcast",
+   "date": "2026-08-12T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2026-08-12T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "AI infrastructure direct liquid cooling",
+   "search": "AI infrastructure data center cooling",
+   "why": "Showcases innovation and thought leadership at industry summit event."
   },
   {
    "site": "Digital Realty",
@@ -5360,6 +6315,20 @@
   },
   {
    "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/chicago-north-americas-financial-powerhouse-meets-the-future-of-ai-infrastructure",
+   "title": "Chicago: North America's financial powerhouse meets the future of AI infrastructure",
+   "date": "2026-08-04T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2026-08-04T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Chicago data centers AI infrastructure",
+   "search": "Chicago data center AI infrastructure finance",
+   "why": "Establishes Digital Realty's Chicago data center capabilities for AI and finance sector decision-makers."
+  },
+  {
+   "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/white-papers/digital-infrastructure-guide-life-sciences",
    "title": "Life Sciences Infrastructure Guide | Digital Realty",
    "date": "2026-08-04T00:00:00+00:00",
@@ -5371,6 +6340,20 @@
    "topic": "Life sciences infrastructure strategy guide",
    "search": "intelligent infrastructure life sciences AI",
    "why": "Establishes thought leadership with research-backed guide for life sciences digital transformation."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/videos/new-york-metro-hype",
+   "title": "New York: The World's Financial Capital | Data Center Hub",
+   "date": "2026-08-03T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2026-08-03T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "New York data center market financial services",
+   "search": "New York data center colocation financial services",
+   "why": "Builds thought leadership by showcasing NY's role as data center hub for finance and AI."
   },
   {
    "site": "Digital Realty",
@@ -5416,6 +6399,20 @@
   },
   {
    "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/analyst-reports/idc-vendor-profile",
+   "title": "IDC 2026 Vendor Profile: Digital Realty | Digital Realty",
+   "date": "2026-07-16T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2026-07-16T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "research",
+   "stage": "comparing",
+   "topic": "IDC vendor profile colocation AI",
+   "search": "best data center colocation for AI",
+   "why": "Third-party validation builds trust with enterprise buyers evaluating colocation providers."
+  },
+  {
+   "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/building-ai-inference-infrastructure",
    "title": "From campus to network: Building AI infrastructure for the inference era",
    "date": "2026-07-06T00:00:00+00:00",
@@ -5427,6 +6424,20 @@
    "topic": "AI inference infrastructure data centers",
    "search": "AI inference infrastructure requirements",
    "why": "Positions Digital Realty's expertise on emerging AI infrastructure needs early in buyer research."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/amsterdam-data-centers-powering-finance-tech-and-innovation",
+   "title": "Digital Realty Enables AI and Tech Innovation in Amsterdam | Digital Realty",
+   "date": "2026-06-29T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2026-06-29T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Amsterdam data centers innovation finance",
+   "search": "Amsterdam data centers finance tech",
+   "why": "Positions Amsterdam as innovation hub served by their data centers."
   },
   {
    "site": "Digital Realty",
@@ -5555,20 +6566,6 @@
    "why": "Announces ecosystem expansion to attract enterprises evaluating hybrid infrastructure options."
   },
   {
-   "site": "Digital Realty",
-   "url": "https://www.digitalrealty.com/resources/blog/africas-renewable-energy-race-digital-transformation",
-   "title": "The budding enterprise opportunity: Africa’s renewable energy race towards a sustainable future",
-   "date": "2025-05-13T00:00:00+00:00",
-   "kind": "unknown",
-   "published": "2025-05-13T00:00:00+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "opinion",
-   "stage": "learning",
-   "topic": "Africa renewable energy digital transformation",
-   "search": "Africa renewable energy digital transformation",
-   "why": "Establishes thought leadership on sustainability and infrastructure trends in emerging markets."
-  },
-  {
    "site": "Flexential",
    "url": "https://www.flexential.com/resources/blog/cloud-strategy-explained",
    "title": "Cloud strategy explained",
@@ -5595,6 +6592,20 @@
    "topic": "Sovereign AI importance and overview",
    "search": "what is sovereign AI",
    "why": "Educates prospects on emerging AI regulatory trends affecting infrastructure decisions."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/hivelocity-and-servicefabric",
+   "title": "Hybrid IT Infrastructure: Introducing ServiceFabric™ and Hivelocity’s Unified Solution | Digital Realty",
+   "date": "2025-03-31T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2025-03-31T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "news",
+   "stage": "learning",
+   "topic": "Hybrid IT infrastructure ServiceFabric",
+   "search": "hybrid IT infrastructure bare metal cloud",
+   "why": "Educates prospects on hybrid infrastructure benefits while showcasing Digital Realty's ServiceFabric solution."
   },
   {
    "site": "Digital Realty",
@@ -5752,17 +6763,17 @@
   },
   {
    "site": "Digital Realty",
-   "url": "https://www.digitalrealty.com/resources/blog/private-ai-exchange",
-   "title": "We've Seen this Before... Introduction of a Private AI Exchange",
-   "date": "2024-04-24T00:00:00+00:00",
+   "url": "https://www.digitalrealty.com/resources/blog/network-infrastructure",
+   "title": "Modern Network Infrastructure: 3 Principles for Data and AI-Ready Architecture | Digital Realty",
+   "date": "2024-05-29T00:00:00+00:00",
    "kind": "unknown",
-   "published": "2024-04-24T00:00:00+00:00",
+   "published": "2024-05-29T00:00:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "opinion",
+   "type": "howto",
    "stage": "learning",
-   "topic": "Private AI Exchange infrastructure",
-   "search": "private AI exchange data centers",
-   "why": "Positions Digital Realty as thought leader in private AI infrastructure trends."
+   "topic": "Network infrastructure for AI workloads",
+   "search": "modern network infrastructure AI readiness",
+   "why": "Educates IT leaders on building infrastructure prepared for AI demands and latency challenges."
   },
   {
    "site": "Digital Realty",
@@ -5794,20 +6805,6 @@
   },
   {
    "site": "Digital Realty",
-   "url": "https://www.digitalrealty.com/resources/blog/it-modernization-opex-capex",
-   "title": "IT Modernization: CapEx, OpEx, Hybrid Cloud & Data centers",
-   "date": "2024-01-17T00:00:00+00:00",
-   "kind": "unknown",
-   "published": "2024-01-17T00:00:00+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "howto",
-   "stage": "learning",
-   "topic": "IT modernization CapEx OpEx hybrid cloud",
-   "search": "CapEx vs OpEx IT modernization hybrid cloud",
-   "why": "Educates prospects on infrastructure cost models and modernization approaches."
-  },
-  {
-   "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/advanced-cooling-innovation",
    "title": "A Legacy of Innovation: Ahead of the Curve on Advanced Cooling for AI & HPC",
    "date": "2023-12-18T00:00:00+00:00",
@@ -5819,6 +6816,20 @@
    "topic": "Advanced cooling for AI HPC infrastructure",
    "search": "advanced cooling AI HPC data centers",
    "why": "Establishes thought leadership on critical infrastructure innovation for AI workloads."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/how-enterprises-will-scale-ai-in-2024",
+   "title": "How Enterprises will Scale AI in 2024 | Digital Realty",
+   "date": "2023-11-14T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2023-11-14T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Enterprise AI scaling infrastructure 2024",
+   "search": "how to scale AI in enterprises 2024",
+   "why": "Positions Digital Realty as guide for AI infrastructure needs to enterprise decision-makers."
   },
   {
    "site": "Digital Realty",
@@ -5850,6 +6861,20 @@
   },
   {
    "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/5-macrotrends-data-gravity",
+   "title": "5 Macrotrends Amplifying Data Gravity | Digital Realty",
+   "date": "2023-08-23T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2023-08-23T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "research",
+   "stage": "learning",
+   "topic": "macrotrends data gravity",
+   "search": "data gravity macrotrends digital economy",
+   "why": "Establishes thought leadership on data economy trends influencing enterprise infrastructure strategy."
+  },
+  {
+   "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/blog/data-centers-in-the-age-of-ai",
    "title": "Are Data Centers Obsolete in the Age of AI? Not on our Watch",
    "date": "2023-07-14T00:00:00+00:00",
@@ -5864,31 +6889,31 @@
   },
   {
    "site": "Digital Realty",
-   "url": "https://www.digitalrealty.com/resources/blog/harness-ai-s-potential-and-navigate-disruption",
-   "title": "Harness AI’s Potential and Navigate Disruption with Digital Realty",
-   "date": "2023-07-08T00:00:00+00:00",
+   "url": "https://www.digitalrealty.com/resources/blog/when-to-migrate-workloads-in-a-hybrid--it-environment",
+   "title": "When to migrate workloads in a hybrid IT environment | Digital Realty",
+   "date": "2023-06-02T00:00:00+00:00",
    "kind": "unknown",
-   "published": "2023-07-08T00:00:00+00:00",
-   "first_seen": "2026-10-20T00:50:15+00:00",
-   "type": "opinion",
-   "stage": "learning",
-   "topic": "AI infrastructure and strategy",
-   "search": "AI infrastructure for enterprises",
-   "why": "Positions Digital Realty as thought leader on AI adoption and infrastructure needs."
-  },
-  {
-   "site": "Digital Realty",
-   "url": "https://www.digitalrealty.com/resources/blog/why-multi-tenant-data-centers-benefit-enterprises",
-   "title": "Benefits of Multi-Tenant Data Centers | Digital Realty",
-   "date": "2023-02-10T00:00:00+00:00",
-   "kind": "unknown",
-   "published": "2023-02-10T00:00:00+00:00",
+   "published": "2023-06-02T00:00:00+00:00",
    "first_seen": "2026-10-20T00:50:15+00:00",
    "type": "howto",
    "stage": "learning",
-   "topic": "multi-tenant data center benefits",
-   "search": "multi-tenant data centers enterprises",
-   "why": "Educates prospects researching data center solutions and architecture options."
+   "topic": "Migrating workloads hybrid IT environment",
+   "search": "when to migrate workloads hybrid IT",
+   "why": "Educates early-stage prospects on hybrid strategy fundamentals and data gravity principles."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/to-enhance-security-head-into-the-cloud",
+   "title": "How Cloud Security Helps You Build a Secure IT Infrastructure? | Digital Realty",
+   "date": "2023-02-21T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2023-02-21T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "cloud security hybrid IT infrastructure",
+   "search": "how to secure cloud data infrastructure",
+   "why": "Educates prospects on cloud security benefits to overcome adoption concerns and position hybrid IT solutions."
   },
   {
    "site": "Digital Realty",
@@ -5945,6 +6970,90 @@
    "topic": "Pennsylvania data centers colocation",
    "search": "Pennsylvania data centers colocation",
    "why": "Attracts mid-Atlantic businesses researching regional data center options with infrastructure details."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/five-steps-to-creating-a-multi-cloud-optimization-strategy",
+   "title": "Five Steps to Creating a Multi-Cloud Optimization Strategy | Digital Realty",
+   "date": "2019-05-30T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2019-05-30T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "howto",
+   "stage": "comparing",
+   "topic": "Multi-cloud optimization strategy",
+   "search": "how to optimize multi-cloud strategy",
+   "why": "Guides prospects evaluating multi-cloud architectures toward Digital Realty's management solutions."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/why-interconnectivity-is-crucial-in-financial-services",
+   "title": "Why Interconnectivity is Crucial in Financial Services | Digital Realty",
+   "date": "2019-04-04T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2019-04-04T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "Interconnectivity financial services infrastructure",
+   "search": "why interconnectivity matters financial services",
+   "why": "Educates prospects on interconnectivity needs before they consider colocation solutions."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/building-hyperscale-data-centers-in-emerging-markets",
+   "title": "Building Hyperscale Data Centers in Emerging Markets | Digital Realty",
+   "date": "2019-03-05T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2019-03-05T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "howto",
+   "stage": "learning",
+   "topic": "hyperscale data centers emerging markets",
+   "search": "building hyperscale data centers emerging markets",
+   "why": "Educates prospects on hybrid cloud and hyperscale infrastructure benefits early in buying journey."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/why-adopting-a-cloud-first-policy-is-the-right-move-for-the-australian-government",
+   "title": "Why adopting a ‘cloud first’ policy is the right move | Digital Realty",
+   "date": "2014-06-24T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2014-06-24T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "cloud first policy government",
+   "search": "cloud first policy government Australia",
+   "why": "Positions Digital Realty as cloud thought leader for public sector decision-makers."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/what-will-the-data-center-of-2025-look-like",
+   "title": "What Will the Data Center of 2025 Look Like? | Digital Realty",
+   "date": "2014-05-12T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2014-05-12T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Data center evolution and future trends",
+   "search": "data center 2025 trends predictions",
+   "why": "Positions Digital Realty as forward-thinking leader anticipating industry shifts."
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/blog/the-future-of-digital-media-cloud-gaming",
+   "title": "The Future of Digital Media: Cloud Gaming | Digital Realty",
+   "date": "2012-10-18T00:00:00+00:00",
+   "kind": "unknown",
+   "published": "2012-10-18T00:00:00+00:00",
+   "first_seen": "2026-10-20T00:50:15+00:00",
+   "type": "opinion",
+   "stage": "learning",
+   "topic": "Cloud gaming infrastructure and market",
+   "search": "future of cloud gaming technology",
+   "why": "Positions Digital Realty as infrastructure provider supporting emerging cloud gaming trend."
   }
  ],
  "history": [
@@ -6087,6 +7196,54 @@
     "Expedient": {
      "new": 2,
      "updated": 0,
+     "removed": 0,
+     "pages": 667
+    }
+   }
+  },
+  {
+   "week": "2026-W46",
+   "date": "2026-11-09T16:28:00+00:00",
+   "sites": {
+    "TierPoint": {
+     "new": 1,
+     "updated": 1,
+     "removed": 0,
+     "pages": 685
+    },
+    "Equinix": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Digital Realty": {
+     "new": 3,
+     "updated": 13,
+     "removed": 0,
+     "pages": 786
+    },
+    "Flexential": {
+     "new": 8,
+     "updated": 7,
+     "removed": 0,
+     "pages": 836
+    },
+    "Rackspace Technology": {
+     "new": 1,
+     "updated": 0,
+     "removed": 0,
+     "pages": 12247
+    },
+    "CoreSite": {
+     "new": 1,
+     "updated": 1,
+     "removed": 0,
+     "pages": 629
+    },
+    "Expedient": {
+     "new": 0,
+     "updated": 1,
      "removed": 0,
      "pages": 667
     }

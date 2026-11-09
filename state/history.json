@@ -143,6 +143,54 @@
      "pages": 667
     }
    }
+  },
+  {
+   "week": "2026-W46",
+   "date": "2026-11-09T16:28:00+00:00",
+   "sites": {
+    "TierPoint": {
+     "new": 1,
+     "updated": 1,
+     "removed": 0,
+     "pages": 685
+    },
+    "Equinix": {
+     "new": 0,
+     "updated": 0,
+     "removed": 0,
+     "pages": 0
+    },
+    "Digital Realty": {
+     "new": 3,
+     "updated": 13,
+     "removed": 0,
+     "pages": 786
+    },
+    "Flexential": {
+     "new": 8,
+     "updated": 7,
+     "removed": 0,
+     "pages": 836
+    },
+    "Rackspace Technology": {
+     "new": 1,
+     "updated": 0,
+     "removed": 0,
+     "pages": 12247
+    },
+    "CoreSite": {
+     "new": 1,
+     "updated": 1,
+     "removed": 0,
+     "pages": 629
+    },
+    "Expedient": {
+     "new": 0,
+     "updated": 1,
+     "removed": 0,
+     "pages": 667
+    }
+   }
   }
  ]
 }
