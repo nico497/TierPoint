@@ -3,7 +3,7 @@
   "title": "Bottom-of-funnel content tracker",
   "niche": "Data center colocation, hybrid IT infrastructure, cloud and managed services",
   "you": "TierPoint",
-  "generated": "2026-11-16T15:58:03+00:00",
+  "generated": "2026-11-23T18:28:05+00:00",
   "state_updated": "2026-10-20T00:50:15+00:00",
   "repo": "nico497/TierPoint"
  },
@@ -40,8 +40,8 @@
  "sites": [
   {
    "name": "TierPoint",
-   "tracked": 791,
-   "considered": 596,
+   "tracked": 792,
+   "considered": 597,
    "own_pricing": null,
    "hubs": []
   },
@@ -54,15 +54,15 @@
   },
   {
    "name": "Digital Realty",
-   "tracked": 1834,
-   "considered": 747,
+   "tracked": 1849,
+   "considered": 759,
    "own_pricing": null,
    "hubs": []
   },
   {
    "name": "Flexential",
-   "tracked": 842,
-   "considered": 841,
+   "tracked": 845,
+   "considered": 844,
    "own_pricing": null,
    "hubs": []
   },
@@ -75,8 +75,8 @@
   },
   {
    "name": "CoreSite",
-   "tracked": 764,
-   "considered": 629,
+   "tracked": 767,
+   "considered": 632,
    "own_pricing": null,
    "hubs": [
     "https://www.coresite.com/customer-stories"
@@ -111,7 +111,7 @@
  ],
  "excluded": {
   "webinars, glossary, events and category pages": 174,
-  "templated pages": 2782,
+  "templated pages": 2785,
   "translated pages": 7086
  },
  "pages": [
@@ -644,6 +644,13 @@
    "site": "Digital Realty",
    "url": "https://www.digitalrealty.com/resources/case-studies/ibm-cloud",
    "path": "/resources/case-studies/ibm-cloud",
+   "type": "case",
+   "targets": []
+  },
+  {
+   "site": "Digital Realty",
+   "url": "https://www.digitalrealty.com/resources/case-studies/imperial-college-london-case-study",
+   "path": "/resources/case-studies/imperial-college-london-case-study",
    "type": "case",
    "targets": []
   },
